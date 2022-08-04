@@ -1,0 +1,6 @@
+Spatial Data Repository
+The DHS Program
+https://spatialdata.dhsprogram.com/population-estimates/
+
+Population Estimates
+Data from the U.S. Census Bureau provides subnational 5-year age/sex group population estimates and projections for 2000-2020 for designated countries in the President's Emergency Plan for AIDS Relief (PEPFAR) program
