@@ -6,7 +6,6 @@ library(dplyr)
 library(readxl)
 library(stringr)
 library(tidyr)
-library("data.table")
 ################################################################################
 
 
@@ -236,4 +235,15 @@ View(victim_f %>%
 )
 
 
-#victim_f %>% filter(Age!="Age: Unknown") %>% filter(Sex!="Unknown") %>% filter(Sex!=) %>% group_by(Age, Sex) %>% summarize(n())
+victim_f %>% 
+  filter(Age!="Age: Unknown") %>% 
+  filter(Sex!="Unknown") %>% 
+  filter(Sex=="Male"|Sex=="Female") %>% 
+  group_by(Age, Sex) %>% 
+  summarize(n()) %>% 
+  ggplot(aes(x=))
+
+
+
+
+

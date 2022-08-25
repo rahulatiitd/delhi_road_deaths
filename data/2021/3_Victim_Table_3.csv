@@ -1,0 +1,16 @@
+Victim_ID,Crash_ID,Road_User,Age,Sex,Vehicle_ID,Injury_Category,Vehicle_Occupant_Type,Licence_Status,Victim_DUI_Status,Victim_SafetyEquip_Use,FirstAid_Administered,Mode_Of_Treatment,Days_inHospital,Most_Severe_Injury,Text44
+8566,3446,Unknown,,,5102,Unknown,Unknown,,,,,,0,,0
+8567,3446,Vehicle Driver,Age: 16 - 60 Years,Male,5103,Fatal Injury with Offsite Death,Driver,,,,Unknown,"Private Vehicle, DoA",0,,53
+8568,3447,Pedestrian,,Male,5104,Fatal Injury with Onsite Death,Not Applicable,,,,Unknown,"Unknown Vehicle, DoA",0,,0
+8569,3448,Vehicle Driver,Age: 16 - 60 Years,Male,5105,Fatal Injury with Onsite Death,Driver,,,,Unknown,"Unknown Vehicle, DoA",0,,30
+8570,3449,Vehicle Driver,Age: 16 - 60 Years,Male,5106,No Injury,Driver,,,,Not Applicable,No Treatement - No Major Injury,0,,37
+8571,3449,Vehicle Driver,,Male,5107,Fatal Injury with Onsite Death,Driver,,,,Unknown,"Unknown Vehicle, DoA",0,,0
+8572,3450,Unknown,,,5108,Unknown,Unknown,,,,,,0,,0
+8573,3450,Vehicle Passenger,Age: 16 - 60 Years,Female,5109,Fatal Injury with Onsite Death,Passenger / Pillion Rider,,,,Unknown,"Unknown Vehicle, DoA",0,,20
+8574,3451,Pedestrian,Age: 16 - 60 Years,Female,5110,Fatal Injury with Onsite Death,Not Applicable,,,,Unknown,"Unknown Vehicle, DoA",0,,53
+8575,3451,Pedestrian,,Male,5110,Non Fatal Injury without Permanent Damage,Not Applicable,,,,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+8576,3452,Unknown,,,5111,Unknown,Unknown,,,,,,0,,0
+8577,3452,Vehicle Driver,Age: 16 - 60 Years,Male,5112,Fatal Injury with Onsite Death,Driver,,,,Unknown,"Unknown Vehicle, DoA",0,,58
+8578,3453,Pedestrian,Age: 16 - 60 Years,Male,5113,Fatal Injury with Onsite Death,Not Applicable,,,,Unknown,"Unknown Vehicle, DoA",0,,48
+8579,3454,Unknown,,,5114,Unknown,Unknown,,,,,,0,,0
+8580,3454,Vehicle Passenger,,Female,5115,Fatal Injury with Onsite Death,Passenger / Pillion Rider,,,,Unknown,"Unknown Vehicle, DoA",0,,0

@@ -1,0 +1,958 @@
+Auto_Date,Auto_Time,Victim_ID,Crash_ID,Road_User,Age,Sex,Vehicle_ID,Injury_Category,Vehicle_Occupant_Type,Licence_Status,Victim_DUI_Status,Victim_SafetyEquip_Use,FirstAid_Administered,Mode_Of_Treatment,Days_inHospital,Most_Severe_Injury,Text44
+25-Aug-22,12:34 PM,3603,1461,Vehicle Driver,Age: Unknown,Male,2292,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3604,1461,Pedestrian,Age: Unknown,Male,2292,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3605,1462,Pedestrian,Age: 16 - 60 Years,Male,2293,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,57
+25-Aug-22,12:34 PM,3606,1463,Pedestrian,Age: Unknown,Unknown,2294,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3607,1464,Vehicle Driver,Age: 16 - 60 Years,Male,2295,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,24
+25-Aug-22,12:34 PM,3608,1465,Pedestrian,Age: 16 - 60 Years,Male,2296,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,29
+25-Aug-22,12:34 PM,3609,1466,Vehicle Driver,Age: 16 - 60 Years,Male,2297,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,23
+25-Aug-22,12:34 PM,3610,1466,Pedestrian,Age: 16 - 60 Years,Male,2297,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,30
+25-Aug-22,12:34 PM,3611,1467,Vehicle Driver,Age: 16 - 60 Years,Male,2298,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,55
+25-Aug-22,12:34 PM,3612,1467,Vehicle Passenger,Age: 16 - 60 Years,Female,2299,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+25-Aug-22,12:34 PM,3613,1467,Vehicle Passenger,Age: 0 - 15 Years,Male,2299,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,7
+25-Aug-22,12:34 PM,3614,1468,Vehicle Driver,Age: 16 - 60 Years,Male,2300,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Auto / Taxi, DoA",0,,30
+25-Aug-22,12:34 PM,3615,1468,Vehicle Passenger,Age: 16 - 60 Years,Male,2300,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,28
+25-Aug-22,12:34 PM,3616,1469,Pedestrian,Age: 16 - 60 Years,Male,2301,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,Alcohol,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,60
+25-Aug-22,12:34 PM,3617,1470,Vehicle Driver,Age: 16 - 60 Years,Male,2302,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,34
+25-Aug-22,12:34 PM,3618,1471,Pedestrian,Age: 16 - 60 Years,Female,2303,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,Others,0,,60
+25-Aug-22,12:34 PM,3620,1472,Pedestrian,Age: 60+,Female,2304,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,70
+25-Aug-22,12:34 PM,3621,1473,Others,Age: 16 - 60 Years,Male,2305,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,3622,1474,Vehicle Driver,Age: 16 - 60 Years,Male,2306,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,54
+25-Aug-22,12:34 PM,3623,1475,Pedestrian,Age: 16 - 60 Years,Male,2308,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,3624,1476,Vehicle Driver,Age: Unknown,Male,2309,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3625,1477,Pedestrian,Age: 16 - 60 Years,Male,2310,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,51
+25-Aug-22,12:34 PM,3626,1478,Vehicle Driver,Age: 16 - 60 Years,Male,2312,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,22
+25-Aug-22,12:34 PM,3627,1479,Pedestrian,Age: Unknown,Male,2313,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3628,1480,Pedestrian,Age: 16 - 60 Years,Male,2314,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,26
+25-Aug-22,12:34 PM,3629,1481,Vehicle Driver,Age: Unknown,Female,2315,No Injury,Driver,Valid Driver Licence,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3630,1481,Pedestrian,Age: Unknown,Male,2315,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3631,1482,Vehicle Driver,Age: Unknown,Male,2317,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3632,1483,Pedestrian,Age: 16 - 60 Years,Male,2319,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,17
+25-Aug-22,12:34 PM,3633,1484,Pedestrian,Age: 16 - 60 Years,Male,2320,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,3634,1484,Vehicle Driver,Age: 16 - 60 Years,Male,2320,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
+25-Aug-22,12:34 PM,3635,1485,Vehicle Driver,Age: 16 - 60 Years,Male,2321,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,22
+25-Aug-22,12:34 PM,3636,1485,Vehicle Driver,Age: 16 - 60 Years,Male,2322,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,3637,1486,Vehicle Driver,Age: 16 - 60 Years,Male,2323,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, DoA",0,,50
+25-Aug-22,12:34 PM,3638,1487,Vehicle Driver,Age: Unknown,Male,2324,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3639,1488,,,,2325,,,,,,,,0,,0
+25-Aug-22,12:34 PM,3640,1488,Disembarked Vehicle Occupant,Age: 16 - 60 Years,Male,2325,Fatal Injury with Onsite Death,Disembarked Vehicle Occupant,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,3641,1488,Disembarked Vehicle Occupant,Age: 16 - 60 Years,Male,2325,Fatal Injury with Onsite Death,Disembarked Vehicle Occupant,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,25
+25-Aug-22,12:34 PM,3642,1489,Vehicle Driver,Age: 16 - 60 Years,Male,2327,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,28
+25-Aug-22,12:34 PM,3643,1490,Pedestrian,Age: 16 - 60 Years,Male,2328,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,55
+25-Aug-22,12:34 PM,3644,1491,Vehicle Driver,Age: 16 - 60 Years,Male,2329,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+25-Aug-22,12:34 PM,3645,1491,Vehicle Driver,Age: 16 - 60 Years,Male,2329,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,21
+25-Aug-22,12:34 PM,3646,1492,Pedestrian,Age: Unknown,Male,2330,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3647,1493,Pedestrian,Age: 16 - 60 Years,Male,2331,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,24
+25-Aug-22,12:34 PM,3648,1494,Vehicle Driver,Age: 16 - 60 Years,Male,2332,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,32
+25-Aug-22,12:34 PM,3649,1495,Vehicle Driver,Age: 16 - 60 Years,Male,2333,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,29
+25-Aug-22,12:34 PM,3650,1495,Pedestrian,Age: 0 - 15 Years,Female,2333,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,4
+25-Aug-22,12:34 PM,3651,1496,Pedestrian,Age: Unknown,Male,2334,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3652,1497,Pedestrian,Age: Unknown,Male,2335,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,0
+25-Aug-22,12:34 PM,3653,1498,Unknown,Age: 16 - 60 Years,Male,2336,Non Fatal Injury without Permanent Damage,Unknown,,,,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,21
+25-Aug-22,12:34 PM,3654,1498,Unknown,Age: 16 - 60 Years,Male,2336,Fatal Injury with Onsite Death,Unknown,,,,Not Applicable,"Ambulance Evacution, DoA",0,,40
+25-Aug-22,12:34 PM,3655,1499,Pedestrian,Age: Unknown,Male,2339,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3656,1499,Pedestrian,Age: Unknown,Male,2339,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3657,1500,Vehicle Driver,Age: 16 - 60 Years,Male,2340,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,28
+25-Aug-22,12:34 PM,3658,1500,Vehicle Passenger,Age: 16 - 60 Years,Male,2340,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,20
+25-Aug-22,12:34 PM,3659,1500,Vehicle Passenger,Age: Unknown,Male,2340,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3660,1500,Unknown,Age: 16 - 60 Years,Male,2340,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,21
+25-Aug-22,12:34 PM,3661,1500,Unknown,Age: Unknown,Male,2340,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,0
+25-Aug-22,12:34 PM,3662,1501,Vehicle Driver,Age: Unknown,Male,2341,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3663,1501,Pedestrian,Age: 60+,Male,2341,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,73
+25-Aug-22,12:34 PM,3664,1502,Vehicle Driver,Age: 16 - 60 Years,Male,2343,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,3665,1503,Pedestrian,Age: 16 - 60 Years,Male,2344,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,60
+25-Aug-22,12:34 PM,3666,1504,Pedestrian,Age: 16 - 60 Years,Male,2345,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
+25-Aug-22,12:34 PM,3667,1505,Vehicle Driver,Age: 16 - 60 Years,Male,2346,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,Unknown,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,55
+25-Aug-22,12:34 PM,3668,1506,Pedestrian,Age: 60+,Male,2347,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,65
+25-Aug-22,12:34 PM,3669,1507,Vehicle Driver,Age: 60+,Male,2349,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,65
+25-Aug-22,12:34 PM,3670,1508,Vehicle Driver,Age: 60+,Male,2350,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,64
+25-Aug-22,12:34 PM,3671,1509,Vehicle Driver,Age: 16 - 60 Years,Male,2351,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,36
+25-Aug-22,12:34 PM,3672,1510,Pedestrian,Age: Unknown,Male,2352,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,0
+25-Aug-22,12:34 PM,3673,1511,Pedestrian,Age: 60+,Male,2353,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,75
+25-Aug-22,12:34 PM,3674,1512,Pedestrian,Age: 16 - 60 Years,Male,2354,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,42
+25-Aug-22,12:34 PM,3675,1513,Pedestrian,Age: 16 - 60 Years,Male,2355,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,3676,1514,Pedestrian,Age: 16 - 60 Years,Female,2356,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,3677,1515,Vehicle Driver,Age: 16 - 60 Years,Female,2357,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,55
+25-Aug-22,12:34 PM,3678,1515,Vehicle Passenger,Age: 16 - 60 Years,Male,2358,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,58
+25-Aug-22,12:34 PM,3679,1516,Vehicle Driver,Age: 16 - 60 Years,Male,2359,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,34
+25-Aug-22,12:34 PM,3680,1517,Pedestrian,Age: 16 - 60 Years,Male,2360,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+25-Aug-22,12:34 PM,3681,1518,Vehicle Driver,Age: 16 - 60 Years,Male,2361,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,3682,1519,Pedestrian,Age: 16 - 60 Years,Male,2362,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,30
+25-Aug-22,12:34 PM,3683,1520,Vehicle Driver,Age: Unknown,Male,2363,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3684,1521,Pedestrian,Age: 60+,Male,2364,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, Treated at Trauma Centre",0,,76
+25-Aug-22,12:34 PM,3685,1522,Vehicle Driver,Age: 16 - 60 Years,Male,2366,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Private Vehicle, DoA",0,,32
+25-Aug-22,12:34 PM,3686,1523,Vehicle Driver,Age: 16 - 60 Years,Male,2367,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,3687,1524,Vehicle Driver,Age: Unknown,Male,2368,Others,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3688,1524,Vehicle Driver,Age: 16 - 60 Years,Male,2369,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Unknown,Not Applicable,No Treatement - Death on Spot,0,,35
+25-Aug-22,12:34 PM,3689,1525,Vehicle Driver,Age: 16 - 60 Years,Male,2370,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,3690,1526,Pedestrian,Age: 16 - 60 Years,Unknown,2371,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,45
+25-Aug-22,12:34 PM,3691,1527,Pedestrian,Age: 60+,Male,2372,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,72
+25-Aug-22,12:34 PM,3692,1528,Vehicle Driver,Age: 16 - 60 Years,Female,2373,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,28
+25-Aug-22,12:34 PM,3693,1528,Pedestrian,Age: 16 - 60 Years,Male,2373,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,3694,1529,Vehicle Driver,Age: 16 - 60 Years,Male,2374,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,No Treatement - Death on Spot,0,,35
+25-Aug-22,12:34 PM,3695,1530,Pedestrian,Age: 0 - 15 Years,Male,2375,Fatal Injury with Offsite Death,Not Applicable,Not eligible for license,,Not Applicable,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,7
+25-Aug-22,12:34 PM,3696,1531,Vehicle Driver,Age: 16 - 60 Years,Male,2376,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,28
+25-Aug-22,12:34 PM,3697,1531,Vehicle Passenger,Age: 16 - 60 Years,Male,2376,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,20
+25-Aug-22,12:34 PM,3698,1532,Vehicle Driver,Age: 16 - 60 Years,Male,2377,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,47
+25-Aug-22,12:34 PM,3699,1533,Vehicle Driver,Age: Unknown,Unknown,2379,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3700,1534,Pedestrian,Age: 16 - 60 Years,Male,2380,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,46
+25-Aug-22,12:34 PM,3701,1535,Vehicle Driver,Age: 16 - 60 Years,Male,2381,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,35
+25-Aug-22,12:34 PM,3702,1536,Vehicle Driver,Age: 16 - 60 Years,Male,2382,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,60
+25-Aug-22,12:34 PM,3703,1537,Vehicle Driver,Age: 16 - 60 Years,Male,2384,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,22
+25-Aug-22,12:34 PM,3704,1537,Vehicle Driver,Age: 16 - 60 Years,Male,2384,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,22
+25-Aug-22,12:34 PM,3705,1538,Vehicle Driver,Age: 16 - 60 Years,Male,2385,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,27
+25-Aug-22,12:34 PM,3706,1539,Pedestrian,Age: 60+,Male,2386,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, DoA",0,,65
+25-Aug-22,12:34 PM,3707,1540,Vehicle Driver,Age: 16 - 60 Years,Male,2387,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,52
+25-Aug-22,12:34 PM,3708,1541,Pedestrian,Age: 0 - 15 Years,Female,2388,Fatal Injury with Offsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,4
+25-Aug-22,12:34 PM,3709,1542,Vehicle Driver,Age: 16 - 60 Years,Male,2389,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,24
+25-Aug-22,12:34 PM,3710,1543,Vehicle Driver,Age: 16 - 60 Years,Male,2391,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,44
+25-Aug-22,12:34 PM,3711,1544,Pedestrian,Age: 16 - 60 Years,Female,2392,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
+25-Aug-22,12:34 PM,3712,1545,Pedestrian,Age: Unknown,Male,2393,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3713,1546,Vehicle Driver,Age: 16 - 60 Years,Male,2394,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,26
+25-Aug-22,12:34 PM,3714,1547,Disembarked Vehicle Occupant,Age: 16 - 60 Years,Male,2395,Fatal Injury with Offsite Death,Disembarked Vehicle Occupant,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",,,30
+25-Aug-22,12:34 PM,3715,1548,Vehicle Driver,Age: 16 - 60 Years,Male,2396,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,26
+25-Aug-22,12:34 PM,3716,1549,Vehicle Driver,Age: 16 - 60 Years,Male,2397,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,49
+25-Aug-22,12:34 PM,3717,1550,Pedestrian,Age: 16 - 60 Years,Male,2398,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,49
+25-Aug-22,12:34 PM,3718,1551,Vehicle Driver,Age: 16 - 60 Years,Male,2399,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, DoA",0,,20
+25-Aug-22,12:34 PM,3719,1552,Vehicle Driver,Age: 16 - 60 Years,Male,2401,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,38
+25-Aug-22,12:34 PM,3720,1553,Pedestrian,Age: 16 - 60 Years,Male,2402,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,36
+25-Aug-22,12:34 PM,3721,1554,Pedestrian,Age: 16 - 60 Years,Male,2403,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,3722,1555,Vehicle Driver,Age: Unknown,Male,2404,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3723,1555,Vehicle Driver,Age: 16 - 60 Years,Male,2405,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,38
+25-Aug-22,12:34 PM,3724,1556,Vehicle Driver,Age: 16 - 60 Years,Male,2406,Fatal Injury with Offsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,60
+25-Aug-22,12:34 PM,3725,1557,Pedestrian,Age: 60+,Male,2407,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,80
+25-Aug-22,12:34 PM,3726,1558,Vehicle Driver,Age: Unknown,Male,2408,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3727,1558,Vehicle Driver,Age: 16 - 60 Years,Male,2408,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,60
+25-Aug-22,12:34 PM,3728,1559,Unknown,Age: 16 - 60 Years,Male,2409,Fatal Injury with Offsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,3729,1559,Unknown,Age: 16 - 60 Years,Male,2409,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,26
+25-Aug-22,12:34 PM,3730,1559,Vehicle Driver,Age: Unknown,Male,2411,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3731,1560,Vehicle Driver,Age: 16 - 60 Years,Male,2411,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,51
+25-Aug-22,12:34 PM,3732,1561,Vehicle Driver,Age: Unknown,Male,2412,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3733,1561,Pedestrian,Age: Unknown,Male,2412,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3734,1562,Vehicle Driver,Age: 16 - 60 Years,Male,2413,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,24
+25-Aug-22,12:34 PM,3735,1563,Vehicle Driver,Age: Unknown,Male,2415,Fatal Injury with Onsite Death,Driver,Valid Driver Licence,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3736,1564,Pedestrian,Age: 16 - 60 Years,Male,2416,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,3737,1565,Pedestrian,Age: 16 - 60 Years,Male,2417,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,3738,1566,Pedestrian,Age: 16 - 60 Years,Male,2418,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,3739,1567,Pedestrian,Age: 16 - 60 Years,Male,2419,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,38
+25-Aug-22,12:34 PM,3740,1568,Vehicle Driver,Age: Unknown,Male,2420,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3741,1568,Vehicle Driver,Age: 16 - 60 Years,Male,2421,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,3742,1568,Vehicle Passenger,Age: 16 - 60 Years,Female,2421,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,3743,1568,Vehicle Passenger,Age: 16 - 60 Years,Female,2421,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,26
+25-Aug-22,12:34 PM,3744,1568,Vehicle Passenger,Age: 16 - 60 Years,Female,2421,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,24
+25-Aug-22,12:34 PM,3745,1569,Pedestrian,Age: 16 - 60 Years,Male,2423,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,3746,1570,Vehicle Driver,Age: 16 - 60 Years,Male,2424,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,22
+25-Aug-22,12:34 PM,3747,1571,Vehicle Driver,Age: 16 - 60 Years,Male,2425,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,3748,1572,Pedestrian,Age: 16 - 60 Years,Male,2426,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,45
+25-Aug-22,12:34 PM,3749,1573,Pedestrian,Age: 16 - 60 Years,Female,2427,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,58
+25-Aug-22,12:34 PM,3750,1574,Pedestrian,Age: 60+,Unknown,2428,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,65
+25-Aug-22,12:34 PM,3751,1575,Vehicle Driver,Age: Unknown,Male,2429,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3752,1575,Vehicle Passenger,Age: 16 - 60 Years,Female,2429,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,3753,1576,Pedestrian,Age: 16 - 60 Years,Unknown,2430,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,3754,1577,Unknown,Age: 16 - 60 Years,Male,2431,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,22
+25-Aug-22,12:34 PM,3755,1577,Unknown,Age: 16 - 60 Years,Male,2431,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,20
+25-Aug-22,12:34 PM,3756,1578,Vehicle Driver,Age: 16 - 60 Years,Male,2432,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,21
+25-Aug-22,12:34 PM,3757,1579,Vehicle Passenger,Age: 16 - 60 Years,Male,2434,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,50
+25-Aug-22,12:34 PM,3758,1579,Vehicle Driver,Age: 16 - 60 Years,Male,2434,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,28
+25-Aug-22,12:34 PM,3759,1580,Pedestrian,Age: Unknown,Unknown,2435,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3760,1581,Vehicle Driver,Age: Unknown,Male,2436,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3761,1581,Vehicle Driver,Age: 16 - 60 Years,Male,2436,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,30
+25-Aug-22,12:34 PM,3762,1582,Pedestrian,Age: 16 - 60 Years,Male,2437,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,55
+25-Aug-22,12:34 PM,3763,1583,Vehicle Driver,Age: Unknown,Male,2438,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3764,1583,Pedestrian,Age: 16 - 60 Years,Male,2438,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,60
+25-Aug-22,12:34 PM,3765,1584,Pedestrian,Age: 16 - 60 Years,Male,2439,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,45
+25-Aug-22,12:34 PM,3766,1585,Pedestrian,Age: 16 - 60 Years,Male,2440,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,21
+25-Aug-22,12:34 PM,3767,1586,Pedestrian,Age: 16 - 60 Years,Female,2441,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,55
+25-Aug-22,12:34 PM,3768,1587,Vehicle Driver,Age: Unknown,Unknown,2442,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3769,1588,Pedestrian,Age: Unknown,Female,2443,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3770,1589,Vehicle Driver,Age: 16 - 60 Years,Male,2444,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,3771,1590,Vehicle Driver,Age: Unknown,Male,2445,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3772,1590,Vehicle Passenger,Age: 16 - 60 Years,Male,2446,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,28
+25-Aug-22,12:34 PM,3773,1590,Vehicle Driver,Age: Unknown,Male,2446,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3774,1591,Vehicle Driver,Age: Unknown,Male,2447,Fatal Injury with Offsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3775,1592,Vehicle Driver,Age: 16 - 60 Years,Male,2448,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,47
+25-Aug-22,12:34 PM,3776,1593,Vehicle Driver,Age: 16 - 60 Years,Male,2449,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,3777,1594,Vehicle Driver,Age: 16 - 60 Years,Male,2450,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,37
+25-Aug-22,12:34 PM,3778,1595,Vehicle Driver,Age: 16 - 60 Years,Male,2452,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Alcohol,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,40
+25-Aug-22,12:34 PM,3779,1596,Vehicle Driver,Age: Unknown,Male,2454,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3780,1597,Vehicle Driver,Age: 16 - 60 Years,Female,2455,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,55
+25-Aug-22,12:34 PM,3781,1598,Vehicle Driver,Age: Unknown,Male,2456,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3782,1598,Vehicle Driver,Age: 16 - 60 Years,Male,2457,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,40
+25-Aug-22,12:34 PM,3783,1599,Others,Age: 16 - 60 Years,Male,2458,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,45
+25-Aug-22,12:34 PM,3784,1600,Pedestrian,Age: Unknown,Female,2459,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3785,1601,Pedestrian,Age: 16 - 60 Years,Male,2460,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,25
+25-Aug-22,12:34 PM,3786,1602,Vehicle Driver,Age: Unknown,Male,2461,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3787,1602,Vehicle Driver,Age: 16 - 60 Years,Male,2462,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,27
+25-Aug-22,12:34 PM,3788,1602,Vehicle Passenger,Age: 16 - 60 Years,Male,2462,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,23
+25-Aug-22,12:34 PM,3789,1603,Pedestrian,Age: 16 - 60 Years,Male,2463,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,42
+25-Aug-22,12:34 PM,3790,1604,Vehicle Driver,Age: Unknown,Male,2464,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3791,1603,Vehicle Passenger,Age: 16 - 60 Years,Male,2464,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,24
+25-Aug-22,12:34 PM,3792,1605,Vehicle Driver,Age: 16 - 60 Years,Male,2466,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+25-Aug-22,12:34 PM,3793,1606,Vehicle Driver,Age: 16 - 60 Years,Male,2467,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,24
+25-Aug-22,12:34 PM,3794,1606,Vehicle Passenger,Age: 60+,Female,2467,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,78
+25-Aug-22,12:34 PM,3795,1606,Vehicle Passenger,Age: 16 - 60 Years,Female,2467,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,57
+25-Aug-22,12:34 PM,3796,1607,Pedestrian,Age: 60+,Male,2468,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,66
+25-Aug-22,12:34 PM,3797,1607,Vehicle Driver,Age: Unknown,Male,2468,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3798,1608,Pedestrian,Age: 16 - 60 Years,Male,2469,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,50
+25-Aug-22,12:34 PM,3799,1609,Vehicle Driver,Age: Unknown,Male,2470,Unknown,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,Unknown,0,,0
+25-Aug-22,12:34 PM,3800,1609,Vehicle Driver,Age: 16 - 60 Years,Male,2471,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,38
+25-Aug-22,12:34 PM,3801,1609,Vehicle Passenger,Age: 16 - 60 Years,Female,2471,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, DoA",0,,34
+25-Aug-22,12:34 PM,3802,1610,Pedestrian,Age: Unknown,Male,2472,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3803,1611,Vehicle Driver,Age: 16 - 60 Years,Male,2473,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,55
+25-Aug-22,12:34 PM,3804,1612,Vehicle Driver,Age: 16 - 60 Years,Male,2474,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,3805,1613,Unknown,Age: 16 - 60 Years,Male,2475,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,25
+25-Aug-22,12:34 PM,3806,1613,Unknown,Age: 16 - 60 Years,Male,2475,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,22
+25-Aug-22,12:34 PM,3807,1614,Pedestrian,Age: 16 - 60 Years,Male,2476,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,30
+25-Aug-22,12:34 PM,3808,1615,Vehicle Driver,Age: Unknown,Male,2478,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3809,1616,Vehicle Passenger,Age: 60+,Female,2479,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,65
+25-Aug-22,12:34 PM,3810,1616,Vehicle Driver,Age: 16 - 60 Years,Male,2479,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,24
+25-Aug-22,12:34 PM,3811,1616,Vehicle Passenger,Age: 16 - 60 Years,Male,2479,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,23
+25-Aug-22,12:34 PM,3812,1616,Vehicle Driver,Age: 16 - 60 Years,Male,2480,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,48
+25-Aug-22,12:34 PM,3813,1617,Pedestrian,Age: 16 - 60 Years,Female,2485,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,3814,1617,Pedestrian,Age: Unknown,Male,2485,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3815,1617,Pedestrian,Age: 0 - 15 Years,Female,2485,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,12
+25-Aug-22,12:34 PM,3816,1618,Pedestrian,Age: 16 - 60 Years,Male,2486,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,32
+25-Aug-22,12:34 PM,3817,1619,Vehicle Driver,Age: 16 - 60 Years,Male,2487,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,46
+25-Aug-22,12:34 PM,3818,1619,Pedestrian,Age: Unknown,Male,2487,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3819,1620,Vehicle Driver,Age: 16 - 60 Years,Male,2488,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,3820,1621,Vehicle Driver,Age: 16 - 60 Years,Male,2489,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Alcohol,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,26
+25-Aug-22,12:34 PM,3821,1622,Pedestrian,Age: 16 - 60 Years,Male,2490,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,50
+25-Aug-22,12:34 PM,3822,1623,Pedestrian,Age: 16 - 60 Years,Male,2491,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,25
+25-Aug-22,12:34 PM,3823,1624,Vehicle Driver,Age: 16 - 60 Years,Male,2492,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+25-Aug-22,12:34 PM,3824,1625,Pedestrian,Age: 16 - 60 Years,Male,2493,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,42
+25-Aug-22,12:34 PM,3825,1626,Vehicle Driver,Age: 16 - 60 Years,Male,2494,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,25
+25-Aug-22,12:34 PM,3826,1626,Pedestrian,Age: 16 - 60 Years,Male,2494,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,36
+25-Aug-22,12:34 PM,3827,1627,Vehicle Driver,Age: 16 - 60 Years,Male,2495,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,3828,1628,Vehicle Driver,Age: 16 - 60 Years,Male,2496,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,18
+25-Aug-22,12:34 PM,3829,1628,Vehicle Passenger,Age: 16 - 60 Years,Male,2496,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,18
+25-Aug-22,12:34 PM,3830,1629,Vehicle Driver,Age: 16 - 60 Years,Male,2497,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,22
+25-Aug-22,12:34 PM,3831,1629,Vehicle Driver,Age: 16 - 60 Years,Male,2497,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Auto / Taxi, DoA",0,,28
+25-Aug-22,12:34 PM,3832,1630,Vehicle Driver,Age: Unknown,Male,2498,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3833,1631,Pedestrian,Age: 0 - 15 Years,Female,2499,Fatal Injury with Offsite Death,Not Applicable,Not eligible for license,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,3
+25-Aug-22,12:34 PM,3834,1632,Vehicle Driver,Age: 16 - 60 Years,Male,2500,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,23
+25-Aug-22,12:34 PM,3835,1632,Pedestrian,Age: 0 - 15 Years,Female,2500,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,3
+25-Aug-22,12:34 PM,3836,1633,Vehicle Driver,Age: Unknown,Male,2501,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3837,1633,Vehicle Driver,Age: Unknown,Male,2502,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3838,1634,Vehicle Driver,Age: 16 - 60 Years,Male,2503,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,25
+25-Aug-22,12:34 PM,3839,1635,Pedestrian,Age: Unknown,Male,2504,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Alcohol,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3840,1636,Vehicle Driver,Age: 16 - 60 Years,Male,2506,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,29
+25-Aug-22,12:34 PM,3841,1636,Pedestrian,Age: 60+,Male,2506,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Unknown,Not Applicable,"Unknown Vehicle, Treated at Trauma Centre",0,,65
+25-Aug-22,12:34 PM,3842,1637,Vehicle Driver,Age: Unknown,Male,2507,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3843,1637,Vehicle Driver,Age: Unknown,Male,2508,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3844,1638,Pedestrian,Age: Unknown,Female,2510,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3845,1639,Pedestrian,Age: 16 - 60 Years,Male,2511,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,32
+25-Aug-22,12:34 PM,3846,1640,Vehicle Driver,Age: Unknown,Male,2512,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3847,1640,Pedestrian,Age: 0 - 15 Years,Male,2512,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,1
+25-Aug-22,12:34 PM,3848,1641,Unknown,Age: 16 - 60 Years,Male,2513,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,20
+25-Aug-22,12:34 PM,3849,1641,Unknown,Age: Unknown,Male,2513,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3850,1642,Vehicle Driver,Age: 16 - 60 Years,Male,2514,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Helmet Used,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,19
+25-Aug-22,12:34 PM,3851,1643,Vehicle Driver,Age: 16 - 60 Years,Male,2515,Fatal Injury with Offsite Death,Driver,Not eligible for license,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,17
+25-Aug-22,12:34 PM,3852,1644,Vehicle Driver,Age: 16 - 60 Years,Male,2516,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,19
+25-Aug-22,12:34 PM,3853,1644,Vehicle Passenger,Age: 16 - 60 Years,Male,2516,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,3854,1645,Vehicle Driver,Age: 16 - 60 Years,Male,2517,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
+25-Aug-22,12:34 PM,3855,1646,Vehicle Driver,Age: 16 - 60 Years,Male,2518,Fatal Injury with Onsite Death,Driver,Valid Driver Licence,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,23
+25-Aug-22,12:34 PM,3856,1647,Pedestrian,Age: 60+,Female,2519,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,65
+25-Aug-22,12:34 PM,3857,1648,Vehicle Driver,Age: 0 - 15 Years,Male,2520,Fatal Injury with Onsite Death,Driver,Not eligible for license,,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,15
+25-Aug-22,12:34 PM,3858,1649,Pedestrian,Age: 60+,Male,2521,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,70
+25-Aug-22,12:34 PM,3859,1650,Vehicle Driver,Age: 16 - 60 Years,Male,2523,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,22
+25-Aug-22,12:34 PM,3860,1651,Pedestrian,Age: Unknown,Male,2524,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3861,1651,Pedestrian,Age: Unknown,Female,2524,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3862,1652,Pedestrian,Age: Unknown,Female,2525,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3865,1654,Pedestrian,Age: Unknown,Male,2528,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3866,1655,Pedestrian,Age: 16 - 60 Years,Male,2529,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,3867,1656,Pedestrian,Age: 16 - 60 Years,Male,2530,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,3868,1657,Pedestrian,Age: 16 - 60 Years,Male,2531,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,46
+25-Aug-22,12:34 PM,3869,1658,Vehicle Driver,Age: 16 - 60 Years,Male,2533,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,24
+25-Aug-22,12:34 PM,3870,1658,Vehicle Passenger,Age: 16 - 60 Years,Male,2533,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,25
+25-Aug-22,12:34 PM,3871,1659,Vehicle Driver,Age: 16 - 60 Years,Male,2534,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,53
+25-Aug-22,12:34 PM,3872,1659,Vehicle Driver,Age: Unknown,Male,2535,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3873,1660,Vehicle Driver,Age: 16 - 60 Years,Male,2536,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,19
+25-Aug-22,12:34 PM,3874,1661,Vehicle Driver,Age: 60+,Male,2537,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,62
+25-Aug-22,12:34 PM,3875,1662,Vehicle Driver,Age: Unknown,Male,2538,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3876,1662,Vehicle Driver,Age: Unknown,Female,2539,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,3877,1663,Pedestrian,Age: 16 - 60 Years,Male,2540,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,48
+25-Aug-22,12:34 PM,3878,1664,Vehicle Passenger,Age: Unknown,Male,2541,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,0
+25-Aug-22,12:34 PM,3879,1665,Pedestrian,Age: 16 - 60 Years,Female,2543,Fatal Injury with Offsite Death,Not Applicable,,,,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,17
+25-Aug-22,12:34 PM,3880,1666,Vehicle Driver,Age: 16 - 60 Years,Male,2544,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,35
+25-Aug-22,12:34 PM,3881,1667,Vehicle Driver,Age: 16 - 60 Years,Male,2545,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,45
+25-Aug-22,12:34 PM,3882,1668,Vehicle Driver,Age: Unknown,Male,2546,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3883,1669,Vehicle Driver,Age: 16 - 60 Years,Male,2547,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+25-Aug-22,12:34 PM,3884,1670,Vehicle Driver,Age: 16 - 60 Years,Male,2548,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,35
+25-Aug-22,12:34 PM,3885,1671,Pedestrian,Age: 16 - 60 Years,Male,2549,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,30
+25-Aug-22,12:34 PM,3886,1672,Pedestrian,Age: 16 - 60 Years,Male,2550,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,60
+25-Aug-22,12:34 PM,3887,1673,Vehicle Driver,Age: 16 - 60 Years,Male,2552,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,3888,1674,Unknown,Age: 16 - 60 Years,Male,2553,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,28
+25-Aug-22,12:34 PM,3889,1674,Unknown,Age: 16 - 60 Years,Male,2553,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,19
+25-Aug-22,12:34 PM,3890,1675,Vehicle Driver,Age: 16 - 60 Years,Male,2554,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,36
+25-Aug-22,12:34 PM,3891,1675,Vehicle Driver,Age: 16 - 60 Years,Male,2555,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,42
+25-Aug-22,12:34 PM,3892,1676,Pedestrian,Age: 16 - 60 Years,Male,2556,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+25-Aug-22,12:34 PM,3893,1677,Pedestrian,Age: 16 - 60 Years,Female,2557,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,3894,1678,Vehicle Driver,Age: 16 - 60 Years,Male,2559,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,35
+25-Aug-22,12:34 PM,3895,1679,Pedestrian,Age: 60+,Male,2560,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,72
+25-Aug-22,12:34 PM,3896,1680,Pedestrian,Age: 16 - 60 Years,Male,2561,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,3897,1681,Vehicle Driver,Age: 16 - 60 Years,Female,2562,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,46
+25-Aug-22,12:34 PM,3898,1682,Vehicle Driver,Age: 16 - 60 Years,Male,2563,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,30
+25-Aug-22,12:34 PM,3899,1682,Vehicle Passenger,Age: 0 - 15 Years,Male,2564,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Private Vehicle, DoA",0,,1
+25-Aug-22,12:34 PM,3900,1683,Vehicle Driver,Age: 16 - 60 Years,Male,2566,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,24
+25-Aug-22,12:34 PM,3901,1684,Pedestrian,Age: 16 - 60 Years,Male,2567,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,23
+25-Aug-22,12:34 PM,3902,1685,Pedestrian,Age: Unknown,Male,2568,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3903,1686,Vehicle Driver,Age: 16 - 60 Years,Male,2569,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,46
+25-Aug-22,12:34 PM,3904,1686,Pedestrian,Age: 0 - 15 Years,Male,2569,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,3
+25-Aug-22,12:34 PM,3905,1686,Vehicle Passenger,Age: 0 - 15 Years,Male,2569,Non Fatal Injury without Permanent Damage,Not Applicable,Not eligible for license,,Not Applicable,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,2
+25-Aug-22,12:34 PM,3906,1687,Vehicle Driver,Age: 16 - 60 Years,Male,2571,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,57
+25-Aug-22,12:34 PM,3907,1688,Pedestrian,Age: 16 - 60 Years,Male,2572,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,58
+25-Aug-22,12:34 PM,3908,1689,Pedestrian,Age: 60+,Female,2573,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,70
+25-Aug-22,12:34 PM,3909,1690,Vehicle Driver,Age: 16 - 60 Years,Male,2574,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,25
+25-Aug-22,12:34 PM,3910,1691,Vehicle Driver,Age: 16 - 60 Years,Male,2575,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,23
+25-Aug-22,12:34 PM,3911,1692,Vehicle Driver,Age: Unknown,Male,2576,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3912,1693,Vehicle Driver,Age: Unknown,Male,2578,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3913,1694,Vehicle Driver,Age: 16 - 60 Years,Male,2579,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,28
+25-Aug-22,12:34 PM,3914,1695,Vehicle Driver,Age: Unknown,Male,2580,Unknown,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,Unknown,0,,0
+25-Aug-22,12:34 PM,3915,1695,Vehicle Passenger,Age: Unknown,Female,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3916,1695,Vehicle Passenger,Age: Unknown,Female,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3917,1695,Vehicle Passenger,Age: Unknown,Female,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3918,1695,Vehicle Passenger,Age: Unknown,Female,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3919,1695,Vehicle Passenger,Age: Unknown,Female,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3920,1695,Vehicle Passenger,Age: Unknown,Female,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3921,1695,Vehicle Passenger,Age: Unknown,Male,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3922,1695,Vehicle Passenger,Age: Unknown,Male,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3923,1695,Vehicle Passenger,Age: Unknown,Male,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3924,1695,Vehicle Passenger,Age: Unknown,Male,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3925,1695,Vehicle Passenger,Age: Unknown,Male,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3926,1695,Vehicle Passenger,Age: Unknown,Male,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3927,1695,Vehicle Passenger,Age: Unknown,Female,2581,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3928,1695,Vehicle Passenger,Age: Unknown,Male,2581,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3929,1696,Vehicle Driver,Age: 16 - 60 Years,Male,2582,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,35
+25-Aug-22,12:34 PM,3930,1697,Unknown,Age: 16 - 60 Years,Male,2583,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,21
+25-Aug-22,12:34 PM,3931,1697,Unknown,Age: Unknown,Male,2583,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,21
+25-Aug-22,12:34 PM,3932,1697,Unknown,Age: 16 - 60 Years,Male,2583,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,45
+25-Aug-22,12:34 PM,3933,1698,Vehicle Driver,Age: 16 - 60 Years,Male,2585,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,3934,1699,Pedestrian,Age: 16 - 60 Years,Male,2586,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,30
+25-Aug-22,12:34 PM,3935,1701,Vehicle Driver,Age: 16 - 60 Years,Male,2587,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,27
+25-Aug-22,12:34 PM,3936,1701,Vehicle Passenger,Age: 16 - 60 Years,Female,2587,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,30
+25-Aug-22,12:34 PM,3937,1702,Unknown,Age: 16 - 60 Years,Male,2588,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Auto / Taxi, DoA",0,,17
+25-Aug-22,12:34 PM,3938,1702,Unknown,Age: 16 - 60 Years,Male,2588,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Auto / Taxi, DoA",0,,20
+25-Aug-22,12:34 PM,3939,1702,Unknown,Age: 16 - 60 Years,Male,2588,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,25
+25-Aug-22,12:34 PM,3940,1703,Pedestrian,Age: 16 - 60 Years,Male,2589,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,25
+25-Aug-22,12:34 PM,3941,1703,Vehicle Driver,Age: 16 - 60 Years,Male,2590,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,48
+25-Aug-22,12:34 PM,3942,1703,Vehicle Passenger,Age: 16 - 60 Years,Female,2590,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,42
+25-Aug-22,12:34 PM,3943,1704,Vehicle Driver,Age: 16 - 60 Years,Male,2591,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,First Aid Administered,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,31
+25-Aug-22,12:34 PM,3944,1705,Pedestrian,Age: 16 - 60 Years,Male,2592,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
+25-Aug-22,12:34 PM,3945,1706,Vehicle Driver,Age: 16 - 60 Years,Male,2593,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,20
+25-Aug-22,12:34 PM,3946,1707,Vehicle Driver,Age: 16 - 60 Years,Male,2594,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,46
+25-Aug-22,12:34 PM,3947,1708,Vehicle Passenger,Age: 16 - 60 Years,Female,2595,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,20
+25-Aug-22,12:34 PM,3948,1709,Vehicle Driver,Age: 16 - 60 Years,Male,2596,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,37
+25-Aug-22,12:34 PM,3949,1710,Unknown,Age: 16 - 60 Years,Male,2597,Fatal Injury with Offsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,25
+25-Aug-22,12:34 PM,3950,1710,Unknown,Age: 16 - 60 Years,Male,2597,Fatal Injury with Offsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,28
+25-Aug-22,12:34 PM,3951,1711,Pedestrian,Age: 16 - 60 Years,Male,2598,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,48
+25-Aug-22,12:34 PM,3952,1712,Unknown,Age: 16 - 60 Years,Male,2600,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,26
+25-Aug-22,12:34 PM,3953,1712,Unknown,Age: 16 - 60 Years,Male,2600,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,3954,1713,Vehicle Driver,Age: 16 - 60 Years,Male,2601,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,22
+25-Aug-22,12:34 PM,3955,1714,Vehicle Driver,Age: 16 - 60 Years,Male,2531,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,3956,1715,Pedestrian,Age: 16 - 60 Years,Male,2603,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,3957,1716,Vehicle Passenger,Age: 16 - 60 Years,Female,2604,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,21
+25-Aug-22,12:34 PM,3958,1717,Pedestrian,Age: 16 - 60 Years,Male,2605,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,55
+25-Aug-22,12:34 PM,3959,1718,Pedestrian,Age: 16 - 60 Years,Male,2606,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,52
+25-Aug-22,12:34 PM,3960,1719,Vehicle Driver,Age: 16 - 60 Years,Male,2607,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,28
+25-Aug-22,12:34 PM,3961,1719,Pedestrian,Age: Unknown,Male,2607,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3962,1720,,,,0,,,,,,,,0,,0
+25-Aug-22,12:34 PM,3963,1720,Vehicle Driver,Age: 16 - 60 Years,Male,2608,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,52
+25-Aug-22,12:34 PM,3964,1721,Vehicle Driver,Age: Unknown,Male,2610,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3965,1721,Pedestrian,Age: 16 - 60 Years,Female,2610,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,35
+25-Aug-22,12:34 PM,3966,1721,Pedestrian,Age: Unknown,Male,2610,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3967,1722,Unknown,Age: 16 - 60 Years,Male,2611,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,21
+25-Aug-22,12:34 PM,3968,1722,Unknown,Age: 16 - 60 Years,Male,2611,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,25
+25-Aug-22,12:34 PM,3969,1723,Pedestrian,Age: 16 - 60 Years,Male,2612,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,24
+25-Aug-22,12:34 PM,3970,1724,Vehicle Driver,Age: 16 - 60 Years,Male,2613,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
+25-Aug-22,12:34 PM,3971,1725,Vehicle Driver,Age: 16 - 60 Years,Male,2615,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,37
+25-Aug-22,12:34 PM,3972,1726,Pedestrian,Age: 60+,Male,2616,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,64
+25-Aug-22,12:34 PM,3973,1726,Pedestrian,Age: 16 - 60 Years,Female,2616,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,55
+25-Aug-22,12:34 PM,3974,1727,Vehicle Driver,Age: 16 - 60 Years,Male,2618,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,24
+25-Aug-22,12:34 PM,3975,1728,Vehicle Driver,Age: 16 - 60 Years,Male,2619,Fatal Injury with Offsite Death,Driver,Driver Licence Not Needed,Unknown,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
+25-Aug-22,12:34 PM,3976,1729,Vehicle Driver,Age: 16 - 60 Years,Male,2620,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,24
+25-Aug-22,12:34 PM,3977,1729,Disembarked Vehicle Occupant,Age: 16 - 60 Years,Male,2621,Fatal Injury with Onsite Death,Disembarked Vehicle Occupant,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,28
+25-Aug-22,12:34 PM,3978,1729,Disembarked Vehicle Occupant,Age: 16 - 60 Years,Male,2621,Non Fatal Injury without Permanent Damage,Disembarked Vehicle Occupant,Driver Licence Not Needed,,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,42
+25-Aug-22,12:34 PM,3979,1730,Vehicle Driver,Age: 16 - 60 Years,Male,2623,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,50
+25-Aug-22,12:34 PM,3980,1731,Pedestrian,Age: 16 - 60 Years,Male,2624,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,25
+25-Aug-22,12:34 PM,3981,1732,Pedestrian,Age: 16 - 60 Years,Male,2625,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,3982,1733,Vehicle Driver,Age: Unknown,Male,2626,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,3983,1733,Pedestrian,Age: 16 - 60 Years,Male,2626,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,55
+25-Aug-22,12:34 PM,3984,1733,Vehicle Driver,Age: 16 - 60 Years,Male,2627,Non Fatal Injury without Permanent Damage,Driver,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,24
+25-Aug-22,12:34 PM,3985,1734,Vehicle Driver,Age: Unknown,Male,2628,Fatal Injury with Offsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,3986,1735,Vehicle Passenger,Age: 0 - 15 Years,Female,2630,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Not eligible for license,,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,6
+25-Aug-22,12:34 PM,3987,1736,Vehicle Driver,Age: Unknown,Male,2631,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3988,1736,Vehicle Passenger,Age: 16 - 60 Years,Male,2631,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Auto / Taxi, DoA",0,,24
+25-Aug-22,12:34 PM,3989,1736,Vehicle Passenger,Age: Unknown,Male,2631,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3990,1736,Vehicle Passenger,Age: Unknown,Male,2631,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3991,1735,Vehicle Passenger,Age: Unknown,Male,2631,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3992,1737,Vehicle Passenger,Age: 16 - 60 Years,Male,2632,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,36
+25-Aug-22,12:34 PM,3993,1738,Vehicle Driver,Age: Unknown,Male,2633,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3994,1738,Vehicle Passenger,Age: Unknown,Male,2633,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Not eligible for license,,Unknown,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3995,1738,Vehicle Passenger,Age: Unknown,Male,2634,,Passenger / Pillion Rider,,,,,,0,,0
+25-Aug-22,12:34 PM,3996,1738,Vehicle Passenger,Age: Unknown,Male,2633,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,3997,1738,Vehicle Passenger,Age: Unknown,Female,2633,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3998,1738,Vehicle Passenger,Age: Unknown,Female,2633,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,3999,1738,Vehicle Passenger,Age: Unknown,Female,2633,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4000,1738,Vehicle Passenger,Age: Unknown,Male,2633,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4001,1738,Vehicle Passenger,Age: Unknown,Male,2633,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4002,1738,Vehicle Passenger,Age: Unknown,Male,2633,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4003,1738,Vehicle Passenger,Age: Unknown,Male,2633,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4004,1739,Vehicle Driver,Age: Unknown,Male,2635,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4005,1740,Pedestrian,Age: 16 - 60 Years,Female,2636,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,4006,1741,Unknown,Age: 16 - 60 Years,Male,2637,Fatal Injury with Offsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
+25-Aug-22,12:34 PM,4007,1742,Pedestrian,Age: 16 - 60 Years,Male,2638,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,4008,1743,Pedestrian,Age: 16 - 60 Years,Male,2639,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,30
+25-Aug-22,12:34 PM,4009,1743,Pedestrian,Age: 16 - 60 Years,Male,2639,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,26
+25-Aug-22,12:34 PM,4010,1744,Vehicle Driver,Age: 16 - 60 Years,Male,2640,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Helmet Used,Not Applicable,"Police Vehicle, DoA",0,,28
+25-Aug-22,12:34 PM,4011,1745,Vehicle Driver,Age: Unknown,Male,2641,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,4012,1745,Pedestrian,Age: 0 - 15 Years,Male,2641,Fatal Injury with Offsite Death,Not Applicable,Not eligible for license,,Not Applicable,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,7
+25-Aug-22,12:34 PM,4013,1746,Vehicle Driver,Age: 16 - 60 Years,Male,2642,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,20
+25-Aug-22,12:34 PM,4014,1747,Pedestrian,Age: 16 - 60 Years,Male,2643,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,4015,1748,Vehicle Driver,Age: 16 - 60 Years,Male,2645,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,20
+25-Aug-22,12:34 PM,4016,1749,Vehicle Passenger,Age: 16 - 60 Years,Male,2646,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,4017,1750,Pedestrian,Age: 60+,Male,2647,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,65
+25-Aug-22,12:34 PM,4018,1751,Pedestrian,Age: 16 - 60 Years,Male,2648,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,4019,1752,Pedestrian,Age: 0 - 15 Years,Male,2649,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,4
+25-Aug-22,12:34 PM,4020,1753,Pedestrian,Age: 60+,Male,2650,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,65
+25-Aug-22,12:34 PM,4021,1754,Pedestrian,Age: 16 - 60 Years,Male,2651,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+25-Aug-22,12:34 PM,4022,1755,Pedestrian,Age: 16 - 60 Years,Male,2652,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,27
+25-Aug-22,12:34 PM,4023,1756,Vehicle Driver,Age: 16 - 60 Years,Male,2654,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,30
+25-Aug-22,12:34 PM,4024,1756,Vehicle Passenger,Age: 16 - 60 Years,Male,2654,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,17
+25-Aug-22,12:34 PM,4025,1757,Pedestrian,Age: 16 - 60 Years,Male,2655,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,40
+25-Aug-22,12:34 PM,4026,1758,Pedestrian,Age: 16 - 60 Years,Male,2656,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,40
+25-Aug-22,12:34 PM,4027,1759,Pedestrian,Age: 16 - 60 Years,Male,2657,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,4028,1759,Pedestrian,Age: 16 - 60 Years,Male,2657,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,45
+25-Aug-22,12:34 PM,4029,1760,Pedestrian,Age: Unknown,Unknown,2658,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4030,1761,Pedestrian,Age: 16 - 60 Years,Male,2659,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,4031,1761,Pedestrian,Age: 16 - 60 Years,Male,2659,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,25
+25-Aug-22,12:34 PM,4032,1761,Pedestrian,Age: 16 - 60 Years,Male,2659,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,19
+25-Aug-22,12:34 PM,4033,1761,Pedestrian,Age: 16 - 60 Years,Male,2659,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,4034,1761,Pedestrian,Age: 16 - 60 Years,Male,2659,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,40
+25-Aug-22,12:34 PM,4035,1762,Pedestrian,Age: 60+,Male,2660,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,67
+25-Aug-22,12:34 PM,4036,1762,Vehicle Driver,Age: 16 - 60 Years,Male,2660,Unknown,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,Unknown,0,,25
+25-Aug-22,12:34 PM,4037,1763,Vehicle Driver,Age: 16 - 60 Years,Male,2661,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,49
+25-Aug-22,12:34 PM,4038,1763,Pedestrian,Age: 16 - 60 Years,Male,2661,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,50
+25-Aug-22,12:34 PM,4039,1764,Pedestrian,Age: 60+,Male,2662,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,63
+25-Aug-22,12:34 PM,4040,1765,Vehicle Driver,Age: Unknown,Male,2663,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,58
+25-Aug-22,12:34 PM,4041,1765,Pedestrian,Age: 16 - 60 Years,Male,2663,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,32
+25-Aug-22,12:34 PM,4042,1766,Pedestrian,Age: 16 - 60 Years,Male,2664,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,36
+25-Aug-22,12:34 PM,4043,1767,Pedestrian,Age: Unknown,Male,2665,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4044,1768,Pedestrian,Age: 16 - 60 Years,Male,2666,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,4045,1769,Pedestrian,Age: 16 - 60 Years,Male,2667,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+25-Aug-22,12:34 PM,4046,1770,Vehicle Passenger,Age: 16 - 60 Years,Male,2668,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",4,,30
+25-Aug-22,12:34 PM,4047,1771,Pedestrian,Age: 0 - 15 Years,Female,2669,Fatal Injury with Offsite Death,Not Applicable,Not eligible for license,,Not Applicable,Unknown,"Unknown Vehicle, DoA",0,,3
+25-Aug-22,12:34 PM,4048,1772,Pedestrian,Age: 16 - 60 Years,Male,2669,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,4049,1772,Pedestrian,Age: 16 - 60 Years,Female,2669,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,27
+25-Aug-22,12:34 PM,4050,1773,Pedestrian,Age: 16 - 60 Years,Male,2671,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,45
+25-Aug-22,12:34 PM,4051,1774,Pedestrian,Age: 60+,Male,2672,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,65
+25-Aug-22,12:34 PM,4052,1775,Vehicle Driver,Age: 16 - 60 Years,Male,2673,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Helmet Used,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,28
+25-Aug-22,12:34 PM,4053,1776,Vehicle Driver,Age: Unknown,Male,2675,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,4054,1777,Pedestrian,Age: 16 - 60 Years,Male,2676,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,60
+25-Aug-22,12:34 PM,4055,1778,Pedestrian,Age: 16 - 60 Years,Male,2677,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,42
+25-Aug-22,12:34 PM,4056,1779,Pedestrian,Age: 16 - 60 Years,Male,2678,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,60
+25-Aug-22,12:34 PM,4057,1780,Vehicle Driver,Age: 16 - 60 Years,Male,2679,Fatal Injury with Offsite Death,Driver,,,,Unknown,,0,,35
+25-Aug-22,12:34 PM,4058,1780,Vehicle Driver,Age: 16 - 60 Years,Male,2678,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,34
+25-Aug-22,12:34 PM,4059,1780,Vehicle Driver,Age: 16 - 60 Years,Male,2679,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,35
+25-Aug-22,12:34 PM,4060,1781,Vehicle Driver,Age: 16 - 60 Years,Male,2681,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,45
+25-Aug-22,12:34 PM,4061,1781,Vehicle Passenger,Age: Unknown,Male,2681,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4062,1782,Pedestrian,Age: 16 - 60 Years,Male,2682,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,30
+25-Aug-22,12:34 PM,4063,1783,Pedestrian,Age: 16 - 60 Years,Female,2683,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+25-Aug-22,12:34 PM,4064,1784,Pedestrian,Age: 16 - 60 Years,Male,2684,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,21
+25-Aug-22,12:34 PM,4065,1785,Vehicle Driver,Age: 16 - 60 Years,Male,2686,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,29
+25-Aug-22,12:34 PM,4066,1785,Vehicle Driver,Age: 16 - 60 Years,Male,2687,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,4067,1786,Pedestrian,Age: 16 - 60 Years,Male,2688,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,30
+25-Aug-22,12:34 PM,4068,1787,Vehicle Driver,Age: 16 - 60 Years,Male,2690,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,4069,1788,Vehicle Driver,Age: 16 - 60 Years,Male,2691,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,28
+25-Aug-22,12:34 PM,4070,1789,Vehicle Driver,Age: 16 - 60 Years,Male,2692,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,22
+25-Aug-22,12:34 PM,4071,1790,Vehicle Driver,Age: 16 - 60 Years,Male,2693,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,43
+25-Aug-22,12:34 PM,4072,1791,Pedestrian,Age: 16 - 60 Years,Male,2694,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,30
+25-Aug-22,12:34 PM,4073,1792,Vehicle Driver,Age: 16 - 60 Years,Male,2695,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,32
+25-Aug-22,12:34 PM,4074,1793,Pedestrian,Age: 16 - 60 Years,Male,2696,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,4075,1794,Vehicle Driver,Age: 16 - 60 Years,Male,2696,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,25
+25-Aug-22,12:34 PM,4076,1795,Pedestrian,Age: 16 - 60 Years,Male,2698,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,24
+25-Aug-22,12:34 PM,4077,1796,Pedestrian,Age: 16 - 60 Years,Male,2699,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,35
+25-Aug-22,12:34 PM,4078,1797,Vehicle Driver,Age: 16 - 60 Years,Male,2700,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,33
+25-Aug-22,12:34 PM,4079,1798,Pedestrian,Age: Unknown,Male,2701,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,4080,1799,Vehicle Driver,Age: 16 - 60 Years,Male,2702,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,4081,1800,Pedestrian,Age: 16 - 60 Years,Male,2703,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,44
+25-Aug-22,12:34 PM,4082,1801,Pedestrian,Age: Unknown,Male,2704,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4083,1802,Pedestrian,Age: 16 - 60 Years,Male,2705,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,35
+25-Aug-22,12:34 PM,4084,1803,Vehicle Driver,Age: 16 - 60 Years,Male,2707,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Auto / Taxi, DoA",0,,52
+25-Aug-22,12:34 PM,4085,1804,Pedestrian,Age: Unknown,Male,2708,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4086,1805,Pedestrian,Age: 16 - 60 Years,Male,2709,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,4087,1806,Pedestrian,Age: 16 - 60 Years,Male,2710,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,40
+25-Aug-22,12:34 PM,4088,1807,Pedestrian,Age: Unknown,Male,2711,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4089,1808,Pedestrian,Age: 0 - 15 Years,Male,2712,Fatal Injury with Offsite Death,Not Applicable,Not eligible for license,,Not Applicable,Unknown,"Unknown Vehicle, DoA",0,,12
+25-Aug-22,12:34 PM,4090,1809,Pedestrian,Age: 16 - 60 Years,Male,2713,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, Treated at Trauma Centre",0,,52
+25-Aug-22,12:34 PM,4091,1810,Pedestrian,Age: 16 - 60 Years,Male,2714,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,56
+25-Aug-22,12:34 PM,4092,1811,Vehicle Driver,Age: 16 - 60 Years,Male,2715,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+25-Aug-22,12:34 PM,4093,1812,Pedestrian,Age: 16 - 60 Years,Male,2716,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,59
+25-Aug-22,12:34 PM,4094,1813,Pedestrian,Age: 16 - 60 Years,Male,2717,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,37
+25-Aug-22,12:34 PM,4095,1814,Vehicle Driver,Age: 16 - 60 Years,Male,2718,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,31
+25-Aug-22,12:34 PM,4096,1815,Pedestrian,Age: 60+,Male,2719,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,65
+25-Aug-22,12:34 PM,4097,1816,Pedestrian,Age: 16 - 60 Years,Male,2720,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,17
+25-Aug-22,12:34 PM,4098,1816,Pedestrian,Age: 16 - 60 Years,Male,2720,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,20
+25-Aug-22,12:34 PM,4099,1817,Pedestrian,Age: 16 - 60 Years,Male,2721,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
+25-Aug-22,12:34 PM,4100,1818,Vehicle Driver,Age: Unknown,Male,2722,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4101,1819,Vehicle Driver,Age: Unknown,Male,2723,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,4102,1819,Pedestrian,Age: Unknown,Male,2724,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,4103,1819,Pedestrian,Age: Unknown,Female,2724,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4104,1820,Vehicle Driver,Age: Unknown,Male,2725,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,21
+25-Aug-22,12:34 PM,4105,1820,Pedestrian,Age: 16 - 60 Years,Male,2725,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,55
+25-Aug-22,12:34 PM,4106,1821,Pedestrian,Age: 16 - 60 Years,Male,2726,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,34
+25-Aug-22,12:34 PM,4107,1822,Vehicle Driver,Age: 16 - 60 Years,Male,2728,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,60
+25-Aug-22,12:34 PM,4108,1823,Pedestrian,Age: Unknown,Male,2729,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4109,1824,Pedestrian,Age: Unknown,Male,2730,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,0
+25-Aug-22,12:34 PM,4110,1825,Vehicle Passenger,Age: 60+,Male,2732,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Helmet Used,Not Applicable,"Police Vehicle, DoA",0,,63
+25-Aug-22,12:34 PM,4111,1826,Non Road User Vehicle Occupant,Age: 16 - 60 Years,Male,2733,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,4112,1827,Pedestrian,Age: Unknown,Female,2734,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4113,1828,Vehicle Driver,Age: 16 - 60 Years,Male,2735,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,33
+25-Aug-22,12:34 PM,4114,1828,Vehicle Passenger,Age: 16 - 60 Years,Male,2735,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,35
+25-Aug-22,12:34 PM,4115,1829,Pedestrian,Age: 16 - 60 Years,Male,2736,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,55
+25-Aug-22,12:34 PM,4116,1830,Unknown,Age: 16 - 60 Years,Male,2737,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,20
+25-Aug-22,12:34 PM,4117,1830,Unknown,Age: 16 - 60 Years,Male,2737,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,23
+25-Aug-22,12:34 PM,4118,1831,Vehicle Driver,Age: 16 - 60 Years,Male,2739,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,20
+25-Aug-22,12:34 PM,4119,1830,Vehicle Passenger,Age: 16 - 60 Years,Male,2739,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,26
+25-Aug-22,12:34 PM,4120,1832,Vehicle Driver,Age: 16 - 60 Years,Male,2740,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,34
+25-Aug-22,12:34 PM,4121,1832,Vehicle Passenger,Age: 16 - 60 Years,Male,2740,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+25-Aug-22,12:34 PM,4122,1833,Pedestrian,Age: 16 - 60 Years,Male,2742,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,29
+25-Aug-22,12:34 PM,4123,1834,Pedestrian,Age: 16 - 60 Years,Male,2743,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,74
+25-Aug-22,12:34 PM,4124,1835,Pedestrian,Age: Unknown,Male,2744,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4125,1836,Vehicle Driver,Age: Unknown,Female,2745,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,4126,1837,Vehicle Passenger,Age: 60+,Female,2746,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,73
+25-Aug-22,12:34 PM,4127,1837,Pedestrian,Age: Unknown,Male,2747,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,0
+25-Aug-22,12:34 PM,4128,1838,Vehicle Driver,Age: 60+,Male,2748,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,62
+25-Aug-22,12:34 PM,4129,1839,Pedestrian,Age: 16 - 60 Years,Male,2749,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,26
+25-Aug-22,12:34 PM,4130,1840,Vehicle Driver,Age: 16 - 60 Years,Male,2750,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,27
+25-Aug-22,12:34 PM,4131,1841,Pedestrian,Age: Unknown,Male,2751,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",4,,0
+25-Aug-22,12:34 PM,4132,1842,Pedestrian,Age: 16 - 60 Years,Male,2752,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,31
+25-Aug-22,12:34 PM,4133,1843,Vehicle Driver,Age: 16 - 60 Years,Male,2753,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
+25-Aug-22,12:34 PM,4134,1844,Vehicle Driver,Age: Unknown,Male,2754,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4135,1845,Vehicle Driver,Age: 16 - 60 Years,Male,2755,Fatal Injury with Offsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+25-Aug-22,12:34 PM,4136,1846,Pedestrian,Age: 16 - 60 Years,Male,2756,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+25-Aug-22,12:34 PM,4137,1847,Vehicle Driver,Age: Unknown,Male,2760,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4138,1848,Vehicle Driver,Age: Unknown,Male,2761,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,4139,1847,Pedestrian,Age: Unknown,Male,2760,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4140,1849,Pedestrian,Age: 60+,Female,2762,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,63
+25-Aug-22,12:34 PM,4141,1850,Pedestrian,Age: Unknown,Male,2763,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4142,1851,Unknown,Age: 0 - 15 Years,Male,2764,Fatal Injury with Onsite Death,Unknown,Not eligible for license,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,2
+25-Aug-22,12:34 PM,4143,1851,Unknown,Age: 0 - 15 Years,Male,2764,Non Fatal Injury without Permanent Damage,Unknown,Not eligible for license,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,4
+25-Aug-22,12:34 PM,4144,1851,Unknown,Age: 16 - 60 Years,Female,2764,Non Fatal Injury without Permanent Damage,Unknown,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,30
+25-Aug-22,12:34 PM,4145,1851,Unknown,Age: 16 - 60 Years,Male,2764,Non Fatal Injury without Permanent Damage,Unknown,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,35
+25-Aug-22,12:34 PM,4146,1851,Unknown,Age: Unknown,Male,2764,Fatal Injury with Onsite Death,Unknown,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,0
+25-Aug-22,12:34 PM,4147,1851,Unknown,Age: 16 - 60 Years,Male,2764,Non Fatal Injury without Permanent Damage,Unknown,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,25
+25-Aug-22,12:34 PM,4148,1852,Pedestrian,Age: 16 - 60 Years,Male,2765,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,33
+25-Aug-22,12:34 PM,4149,1853,Vehicle Driver,Age: 16 - 60 Years,Male,2766,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,45
+25-Aug-22,12:34 PM,4150,1854,Vehicle Driver,Age: Unknown,Male,2766,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4151,1855,Unknown,Age: 16 - 60 Years,Male,2768,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,20
+25-Aug-22,12:34 PM,4152,1855,Unknown,Age: 16 - 60 Years,Male,2768,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,20
+25-Aug-22,12:34 PM,4153,1856,Vehicle Driver,Age: 16 - 60 Years,Male,2769,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,54
+25-Aug-22,12:34 PM,4154,1857,Pedestrian,Age: 16 - 60 Years,Male,2770,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,50
+25-Aug-22,12:34 PM,4155,1858,Pedestrian,Age: 16 - 60 Years,Male,2771,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",16,,30
+25-Aug-22,12:34 PM,4156,1859,Pedestrian,Age: 16 - 60 Years,Male,2772,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,22
+25-Aug-22,12:34 PM,4157,1860,Pedestrian,Age: 16 - 60 Years,Male,2773,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,35
+25-Aug-22,12:34 PM,4158,1861,Pedestrian,Age: 16 - 60 Years,Male,2774,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+25-Aug-22,12:34 PM,4159,1862,Pedestrian,Age: 60+,Male,2775,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,70
+25-Aug-22,12:34 PM,4160,1863,Pedestrian,Age: 16 - 60 Years,Male,2776,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",7,,27
+25-Aug-22,12:34 PM,4161,1864,Pedestrian,Age: 16 - 60 Years,Male,2777,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,40
+25-Aug-22,12:34 PM,4162,1865,Pedestrian,Age: 16 - 60 Years,Male,2778,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,28
+25-Aug-22,12:34 PM,4163,1866,Vehicle Driver,Age: 16 - 60 Years,Male,2780,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,4164,1867,Vehicle Driver,Age: 16 - 60 Years,Male,2781,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,60
+25-Aug-22,12:34 PM,4165,1867,Vehicle Passenger,Age: 16 - 60 Years,Male,2781,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,17
+25-Aug-22,12:34 PM,4166,1867,Vehicle Passenger,Age: 16 - 60 Years,Female,2781,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,45
+25-Aug-22,12:34 PM,4167,1867,Vehicle Passenger,Age: Unknown,Female,2781,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,0
+25-Aug-22,12:34 PM,4168,1867,Vehicle Passenger,Age: Unknown,Male,2781,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,0
+25-Aug-22,12:34 PM,4169,1867,Vehicle Passenger,Age: Unknown,Female,2781,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,0
+25-Aug-22,12:34 PM,4170,1867,Vehicle Passenger,Age: 16 - 60 Years,Female,2781,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,40
+25-Aug-22,12:34 PM,4171,1868,Vehicle Driver,Age: Unknown,Male,2782,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,4172,1868,Pedestrian,Age: 16 - 60 Years,Male,2783,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,52
+25-Aug-22,12:34 PM,4173,1869,Pedestrian,Age: 16 - 60 Years,Male,2784,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,32
+25-Aug-22,12:34 PM,4174,1870,Vehicle Driver,Age: 16 - 60 Years,Male,2786,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,23
+25-Aug-22,12:34 PM,4175,1871,Vehicle Driver,Age: Unknown,Unknown,2787,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,4176,1871,Vehicle Driver,Age: 16 - 60 Years,Male,2788,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,48
+25-Aug-22,12:34 PM,4177,1872,Vehicle Passenger,Age: 16 - 60 Years,Male,2789,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,48
+25-Aug-22,12:34 PM,4178,1873,Pedestrian,Age: 16 - 60 Years,Female,2790,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,35
+25-Aug-22,12:34 PM,4179,1874,Pedestrian,Age: 0 - 15 Years,Male,2791,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,5
+25-Aug-22,12:34 PM,4180,1874,Pedestrian,Age: 16 - 60 Years,Male,2791,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,30
+25-Aug-22,12:34 PM,4181,1875,Pedestrian,Age: 16 - 60 Years,Male,2792,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,25
+25-Aug-22,12:34 PM,4182,1876,Vehicle Driver,Age: 16 - 60 Years,Male,2793,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,28
+25-Aug-22,12:34 PM,4183,1876,Pedestrian,Age: 60+,Male,2793,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,71
+25-Aug-22,12:34 PM,4184,1876,Pedestrian,Age: 16 - 60 Years,Male,2793,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,58
+25-Aug-22,12:34 PM,4185,1877,Pedestrian,Age: Unknown,Male,2794,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4186,1878,Pedestrian,Age: 16 - 60 Years,Male,2795,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,60
+25-Aug-22,12:34 PM,4187,1879,Pedestrian,Age: 16 - 60 Years,Male,2796,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,4188,1880,Pedestrian,Age: 16 - 60 Years,Male,2797,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,22
+25-Aug-22,12:34 PM,4189,1881,Pedestrian,Age: 0 - 15 Years,Male,2798,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,"Unknown Vehicle, Treated at Trauma Centre",0,,1
+25-Aug-22,12:34 PM,4190,1882,Vehicle Driver,Age: 16 - 60 Years,Male,2798,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Private Vehicle, DoA",0,,22
+25-Aug-22,12:34 PM,4191,1882,Vehicle Passenger,Age: 16 - 60 Years,Male,2797,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,19
+25-Aug-22,12:34 PM,4192,1882,Vehicle Passenger,Age: 16 - 60 Years,Male,2797,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,22
+25-Aug-22,12:34 PM,4193,1883,Pedestrian,Age: 16 - 60 Years,Male,2800,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,39
+25-Aug-22,12:34 PM,4194,1884,Vehicle Passenger,Age: 16 - 60 Years,Male,2801,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,26
+25-Aug-22,12:34 PM,4195,1885,Pedestrian,Age: 16 - 60 Years,Male,2802,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,21
+25-Aug-22,12:34 PM,4196,1886,Vehicle Driver,Age: 16 - 60 Years,Male,2803,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,34
+25-Aug-22,12:34 PM,4197,1887,Vehicle Passenger,Age: Unknown,Male,2804,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4198,1888,Vehicle Driver,Age: 16 - 60 Years,Male,2806,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,36
+25-Aug-22,12:34 PM,4199,1889,Vehicle Driver,Age: 16 - 60 Years,Male,2807,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,24
+25-Aug-22,12:34 PM,4200,1890,Vehicle Driver,Age: Unknown,Male,2809,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4201,1891,Vehicle Passenger,Age: 16 - 60 Years,Male,2811,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,4202,1892,Pedestrian,Age: 0 - 15 Years,Female,2812,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,2
+25-Aug-22,12:34 PM,4203,1893,Pedestrian,Age: 16 - 60 Years,Male,2813,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,32
+25-Aug-22,12:34 PM,4204,1894,Pedestrian,Age: 0 - 15 Years,Male,2814,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,8
+25-Aug-22,12:34 PM,4205,1895,Pedestrian,Age: 16 - 60 Years,Male,2815,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
+25-Aug-22,12:34 PM,4206,1896,Vehicle Driver,Age: 16 - 60 Years,Male,2816,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Auto / Taxi, DoA",0,,30
+25-Aug-22,12:34 PM,4207,1897,Pedestrian,Age: 16 - 60 Years,Male,2817,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,19
+25-Aug-22,12:34 PM,4208,1896,Vehicle Driver,Age: 16 - 60 Years,Male,2817,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,31
+25-Aug-22,12:34 PM,4209,1896,Pedestrian,Age: 16 - 60 Years,Male,2817,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,25
+25-Aug-22,12:34 PM,4210,1898,Vehicle Driver,Age: 16 - 60 Years,Male,2818,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
+25-Aug-22,12:34 PM,4211,1899,Pedestrian,Age: 16 - 60 Years,Male,2819,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,26
+25-Aug-22,12:34 PM,4212,1900,Pedestrian,Age: 16 - 60 Years,Male,2820,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
+25-Aug-22,12:34 PM,4213,1901,Vehicle Driver,Age: 16 - 60 Years,Male,2821,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Auto / Taxi, DoA",0,,23
+25-Aug-22,12:34 PM,4214,1902,Vehicle Driver,Age: 16 - 60 Years,Male,2822,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,46
+25-Aug-22,12:34 PM,4215,1902,Vehicle Driver,Age: 16 - 60 Years,Male,2823,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,21
+25-Aug-22,12:34 PM,4216,1903,Unknown,Age: 16 - 60 Years,Male,2824,Fatal Injury with Offsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,28
+25-Aug-22,12:34 PM,4217,1903,Unknown,Age: 16 - 60 Years,Male,2824,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,45
+25-Aug-22,12:34 PM,4218,1904,Pedestrian,Age: 16 - 60 Years,Male,2825,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+25-Aug-22,12:34 PM,4219,1905,Vehicle Driver,Age: Unknown,Male,2825,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,4220,1905,Vehicle Driver,Age: 16 - 60 Years,Male,2826,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,26
+25-Aug-22,12:34 PM,4221,1906,Pedestrian,Age: 16 - 60 Years,Male,2828,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,28
+25-Aug-22,12:34 PM,4222,1907,Vehicle Driver,Age: 16 - 60 Years,Male,2829,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,29
+25-Aug-22,12:34 PM,4223,1908,Pedestrian,Age: 16 - 60 Years,Male,2830,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,46
+25-Aug-22,12:34 PM,4224,1909,Vehicle Passenger,Age: 60+,Male,2831,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,28
+25-Aug-22,12:34 PM,4225,1909,Vehicle Passenger,Age: 16 - 60 Years,Male,2831,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Police Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,4226,1909,Vehicle Passenger,Age: 16 - 60 Years,Female,2831,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,26
+25-Aug-22,12:34 PM,4227,1909,Vehicle Passenger,Age: 16 - 60 Years,Female,2831,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,26
+25-Aug-22,12:34 PM,4228,1909,Vehicle Driver,Age: 16 - 60 Years,Male,2832,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,40
+25-Aug-22,12:34 PM,4230,1910,Vehicle Driver,Age: 16 - 60 Years,Male,2834,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,4231,1911,Vehicle Driver,Age: 16 - 60 Years,Male,2835,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,,0,,34
+25-Aug-22,12:34 PM,4232,1912,Vehicle Driver,Age: Unknown,Male,2836,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4233,1913,Vehicle Driver,Age: 16 - 60 Years,Male,2838,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,42
+25-Aug-22,12:34 PM,4234,1914,Vehicle Driver,Age: Unknown,Male,2840,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4235,1915,Vehicle Driver,Age: 16 - 60 Years,Male,2842,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,24
+25-Aug-22,12:34 PM,4236,1915,Vehicle Passenger,Age: 16 - 60 Years,Male,2842,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,24
+25-Aug-22,12:34 PM,4237,1916,Vehicle Passenger,Age: 0 - 15 Years,Female,2843,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Not eligible for license,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,2
+25-Aug-22,12:34 PM,4238,1916,Vehicle Passenger,Age: 16 - 60 Years,Female,2843,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,29
+25-Aug-22,12:34 PM,4239,1916,Vehicle Driver,Age: 16 - 60 Years,Male,2843,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,28
+25-Aug-22,12:34 PM,4240,1916,,,,2843,,,,,,,,0,,0
+25-Aug-22,12:34 PM,4241,1916,Vehicle Passenger,Age: 16 - 60 Years,Male,2843,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,4242,1917,Pedestrian,Age: Unknown,Female,2844,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4243,1918,Pedestrian,Age: 16 - 60 Years,Female,2845,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,4244,1919,Pedestrian,Age: Unknown,Unknown,2846,Non Fatal Injury with Permanent Disability,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4245,1919,Pedestrian,Age: Unknown,Unknown,2846,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4246,1919,Pedestrian,Age: Unknown,Unknown,2846,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,4247,1920,Vehicle Driver,Age: 16 - 60 Years,Male,2847,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,26
+25-Aug-22,12:34 PM,4248,1920,Vehicle Passenger,Age: 16 - 60 Years,Male,2845,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,23
+25-Aug-22,12:34 PM,4249,1921,Vehicle Driver,Age: 16 - 60 Years,Male,2848,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,37
+25-Aug-22,12:34 PM,4250,1922,Vehicle Passenger,Age: 16 - 60 Years,Male,2849,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,60
+25-Aug-22,12:34 PM,4251,1923,Vehicle Driver,Age: 16 - 60 Years,Male,2851,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,24
+25-Aug-22,12:34 PM,4252,1924,Vehicle Driver,Age: 16 - 60 Years,Male,2852,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,49
+25-Aug-22,12:34 PM,4253,1924,Vehicle Driver,Age: 16 - 60 Years,Male,2853,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,49
+25-Aug-22,12:34 PM,4254,1925,Vehicle Driver,Age: 16 - 60 Years,Male,2854,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,24
+25-Aug-22,12:34 PM,4255,1926,Pedestrian,Age: Unknown,Male,2855,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4256,1927,Vehicle Passenger,Age: 16 - 60 Years,Female,2856,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,40
+25-Aug-22,12:34 PM,4257,1928,Vehicle Driver,Age: 16 - 60 Years,Male,2857,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,42
+25-Aug-22,12:34 PM,4258,1929,Pedestrian,Age: Unknown,Male,2858,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4259,1930,Vehicle Driver,Age: Unknown,Male,2860,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4260,1931,Vehicle Driver,Age: 16 - 60 Years,Male,2861,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,22
+25-Aug-22,12:34 PM,4261,1931,Vehicle Passenger,Age: 16 - 60 Years,Male,2861,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,4262,1932,Vehicle Driver,Age: 0 - 15 Years,Male,2862,Non Fatal Injury without Permanent Damage,Driver,Not eligible for license,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,15
+25-Aug-22,12:34 PM,4263,1932,Vehicle Passenger,Age: 0 - 15 Years,Male,2862,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,No Treatement - Death on Spot,0,,14
+25-Aug-22,12:34 PM,4264,1933,Vehicle Driver,Age: Unknown,Male,2863,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4265,1934,Pedestrian,Age: 60+,Male,2864,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,78
+25-Aug-22,12:34 PM,4266,1934,Vehicle Driver,Age: 16 - 60 Years,Male,2864,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,32
+25-Aug-22,12:34 PM,4267,1935,Pedestrian,Age: 0 - 15 Years,Male,2865,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,2
+25-Aug-22,12:34 PM,4268,1936,Pedestrian,Age: 16 - 60 Years,Male,2866,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,30
+25-Aug-22,12:34 PM,4269,1937,Vehicle Driver,Age: 16 - 60 Years,Male,2867,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,24
+25-Aug-22,12:34 PM,4270,1937,Vehicle Passenger,Age: 16 - 60 Years,Male,2867,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Police Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,4271,1937,Vehicle Passenger,Age: 16 - 60 Years,Male,2867,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,21
+25-Aug-22,12:34 PM,4272,1938,Pedestrian,Age: 16 - 60 Years,Male,2868,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,30
+25-Aug-22,12:34 PM,4273,1939,Pedestrian,Age: Unknown,Female,2869,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4274,1940,Unknown,Age: 16 - 60 Years,Male,2871,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,55
+25-Aug-22,12:34 PM,4275,1940,Vehicle Passenger,Age: 16 - 60 Years,Male,2871,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,38
+25-Aug-22,12:34 PM,4276,1940,Vehicle Passenger,Age: 16 - 60 Years,Male,2871,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,17
+25-Aug-22,12:34 PM,4277,1941,Pedestrian,Age: 60+,Male,2872,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,67
+25-Aug-22,12:34 PM,4278,1942,Vehicle Driver,Age: Unknown,Male,2873,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4279,1942,Vehicle Passenger,Age: Unknown,Male,2873,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,0
+25-Aug-22,12:34 PM,4280,1943,Vehicle Driver,Age: 16 - 60 Years,Male,2875,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,4281,1944,Pedestrian,Age: 16 - 60 Years,Male,2876,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,4282,1945,Vehicle Passenger,Age: 16 - 60 Years,Male,2877,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,49
+25-Aug-22,12:34 PM,4283,1946,Pedestrian,Age: 16 - 60 Years,Male,2878,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,50
+25-Aug-22,12:34 PM,4284,1947,Vehicle Driver,Age: Unknown,Male,2880,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,0
+25-Aug-22,12:34 PM,4285,1948,Pedestrian,Age: 16 - 60 Years,Male,2881,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,4286,1949,Vehicle Driver,Age: Unknown,Male,2882,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4287,1950,Pedestrian,Age: 16 - 60 Years,Male,2883,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,29
+25-Aug-22,12:34 PM,4288,1951,Pedestrian,Age: 60+,Male,2884,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,65
+25-Aug-22,12:34 PM,4289,1952,Vehicle Driver,Age: Unknown,Male,2885,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,4290,1952,,,,0,,,,,,,,0,,0
+25-Aug-22,12:34 PM,4291,1952,Pedestrian,Age: 16 - 60 Years,Male,2888,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,53
+25-Aug-22,12:34 PM,4292,1953,Pedestrian,Age: 0 - 15 Years,Male,2889,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,10
+25-Aug-22,12:34 PM,4293,1954,Pedestrian,Age: 16 - 60 Years,Male,2890,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,4294,1955,Pedestrian,Age: 16 - 60 Years,Male,2891,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,4295,1956,Pedestrian,Age: Unknown,Male,2892,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4296,1957,Pedestrian,Age: 16 - 60 Years,Male,2893,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,4297,1958,Pedestrian,Age: 16 - 60 Years,Male,2894,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,33
+25-Aug-22,12:34 PM,4298,1959,Pedestrian,Age: Unknown,Male,2895,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4299,1960,Vehicle Driver,Age: 16 - 60 Years,Male,2896,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,35
+25-Aug-22,12:34 PM,4300,1961,Unknown,Age: 16 - 60 Years,Male,2897,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,19
+25-Aug-22,12:34 PM,4301,1961,Unknown,Age: Unknown,Male,2897,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4302,1961,Unknown,Age: Unknown,Male,2897,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4303,1962,Pedestrian,Age: Unknown,Male,2898,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4304,1963,Vehicle Driver,Age: Unknown,Male,2899,Fatal Injury with Offsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4305,1964,Vehicle Driver,Age: 16 - 60 Years,Male,2900,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,29
+25-Aug-22,12:34 PM,4306,1965,Pedestrian,Age: 16 - 60 Years,Male,2901,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,50
+25-Aug-22,12:34 PM,4307,1966,Pedestrian,Age: 16 - 60 Years,Male,2902,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,30
+25-Aug-22,12:34 PM,4308,1967,Vehicle Driver,Age: Unknown,Male,2903,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,4309,1967,Vehicle Passenger,Age: Unknown,Male,2904,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4310,1968,Vehicle Passenger,Age: 16 - 60 Years,Male,2905,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,No Treatement - Death on Spot,0,,19
+25-Aug-22,12:34 PM,4311,1969,Pedestrian,Age: 16 - 60 Years,Male,2906,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,4312,1970,Vehicle Driver,Age: 16 - 60 Years,Male,2907,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,42
+25-Aug-22,12:34 PM,4313,1971,Pedestrian,Age: Unknown,Male,2908,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,4314,1972,Pedestrian,Age: 16 - 60 Years,Male,2909,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,18
+25-Aug-22,12:34 PM,4315,1972,Pedestrian,Age: 16 - 60 Years,Male,2909,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,4316,1973,Pedestrian,Age: Unknown,Male,2910,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,4317,1974,Pedestrian,Age: Unknown,Male,2911,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Auto / Taxi, DoA",0,,0
+25-Aug-22,12:34 PM,4318,1975,Pedestrian,Age: Unknown,Male,2912,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,48
+25-Aug-22,12:34 PM,4319,1976,Pedestrian,Age: 16 - 60 Years,Male,2913,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,30
+25-Aug-22,12:34 PM,4320,1977,Pedestrian,Age: 16 - 60 Years,Male,2913,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,24
+25-Aug-22,12:34 PM,4321,1978,Pedestrian,Age: 16 - 60 Years,Male,2915,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,22
+25-Aug-22,12:34 PM,4322,1979,Pedestrian,Age: Unknown,Male,2916,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,Alcohol,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,4323,1980,Pedestrian,Age: 16 - 60 Years,Male,2917,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,32
+25-Aug-22,12:34 PM,4324,1981,Pedestrian,Age: 16 - 60 Years,Female,2918,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,4325,1982,Vehicle Driver,Age: 16 - 60 Years,Male,2919,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,45
+25-Aug-22,12:34 PM,4326,1983,Vehicle Driver,Age: 60+,Male,2920,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",7,,69
+25-Aug-22,12:34 PM,4327,1984,Vehicle Passenger,Age: 16 - 60 Years,Male,2921,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
+25-Aug-22,12:34 PM,4328,1985,Pedestrian,Age: 16 - 60 Years,Male,2922,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,23
+25-Aug-22,12:34 PM,4329,1986,Pedestrian,Age: 16 - 60 Years,Male,2923,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",6,,24
+25-Aug-22,12:34 PM,4330,1987,Pedestrian,Age: 16 - 60 Years,Male,2924,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,4331,1988,Pedestrian,Age: 16 - 60 Years,Male,2925,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,40
+25-Aug-22,12:34 PM,4332,1989,Vehicle Driver,Age: 16 - 60 Years,Male,2926,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,37
+25-Aug-22,12:34 PM,4333,1990,Vehicle Passenger,Age: Unknown,Male,2927,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",2,,0
+25-Aug-22,12:34 PM,4334,1991,Pedestrian,Age: 60+,Female,2927,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,65
+25-Aug-22,12:34 PM,4335,1992,Pedestrian,Age: 16 - 60 Years,Male,2929,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,20
+25-Aug-22,12:34 PM,4336,1993,Pedestrian,Age: 16 - 60 Years,Male,2930,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,30
+25-Aug-22,12:34 PM,4337,1994,Vehicle Driver,Age: 16 - 60 Years,Unknown,2931,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,25
+25-Aug-22,12:34 PM,4338,1995,Unknown,Age: 16 - 60 Years,Male,2932,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,29
+25-Aug-22,12:34 PM,4339,1995,Unknown,Age: 16 - 60 Years,Male,2932,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,24
+25-Aug-22,12:34 PM,4340,1996,Pedestrian,Age: Unknown,Male,2933,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4341,1997,Pedestrian,Age: 60+,Male,2934,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,65
+25-Aug-22,12:34 PM,4342,1998,Vehicle Driver,Age: Unknown,Male,2935,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,4343,1998,Pedestrian,Age: 16 - 60 Years,Male,2935,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,4344,1999,Pedestrian,Age: 16 - 60 Years,Female,2936,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,30
+25-Aug-22,12:34 PM,4345,1999,Pedestrian,Age: 0 - 15 Years,Male,2936,Fatal Injury with Onsite Death,Not Applicable,Not eligible for license,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,1
+25-Aug-22,12:34 PM,4346,2000,Vehicle Passenger,Age: 16 - 60 Years,Female,2937,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,46
+25-Aug-22,12:34 PM,4347,2001,Pedestrian,Age: 16 - 60 Years,Male,2938,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,24
+25-Aug-22,12:34 PM,4348,2002,Vehicle Driver,Age: 16 - 60 Years,Male,2940,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,27
+25-Aug-22,12:34 PM,4349,2003,Vehicle Driver,Age: 16 - 60 Years,Male,2942,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,32
+25-Aug-22,12:34 PM,4350,2004,Pedestrian,Age: Unknown,Male,2943,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4351,2005,Vehicle Driver,Age: 16 - 60 Years,Male,2944,Non Fatal Injury without Permanent Damage,Driver,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,38
+25-Aug-22,12:34 PM,4352,2005,Vehicle Passenger,Age: 16 - 60 Years,Male,2944,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
+25-Aug-22,12:34 PM,4353,2006,Vehicle Driver,Age: 16 - 60 Years,Male,2945,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,57
+25-Aug-22,12:34 PM,4354,2007,Pedestrian,Age: 16 - 60 Years,Male,2946,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,4355,2008,Pedestrian,Age: 60+,Male,2947,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,74
+25-Aug-22,12:34 PM,4356,2009,Pedestrian,Age: 16 - 60 Years,Female,2948,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,60
+25-Aug-22,12:34 PM,4357,2010,Vehicle Passenger,Age: 16 - 60 Years,Female,2949,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,60
+25-Aug-22,12:34 PM,4358,2011,Vehicle Driver,Age: 16 - 60 Years,Male,2950,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
+25-Aug-22,12:34 PM,4359,2012,Pedestrian,Age: Unknown,Female,2951,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
+25-Aug-22,12:34 PM,4360,2013,Vehicle Driver,Age: 16 - 60 Years,Male,2952,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,23
+25-Aug-22,12:34 PM,4361,2014,Vehicle Driver,Age: 16 - 60 Years,Male,2953,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,27
+25-Aug-22,12:34 PM,4362,2015,Pedestrian,Age: Unknown,Female,2954,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4363,2016,Vehicle Driver,Age: Unknown,Male,2955,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,0
+25-Aug-22,12:34 PM,4364,2017,Pedestrian,Age: 16 - 60 Years,Male,2956,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,28
+25-Aug-22,12:34 PM,4365,2018,Pedestrian,Age: 16 - 60 Years,Male,2957,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,32
+25-Aug-22,12:34 PM,4366,2019,Pedestrian,Age: 16 - 60 Years,Male,2958,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,28
+25-Aug-22,12:34 PM,4367,2020,Pedestrian,Age: 16 - 60 Years,Female,2959,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,30
+25-Aug-22,12:34 PM,4368,2021,Vehicle Passenger,Age: 16 - 60 Years,Female,2960,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,4369,2022,Pedestrian,Age: 16 - 60 Years,Male,2961,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,54
+25-Aug-22,12:34 PM,4370,2023,Vehicle Driver,Age: 16 - 60 Years,Male,2962,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,32
+25-Aug-22,12:34 PM,4371,2024,Unknown,Age: 16 - 60 Years,Male,2963,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,19
+25-Aug-22,12:34 PM,4372,2024,Unknown,Age: 16 - 60 Years,Male,2963,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,21
+25-Aug-22,12:34 PM,4373,2025,Vehicle Driver,Age: 16 - 60 Years,Male,2964,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
+25-Aug-22,12:34 PM,4374,2026,Vehicle Driver,Age: 16 - 60 Years,Male,2965,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Alcohol,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,48
+25-Aug-22,12:34 PM,4375,2027,Pedestrian,Age: 60+,Male,2966,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,75
+25-Aug-22,12:34 PM,4376,2028,Pedestrian,Age: 16 - 60 Years,Male,2967,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,32
+25-Aug-22,12:34 PM,4377,2029,Vehicle Driver,Age: 16 - 60 Years,Male,2968,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,4378,2030,Pedestrian,Age: 16 - 60 Years,Female,2969,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,30
+25-Aug-22,12:34 PM,4379,2031,Pedestrian,Age: 16 - 60 Years,Male,2970,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,30
+25-Aug-22,12:34 PM,4380,2032,Pedestrian,Age: 16 - 60 Years,Male,2971,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,75
+25-Aug-22,12:34 PM,4381,2033,Vehicle Driver,Age: 16 - 60 Years,Male,2972,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,27
+25-Aug-22,12:34 PM,4382,2034,Pedestrian,Age: 16 - 60 Years,Male,2973,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,50
+25-Aug-22,12:34 PM,4383,2035,Vehicle Driver,Age: 16 - 60 Years,Male,2975,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,48
+25-Aug-22,12:34 PM,4384,2036,Vehicle Driver,Age: 16 - 60 Years,Male,2976,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,50
+25-Aug-22,12:34 PM,4385,2037,Vehicle Driver,Age: 16 - 60 Years,Male,2977,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,22
+25-Aug-22,12:34 PM,4386,2038,Pedestrian,Age: 60+,Male,2978,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,70
+25-Aug-22,12:34 PM,4387,2039,Vehicle Passenger,Age: 16 - 60 Years,Male,2979,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",4,,58
+25-Aug-22,12:34 PM,4388,2040,Vehicle Passenger,Age: 16 - 60 Years,Male,2981,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,35
+25-Aug-22,12:34 PM,4389,2040,Vehicle Passenger,Age: 0 - 15 Years,Male,2981,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,14
+25-Aug-22,12:34 PM,4390,2040,Vehicle Driver,Age: 16 - 60 Years,Male,2981,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,45
+25-Aug-22,12:34 PM,4391,2041,Pedestrian,Age: 16 - 60 Years,Male,2982,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,27
+25-Aug-22,12:34 PM,4392,2042,Pedestrian,Age: Unknown,Male,2983,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4393,2043,Pedestrian,Age: Unknown,Male,2984,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4394,2044,Vehicle Driver,Age: 16 - 60 Years,Male,2985,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,4395,2045,Pedestrian,Age: 16 - 60 Years,Male,2986,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,22
+25-Aug-22,12:34 PM,4396,2046,Pedestrian,Age: 16 - 60 Years,Male,2987,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,32
+25-Aug-22,12:34 PM,4397,2047,Vehicle Driver,Age: 16 - 60 Years,Male,2988,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,38
+25-Aug-22,12:34 PM,4398,2048,Pedestrian,Age: 16 - 60 Years,Male,2989,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,40
+25-Aug-22,12:34 PM,4399,2049,Pedestrian,Age: 16 - 60 Years,Male,2990,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,28
+25-Aug-22,12:34 PM,4400,2050,Pedestrian,Age: 60+,Male,2991,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,70
+25-Aug-22,12:34 PM,4401,2051,Pedestrian,Age: 16 - 60 Years,Male,2992,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,42
+25-Aug-22,12:34 PM,4402,2052,Pedestrian,Age: 16 - 60 Years,Female,2993,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,4403,2053,Pedestrian,Age: 16 - 60 Years,Male,2994,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,30
+25-Aug-22,12:34 PM,4404,2054,Vehicle Driver,Age: 16 - 60 Years,Male,2995,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,32
+25-Aug-22,12:34 PM,4405,2055,Pedestrian,Age: 16 - 60 Years,Male,2996,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,27
+25-Aug-22,12:34 PM,4406,2056,Vehicle Driver,Age: 16 - 60 Years,Male,2997,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,4407,2057,Vehicle Driver,Age: 16 - 60 Years,Male,2998,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,30
+25-Aug-22,12:34 PM,4408,2058,Pedestrian,Age: 16 - 60 Years,Male,2999,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
+25-Aug-22,12:34 PM,4409,2059,Pedestrian,Age: 16 - 60 Years,Male,3000,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,20
+25-Aug-22,12:34 PM,4410,2060,Pedestrian,Age: 16 - 60 Years,Male,3001,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,4411,2061,Pedestrian,Age: 16 - 60 Years,Male,3002,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, Treated at Trauma Centre",0,,18
+25-Aug-22,12:34 PM,4412,2061,Pedestrian,Age: 16 - 60 Years,Female,3002,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,20
+25-Aug-22,12:34 PM,4413,2061,Pedestrian,Age: 16 - 60 Years,Male,3002,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,21
+25-Aug-22,12:34 PM,4414,2061,Pedestrian,Age: 16 - 60 Years,Male,3002,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,19
+25-Aug-22,12:34 PM,4415,2062,Vehicle Driver,Age: 16 - 60 Years,Male,3004,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,35
+25-Aug-22,12:34 PM,4416,2063,Vehicle Driver,Age: 16 - 60 Years,Male,3005,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+25-Aug-22,12:34 PM,4417,2064,Unknown,Age: 16 - 60 Years,Male,3006,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,28
+25-Aug-22,12:34 PM,4418,2064,Unknown,Age: 16 - 60 Years,Male,3006,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,27
+25-Aug-22,12:34 PM,4419,2065,Unknown,Age: 16 - 60 Years,Male,3007,Fatal Injury with Onsite Death,Unknown,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,59
+25-Aug-22,12:34 PM,4420,2065,Unknown,Age: 16 - 60 Years,Male,3007,Fatal Injury with Onsite Death,Unknown,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,42
+25-Aug-22,12:34 PM,4421,2066,Vehicle Driver,Age: 16 - 60 Years,Male,3008,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,23
+25-Aug-22,12:34 PM,4422,2066,Vehicle Passenger,Age: 16 - 60 Years,Male,3008,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,24
+25-Aug-22,12:34 PM,4423,2067,Vehicle Driver,Age: 16 - 60 Years,Male,3009,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,31
+25-Aug-22,12:34 PM,4424,2068,Vehicle Driver,Age: 16 - 60 Years,Male,3011,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,1,,42
+25-Aug-22,12:34 PM,4425,2068,Vehicle Driver,Age: 16 - 60 Years,Male,3012,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,20
+25-Aug-22,12:34 PM,4426,2069,Vehicle Driver,Age: 16 - 60 Years,Male,3014,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,30
+25-Aug-22,12:34 PM,4427,2069,Vehicle Passenger,Age: 16 - 60 Years,Male,3014,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,28
+25-Aug-22,12:34 PM,4428,2070,Pedestrian,Age: Unknown,Female,3015,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4429,2070,Vehicle Driver,Age: Unknown,Male,3015,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
+25-Aug-22,12:34 PM,4430,2071,Pedestrian,Age: 16 - 60 Years,Male,3016,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,4431,2071,Vehicle Driver,Age: Unknown,Male,3017,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,50
+25-Aug-22,12:34 PM,4432,2071,Vehicle Driver,Age: 16 - 60 Years,Male,3018,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,20
+25-Aug-22,12:34 PM,4433,2073,Vehicle Driver,Age: 16 - 60 Years,Male,3019,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,50
+25-Aug-22,12:34 PM,4434,2074,Pedestrian,Age: 60+,Male,3020,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,65
+25-Aug-22,12:34 PM,4435,2075,Vehicle Driver,Age: Unknown,Male,3021,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,0
+25-Aug-22,12:34 PM,4436,2076,Pedestrian,Age: 16 - 60 Years,Male,3022,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,21
+25-Aug-22,12:34 PM,4437,2077,Pedestrian,Age: 0 - 15 Years,Male,3023,Fatal Injury with Offsite Death,Not Applicable,Not eligible for license,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,3
+25-Aug-22,12:34 PM,4438,2078,Pedestrian,Age: 16 - 60 Years,Male,3024,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+25-Aug-22,12:34 PM,4439,2079,Pedestrian,Age: 0 - 15 Years,Female,3025,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,1
+25-Aug-22,12:34 PM,4440,2080,Pedestrian,Age: 16 - 60 Years,Female,3026,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Private Vehicle, DoA",0,,42
+25-Aug-22,12:34 PM,4441,2081,Pedestrian,Age: Unknown,Unknown,3027,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,Unknown,0,,0
+25-Aug-22,12:34 PM,4442,2082,Vehicle Driver,Age: 16 - 60 Years,Male,3029,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,37
+25-Aug-22,12:34 PM,4443,2082,Vehicle Passenger,Age: 0 - 15 Years,Male,3029,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Not eligible for license,,Unknown,Not Applicable,No Treatement - Death on Spot,0,,7
+25-Aug-22,12:34 PM,4444,2083,Pedestrian,Age: 16 - 60 Years,Male,3030,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,58
+25-Aug-22,12:34 PM,4445,2084,Vehicle Driver,Age: 16 - 60 Years,Male,3031,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Not Applicable,Not Applicable,"Police Vehicle, DoA",0,,52
+25-Aug-22,12:34 PM,4446,2085,Pedestrian,Age: 16 - 60 Years,Male,3032,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,25
+25-Aug-22,12:34 PM,4447,2086,Pedestrian,Age: 16 - 60 Years,Male,3033,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+25-Aug-22,12:34 PM,4448,2087,Vehicle Driver,Age: 16 - 60 Years,Male,3034,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,24
+25-Aug-22,12:34 PM,4449,2088,Vehicle Driver,Age: 16 - 60 Years,Male,3035,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,4450,2089,Vehicle Driver,Age: 16 - 60 Years,Male,3036,Fatal Injury with Onsite Death,Driver,Driver Licence Not Needed,,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,4451,2090,Unknown,Age: 16 - 60 Years,Male,3038,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,20
+25-Aug-22,12:34 PM,4452,2090,Unknown,Age: 16 - 60 Years,Male,3038,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,26
+25-Aug-22,12:34 PM,4453,2091,Unknown,Age: 16 - 60 Years,Male,3039,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,19
+25-Aug-22,12:34 PM,4454,2091,Unknown,Age: 16 - 60 Years,Male,3039,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,28
+25-Aug-22,12:34 PM,4455,2092,Unknown,Age: 16 - 60 Years,Male,3040,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,25
+25-Aug-22,12:34 PM,4456,2092,Unknown,Age: 16 - 60 Years,Male,3040,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,22
+25-Aug-22,12:34 PM,4457,2093,Vehicle Passenger,Age: 16 - 60 Years,Male,3041,Fatal Injury with Offsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,55
+25-Aug-22,12:34 PM,4458,2094,Pedestrian,Age: Unknown,Male,3042,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
+25-Aug-22,12:34 PM,4459,2095,Unknown,Age: 16 - 60 Years,Male,3043,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,23
+25-Aug-22,12:34 PM,4460,2095,Unknown,Age: 16 - 60 Years,Unknown,3043,Non Fatal Injury without Permanent Damage,Unknown,Not eligible for license,,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,17
+25-Aug-22,12:34 PM,4461,2096,Pedestrian,Age: 16 - 60 Years,Male,3044,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,55
+25-Aug-22,12:34 PM,4462,2097,Pedestrian,Age: Unknown,Male,3045,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
+25-Aug-22,12:34 PM,4463,2098,Vehicle Driver,Age: 16 - 60 Years,Male,3046,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,26
+25-Aug-22,12:34 PM,4464,2099,Pedestrian,Age: 16 - 60 Years,Male,3047,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
+25-Aug-22,12:34 PM,4465,2100,Vehicle Driver,Age: 16 - 60 Years,Male,3049,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,35
+25-Aug-22,12:34 PM,4466,2101,Unknown,Age: 16 - 60 Years,Male,3050,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
+25-Aug-22,12:34 PM,4467,2101,Unknown,Age: 16 - 60 Years,Male,3050,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,4468,2102,Pedestrian,Age: 16 - 60 Years,Male,3051,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
+25-Aug-22,12:34 PM,4469,2103,Vehicle Driver,Age: 16 - 60 Years,Male,3052,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,45
+25-Aug-22,12:34 PM,4470,2103,Vehicle Driver,Age: 16 - 60 Years,Male,3053,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,22
+25-Aug-22,12:34 PM,4471,2104,Vehicle Driver,Age: 16 - 60 Years,Male,3055,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,23
+25-Aug-22,12:34 PM,4472,2105,Vehicle Driver,Age: 16 - 60 Years,Male,3056,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+25-Aug-22,12:34 PM,4473,2106,Unknown,Age: 16 - 60 Years,Male,3057,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,40
+25-Aug-22,12:34 PM,4474,2106,Unknown,Age: 16 - 60 Years,Male,3057,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,40
+25-Aug-22,12:34 PM,4475,2107,Unknown,Age: 16 - 60 Years,Male,3059,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,23
+25-Aug-22,12:34 PM,4476,2107,Unknown,Age: 16 - 60 Years,Male,3059,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,25
+25-Aug-22,12:34 PM,4477,2108,Unknown,Age: 16 - 60 Years,Male,3060,,Unknown,Unknown Licence Status,Alcohol,Unknown,,,0,,31
+25-Aug-22,12:34 PM,4478,2108,Unknown,Age: 16 - 60 Years,Male,3060,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,29
+25-Aug-22,12:34 PM,4479,2109,,,,0,,,,,,,,0,,0
+25-Aug-22,12:34 PM,4480,2110,Vehicle Driver,Age: 16 - 60 Years,Male,3071,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,25
+25-Aug-22,12:34 PM,4481,2111,Unknown,Age: 0 - 15 Years,Male,3072,,Unknown,Not eligible for license,,Unknown,,,0,,15
+25-Aug-22,12:34 PM,4482,2111,Unknown,Age: 0 - 15 Years,Male,3072,,Unknown,Not eligible for license,,Unknown,,,0,,11
+25-Aug-22,12:34 PM,4483,2112,Unknown,Age: Unknown,Male,3073,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,0
+25-Aug-22,12:34 PM,4484,2112,Unknown,Age: Unknown,Male,3073,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,0
+25-Aug-22,12:34 PM,4485,2112,Unknown,Age: Unknown,Male,3073,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,0
+25-Aug-22,12:34 PM,4486,2113,Unknown,Age: 16 - 60 Years,Female,0,,Unknown,,,,,,0,,40
+25-Aug-22,12:34 PM,4487,2113,Unknown,Age: 16 - 60 Years,Female,0,,Unknown,,,,,,0,,27
+25-Aug-22,12:34 PM,4488,2114,Pedestrian,Age: 16 - 60 Years,Male,3076,,Not Applicable,,,,,,0,,45
+25-Aug-22,12:34 PM,4489,2114,Pedestrian,Age: 16 - 60 Years,Male,3076,,Not Applicable,,,,,,0,,26
+25-Aug-22,12:34 PM,4490,2115,Pedestrian,Age: 16 - 60 Years,Male,3077,,Not Applicable,,,,,,0,,20
+25-Aug-22,12:34 PM,4491,2115,Pedestrian,Age: 16 - 60 Years,Male,3077,,Not Applicable,,,,,,0,,16
+25-Aug-22,12:34 PM,4492,2116,Vehicle Driver,Age: 16 - 60 Years,Male,0,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,20
+25-Aug-22,12:34 PM,4493,2116,Vehicle Driver,Age: 16 - 60 Years,Male,0,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,22
+25-Aug-22,12:34 PM,4494,2117,Vehicle Passenger,Age: 16 - 60 Years,Female,3080,,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,,,0,,50
+25-Aug-22,12:34 PM,4495,2117,Vehicle Passenger,Age: 16 - 60 Years,Female,3080,,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,,,0,,45
+25-Aug-22,12:34 PM,4496,2117,Vehicle Passenger,Age: 16 - 60 Years,Female,3080,,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,,,0,,45
+25-Aug-22,12:34 PM,4497,2117,Vehicle Passenger,Age: 16 - 60 Years,Female,3080,,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,,,0,,26
+25-Aug-22,12:34 PM,4498,2118,,,,3083,,,,,,,,0,,0
+25-Aug-22,12:34 PM,4499,2119,,Age: 16 - 60 Years,Female,3084,,,,,,,,0,,34
+25-Aug-22,12:34 PM,4500,2119,,Age: 16 - 60 Years,Male,3084,,,,,,,,0,,18
+25-Aug-22,12:34 PM,4501,2119,,Age: 0 - 15 Years,Male,3084,,,,,,,,0,,12
+25-Aug-22,12:34 PM,4502,2120,Vehicle Driver,Age: 16 - 60 Years,Male,3085,,Driver,,,,,,0,,23
+25-Aug-22,12:34 PM,4503,2120,Vehicle Driver,Age: 16 - 60 Years,Male,3086,,Driver,,,,,,0,,39
+25-Aug-22,12:34 PM,4504,2121,,Age: 16 - 60 Years,Male,3087,,,,,,,,0,,26
+25-Aug-22,12:34 PM,4505,2121,,Age: 16 - 60 Years,Male,3087,,,,,,,,0,,52
+25-Aug-22,12:34 PM,4506,2122,Pedestrian,Age: 0 - 15 Years,Female,3088,,Not Applicable,Not eligible for license,,Not Applicable,,,0,,6
+25-Aug-22,12:34 PM,4507,2122,Pedestrian,Age: 0 - 15 Years,Female,3088,,Not Applicable,Not eligible for license,,Not Applicable,,,0,,6
+25-Aug-22,12:34 PM,4508,2122,Pedestrian,Age: 0 - 15 Years,Female,3088,,Not Applicable,Not eligible for license,,Not Applicable,,,0,,6
+25-Aug-22,12:34 PM,4509,2122,Pedestrian,Age: 0 - 15 Years,Female,3088,,Not Applicable,Not eligible for license,,Not Applicable,,,0,,8
+25-Aug-22,12:34 PM,4510,2123,Unknown,Age: 16 - 60 Years,Male,3089,,Unknown,,,,,,0,,40
+25-Aug-22,12:34 PM,4511,2123,Unknown,Age: 16 - 60 Years,Male,3089,,Unknown,,,,,,0,,40
+25-Aug-22,12:34 PM,4512,2124,,Age: 16 - 60 Years,Male,3090,,,,,,,,0,,23
+25-Aug-22,12:34 PM,4513,2124,,Age: 16 - 60 Years,Male,3090,,,,,,,,0,,27
+25-Aug-22,12:34 PM,4514,2124,,Age: Unknown,Male,3090,,,,,,,,0,,0
+25-Aug-22,12:34 PM,4515,2125,Vehicle Driver,Age: 16 - 60 Years,Male,3092,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,25
+25-Aug-22,12:34 PM,4516,2125,Vehicle Driver,Age: 16 - 60 Years,Male,3093,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,30
+25-Aug-22,12:34 PM,4517,2126,,Age: 16 - 60 Years,Male,3094,,,,,,,,0,,25
+25-Aug-22,12:34 PM,4518,2126,,Age: Unknown,Male,3094,,,,,,,,0,,0
+25-Aug-22,12:34 PM,4519,2127,,Age: Unknown,Male,3096,,,,,,,,0,,0
+25-Aug-22,12:34 PM,4520,2127,,Age: Unknown,Male,3096,,,,,,,,0,,0
+25-Aug-22,12:34 PM,4521,2127,,Age: Unknown,Male,3096,,,,,,,,0,,0
+25-Aug-22,12:34 PM,4522,2128,Vehicle Driver,Age: 16 - 60 Years,Male,3097,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,28
+25-Aug-22,12:34 PM,4523,2128,,,,3097,,,,,,,,0,,0
+25-Aug-22,12:34 PM,4524,2128,Vehicle Driver,Age: 16 - 60 Years,Male,3098,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,42
+25-Aug-22,12:34 PM,4525,2129,Vehicle Driver,Age: 16 - 60 Years,Male,0,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,21
+25-Aug-22,12:34 PM,4526,2129,Vehicle Driver,Age: 16 - 60 Years,Male,0,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,32
+25-Aug-22,12:34 PM,4527,2129,Vehicle Driver,Age: 16 - 60 Years,Male,0,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,41
+25-Aug-22,12:34 PM,4528,2130,Pedestrian,Age: 16 - 60 Years,Male,3107,,Not Applicable,,,,,,0,,25
+25-Aug-22,12:34 PM,4529,2130,Pedestrian,Age: 16 - 60 Years,Male,3107,,Not Applicable,,,,,,0,,45
+25-Aug-22,12:34 PM,4530,2131,Pedestrian,Age: 60+,Male,3108,,Not Applicable,,,,,,0,,65
+25-Aug-22,12:34 PM,4531,2131,Pedestrian,Age: 16 - 60 Years,Male,3108,,Not Applicable,,,,,,0,,22
+25-Aug-22,12:34 PM,4532,2132,Unknown,Age: 16 - 60 Years,Male,3110,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,27
+25-Aug-22,12:34 PM,4533,2132,Unknown,Age: 16 - 60 Years,Male,3110,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,28
+25-Aug-22,12:34 PM,4534,2133,Pedestrian,Age: 16 - 60 Years,Male,3111,,Not Applicable,Driver Licence Not Needed,,Not Applicable,,,0,,50
+25-Aug-22,12:34 PM,4535,2133,Pedestrian,Age: 16 - 60 Years,Male,3111,,Not Applicable,Driver Licence Not Needed,,Not Applicable,,,0,,22
+25-Aug-22,12:34 PM,4536,2134,Vehicle Driver,Age: 16 - 60 Years,Male,3112,,Driver,Unknown Licence Status,Alcohol,Unknown,,,0,,23
+25-Aug-22,12:34 PM,4537,2134,Vehicle Passenger,Age: 16 - 60 Years,Male,3112,,Passenger / Pillion Rider,Driver Licence Not Needed,Alcohol,Unknown,,,0,,22
+25-Aug-22,12:34 PM,4538,2135,Pedestrian,Age: 16 - 60 Years,Female,3113,,,Driver Licence Not Needed,,Not Applicable,,,0,,29
+25-Aug-22,12:34 PM,4539,2135,Pedestrian,Age: 0 - 15 Years,Female,3113,,Not Applicable,Not eligible for license,,Not Applicable,,,0,,3
+25-Aug-22,12:34 PM,4540,2136,Vehicle Driver,Age: Unknown,Male,3114,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,0
+25-Aug-22,12:34 PM,4541,2136,Vehicle Passenger,Age: Unknown,Female,3114,,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,,,0,,0
+25-Aug-22,12:34 PM,4542,2136,Vehicle Driver,Age: Unknown,Male,3115,,Driver,Unknown Licence Status,Alcohol,Unknown,,,0,,0
+25-Aug-22,12:34 PM,4543,2137,Pedestrian,Age: 16 - 60 Years,Male,3116,,Not Applicable,Driver Licence Not Needed,,Not Applicable,,,0,,60
+25-Aug-22,12:34 PM,4544,2137,Vehicle Driver,Age: Unknown,Male,3116,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,0
+25-Aug-22,12:34 PM,4545,2138,Unknown,Age: Unknown,Male,3118,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,0
+25-Aug-22,12:34 PM,4546,2138,Unknown,Age: Unknown,Male,3118,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,0
+25-Aug-22,12:34 PM,4547,2139,Unknown,Age: 16 - 60 Years,Male,3119,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,32
+25-Aug-22,12:34 PM,4548,2139,Unknown,Age: 16 - 60 Years,Male,3119,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,32
+25-Aug-22,12:34 PM,4549,2140,Vehicle Passenger,Age: 16 - 60 Years,Male,3120,,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,,,0,,20
+25-Aug-22,12:34 PM,4550,2140,Vehicle Passenger,Age: 16 - 60 Years,Male,3120,,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,,,0,,21
+25-Aug-22,12:34 PM,4551,2140,Vehicle Driver,Age: 16 - 60 Years,Male,3121,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,50
+25-Aug-22,12:34 PM,4552,2140,Vehicle Passenger,Age: 16 - 60 Years,Male,3121,,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,,,0,,35
+25-Aug-22,12:34 PM,4553,2141,Vehicle Driver,Age: 16 - 60 Years,Male,3122,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,52
+25-Aug-22,12:34 PM,4554,2141,Vehicle Passenger,Age: 16 - 60 Years,Male,3122,,Passenger / Pillion Rider,Driver Licence Not Needed,,Unknown,,,0,,32
+25-Aug-22,12:34 PM,4555,2141,Vehicle Driver,Age: 60+,Male,3123,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,63
+25-Aug-22,12:34 PM,4556,2142,Vehicle Driver,Age: 16 - 60 Years,Male,3124,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,28
+25-Aug-22,12:34 PM,4557,2142,Vehicle Passenger,Age: 16 - 60 Years,Female,3124,,Passenger / Pillion Rider,Driver Licence Not Needed,,Not Applicable,,,0,,25
+25-Aug-22,12:34 PM,4558,2143,Vehicle Driver,Age: 16 - 60 Years,Male,3125,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,22
+25-Aug-22,12:34 PM,4559,2143,Pedestrian,Age: Unknown,Male,3125,,Not Applicable,Driver Licence Not Needed,,Not Applicable,,,0,,0
+25-Aug-22,12:34 PM,4560,2144,Vehicle Driver,Age: Unknown,Male,3126,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,0
+25-Aug-22,12:34 PM,4561,2144,Vehicle Driver,Age: 16 - 60 Years,Male,3126,,Driver,Driver Licence Not Needed,,Not Applicable,,,0,,16
+25-Aug-22,12:34 PM,4562,2145,Unknown,Age: Unknown,Male,3127,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,0
+25-Aug-22,12:34 PM,4563,2145,Unknown,Age: Unknown,Male,3127,,Unknown,Unknown Licence Status,Unknown,Unknown,,,0,,0
