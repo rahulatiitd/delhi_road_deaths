@@ -189,29 +189,29 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Bi
 
 victim_19 <- victim_19 %>% drop_na(PS_Name) %>% drop_na(FIR_No)
 
-ps_lookup_dp <- read_csv("data/ps_lookup_2016_2020_w_2019.csv")
+ps_lookup_dp <- read.csv("data/ps_lookup_2016_2020_w_2019.csv")
 
-ps_lookup_dp <- ps_lookup_dp %>% select(`POLICE STATION`, PS_Name)
+ps_lookup_dp <- ps_lookup_dp %>% select(`POLICE.STATION`, PS_Name)
 
-DP_crash_level_data <- read_csv("data/2016_2020_crash_level_data.csv")
+DP_crash_level_data <- read.csv("data/2016_2020_crash_level_data.csv")
 
-x <- unique(DP_crash_level_data$`U/S`)
+x <- unique(DP_crash_level_data$`U.S`)
 
 x <-x[c(3,5,7)]
 
 DP_crash_level_data <- 
   DP_crash_level_data %>% 
-  filter(`U/S` %in% x) %>% 
+  filter(`U.S` %in% x) %>% 
   filter(YEAR==2019)
 
-colnames(DP_crash_level_data) <- c("SL NO.", "FIR_No", "PS_Name" , "U/S", 
+colnames(DP_crash_level_data) <- c("SL NO.", "FIR_No", "PS_Name" , "U.S", 
                                    "Date_Of_Crash_DP", "OFFENDING VEHICLE_DP",  
                                    "VICTIMS_DP", "PLACE OF OCCURANCE_DP", 
                                    "ROAD NAME_DP", "YEAR_DP"  )
 
 for (i in 1:nrow(DP_crash_level_data)){
   DP_crash_level_data$PS_Name[i] <- 
-    ps_lookup_dp$PS_Name[which(ps_lookup_dp$`POLICE STATION`== 
+    ps_lookup_dp$PS_Name[which(ps_lookup_dp$`POLICE.STATION`== 
                                  DP_crash_level_data$PS_Name[i])]
 }
 
