@@ -4,11 +4,11 @@
 ################################################################################
 
 
-crash1 <- read_csv("data/2019/1_Crash_Form_1.csv")
-crash2 <- read_csv("data/2019/1_Crash_Form_2.csv")
+crash1 <- read.csv("data/2019/1_Crash_Form_1.csv")
+crash2 <- read.csv("data/2019/1_Crash_Form_2.csv")
 
-ps_names1 <- read_csv("data/2019/Usys1_2_PSDetail_1.csv")
-ps_names2 <- read_csv("data/2019/Usys1_2_PSDetail_2.csv")
+ps_names1 <- read.csv("data/2019/Usys1_2_PSDetail_1.csv")
+ps_names2 <- read.csv("data/2019/Usys1_2_PSDetail_2.csv")
 
 
 crash1$PS_Name <- NA
@@ -28,11 +28,11 @@ for (i in 1:nrow(crash2)){
   crash2$PS_Name[i] <- ps_names2$PS_Name[which(ps_names2$PS_ID==crash2$Police_Station[i])]
 }
 
-vehicle1 <- read_csv("data/2019/2_Vehicle_Form_1.csv")
-vehicle2 <- read_csv("data/2019/2_Vehicle_Form_2.csv")
+vehicle1 <- read.csv("data/2019/2_Vehicle_Form_1.csv")
+vehicle2 <- read.csv("data/2019/2_Vehicle_Form_2.csv")
 
-victim1 <- read_csv("data/2019/3_Person_Form_1.csv")
-victim2 <- read_csv("data/2019/3_Person_Form_2.csv")
+victim1 <- read.csv("data/2019/3_Person_Form_1.csv")
+victim2 <- read.csv("data/2019/3_Person_Form_2.csv")
 
 # Reading file that has police station names and districts 
 pstation <- read.csv("data/2021/PS_lookup_181.csv")
@@ -62,7 +62,7 @@ rm(victim1, victim2)
 crash_19$FIR_No <- substr(crash_19$FIR_No, 1, 4)
 
 ################################################################################
-# Assigning crash_ID to those vehicle where it is not available
+# removing entries without crash id
 ################################################################################
 
 x<-unique(vehicle_19$Vehicle_ID[which(is.na(vehicle_19$Crash_ID))])
