@@ -116,7 +116,9 @@ victim_19$Impacting_VehOrObject[ which ( victim_19$Road_User=="Pedestrian" &
   victim_19$Vehicle_Type[ which ( victim_19$Road_User=="Pedestrian" & 
                                     victim_19$Impacting_VehOrObject=="Pedestrian")]
 
-victim_19$Vehicle_Type[which(victim_19$Road_User=="Pedestrian" )]<- "Pedestrian"
+victim_19$Vehicle_Type[which(victim_19$Road_User=="Disembarked Vehicle Occupant")]<- "Pedestrian"
+
+# disembarked should also be pedestrian in vehicle type
 
 
 

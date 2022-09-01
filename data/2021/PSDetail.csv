@@ -1,0 +1,182 @@
+PS_ID,PS_State,PS_Name,PS_Dist
+1,Delhi,Adarsh Nagar,Delhi
+2,Delhi,Ali Pur,Delhi
+3,Delhi,Aman Vihar,Delhi
+4,Delhi,Amar Colony,Delhi
+5,Delhi,CIVIL LINESAmbedkar Nagar,Delhi
+6,Delhi,Anand Parbat,Delhi
+7,Delhi,AnandVihar,Delhi
+8,Delhi,Ashok Vihar,Delhi
+9,Delhi,Baba Haridas Nagar,Delhi
+10,Delhi,Badarpur,Delhi
+11,Delhi,Bara Hindu Rao,Delhi
+12,Delhi,Barakhamba Road,Delhi
+13,Delhi,Bawana,Delhi
+14,Delhi,BegumPur,Delhi
+15,Delhi,Bhajan Pura,Delhi
+16,Delhi,Bhalaswa Dairy,Delhi
+17,Delhi,Bharat Nagar,Delhi
+18,Delhi,Binda Pur,Delhi
+19,Delhi,BudhVihar,Delhi
+20,Delhi,Burari,Delhi
+21,Delhi,Chandni Mahal,Delhi
+22,Delhi,ChankyaPuri,Delhi
+23,Delhi,Chhawla,Delhi
+24,Delhi,Chitaranjan Park,Delhi
+25,Delhi,Civil Lines,Delhi
+26,Delhi,Connaught Place,Delhi
+27,Delhi,D.B.G. Road,Delhi
+28,Delhi,Dabri,Delhi
+29,Delhi,Darya Ganj,Delhi
+30,Delhi,Dayalpur,Delhi
+31,Delhi,Defence Colony,Delhi
+32,Delhi,Delhi Cantt.,Delhi
+33,Delhi,Dwarka North,Delhi
+34,Delhi,Dwarka South,Delhi
+35,Delhi,Farash Bazar,Delhi
+36,Delhi,Fatehpur Beri,Delhi
+37,Delhi,G.T B. Enclave,Delhi
+38,Delhi,Gandhi Nagar,Delhi
+39,Delhi,Geeta Colony,Delhi
+40,Delhi,Ghazipur,Delhi
+41,Delhi,GokulPuri,Delhi
+42,Delhi,GovindPuri,Delhi
+43,Delhi,Greater Kailash,Delhi
+44,Delhi,GulabiBagh,Delhi
+45,Delhi,Hari Nagar,Delhi
+46,Delhi,Harsh Vihar,Delhi
+47,Delhi,Hauz Qazi,Delhi
+48,Delhi,HauzKhas,Delhi
+49,Delhi,Hazrat Nizammuddin,Delhi
+50,Delhi,I.P. Estate,Delhi
+51,Delhi,Inder Puri,Delhi
+52,Delhi,Jaffarpur Kalan,Delhi
+53,Delhi,Jaffrabad,Delhi
+54,Delhi,Jagatpuri,Delhi
+55,Delhi,Jahangir Puri,Delhi
+56,Delhi,Jaitpur,Delhi
+57,Delhi,JamaMasjid,Delhi
+58,Delhi,Jamia Nagar,Delhi
+59,Delhi,JanakPuri,Delhi
+60,Delhi,IG/Airport,Delhi
+61,Delhi,Jyoti Nagar,Delhi
+62,Delhi,K.N katju Marg,Delhi
+63,Delhi,Kalindi Kunj,Delhi
+64,Delhi,Kalkaji,Delhi
+65,Delhi,KalyanPuri,Delhi
+66,Delhi,Kamla Market,Delhi
+67,Delhi,Kanjhawala,Delhi
+68,Delhi,Kapashera,Delhi
+69,Delhi,Karawal Nagar,Delhi
+70,Delhi,Karol Bagh,Delhi
+71,Delhi,Kashmere Gate,Delhi
+72,Delhi,Keshav Puram,Delhi
+73,Delhi,KhajuriKhas,Delhi
+74,Delhi,Khyala,Delhi
+75,Delhi,Kirti Nagar,Delhi
+76,Delhi,KishanGarh,Delhi
+77,Delhi,Kotla Mubarak Pur,Delhi
+78,Delhi,Kotwali,Delhi
+79,Delhi,Krishna Nagar,Delhi
+80,Delhi,Lahori Gate,Delhi
+81,Delhi,Lajpat Nagar,Delhi
+82,Delhi,LaxmiNagar,Delhi
+83,Delhi,Lodhi Colony,Delhi
+84,Delhi,Mansarover Park,Delhi
+85,Delhi,Malviya Nagar,Delhi
+86,Delhi,MadhuVihar,Delhi
+87,Delhi,Mahendra Park,Delhi
+88,Delhi,MaidanGarhi,Delhi
+89,Delhi,Mandawali,Delhi
+90,Delhi,Mandir Marg,Delhi
+91,Delhi,MangolPuri,Delhi
+92,Delhi,Maurice Nagar,Delhi
+93,Delhi,Maurya Enclave,Delhi
+94,Delhi,MayurVihar,Delhi
+95,Delhi,Maya Puri,Delhi
+96,Delhi,Mehrauli,Delhi
+97,Delhi,Model Town,Delhi
+98,Delhi,Mohan Garden,Delhi
+99,Delhi,Mukherji Nagar,Delhi
+100,Delhi,Mundka,Delhi
+101,Delhi,Nabi Karim,Delhi
+102,Delhi,Najafgarh,Delhi
+103,Delhi,NandNagari,Delhi
+104,Delhi,Nangloi,Delhi
+105,Delhi,Naraina,Delhi
+106,Delhi,Narela,Delhi
+107,Delhi,Narelalnd. Area,Delhi
+108,Delhi,Neb Sarai,Delhi
+109,Delhi,New Friends Colony,Delhi
+110,Delhi,New Usman Pur,Delhi
+111,Delhi,NewAshok Naf!ar,Delhi
+112,Delhi,NihalVihar,Delhi
+113,Delhi,North Avenue,Delhi
+114,Delhi,North Rohini,Delhi
+115,Delhi,Okhla Ind. Area,Delhi
+116,Delhi,Palam Airport,Delhi
+117,Delhi,Palam Village,Delhi
+118,Delhi,PaharGanj,Delhi
+119,Delhi,Pandav Nagar,Delhi
+120,Delhi,Parliament Street,Delhi
+121,Delhi,Parshad Nagar,Delhi
+122,Delhi,ParshantVihar,Delhi
+123,Delhi,PaschimVihar (East),Delhi
+124,Delhi,PaschimVihar (West),Delhi
+125,Delhi,Patel Nagar,Delhi
+126,Delhi,Patparganj Ind. Area,Delhi
+127,Delhi,Preet Vihar,Delhi
+128,Delhi,Prem Nagar,Delhi
+129,Delhi,PulPrahladPur,Delhi
+130,Delhi,Punjabi Bagh,Delhi
+131,Delhi,Moti nagar,Delhi
+132,Delhi,R.K Puram,Delhi
+133,Delhi,Raj Park,Delhi
+134,Delhi,Rajinder Nagar,Delhi
+135,Delhi,Rajouri Garden,Delhi
+136,Delhi,Ranhola,Delhi
+137,Delhi,Rani Bagh,Delhi
+138,Delhi,Ranjit Nagar,Delhi
+139,Delhi,Roop Nagar,Delhi
+140,Delhi,Sabzi Mandi,Delhi
+141,Delhi,Sadar Bazar,Delhi
+142,Delhi,Safdarjung Enclave,Delhi
+143,Delhi,Sagar Pur,Delhi
+144,Delhi,Saket,Delhi
+145,Delhi,SamayPurBadli,Delhi
+146,Delhi,SangamVihar,Delhi
+147,Delhi,Sarai Rohilla,Delhi
+148,Delhi,Sarita Vihar,Delhi
+149,Delhi,Sarojini Nagar,Delhi
+150,Delhi,Sector-23 Dwarka,Delhi
+151,Delhi,Seelampur,Delhi
+152,Delhi,Seema Puri,Delhi
+153,Delhi,Shahbad Dairy,Delhi
+154,Delhi,Shahdara,Delhi
+155,Delhi,ShaheenBagh,Delhi
+156,Delhi,ShakarPur,Delhi
+157,Delhi,Shalimar Bagh,Delhi
+158,Delhi,Shastri Park,Delhi
+159,Delhi,Sonia Vihar,Delhi
+160,Delhi,South Avenue,Delhi
+161,Delhi,South Campus,Delhi
+162,Delhi,South Rohini,Delhi
+163,Delhi,Subhash Place,Delhi
+164,Delhi,Sultan Puri,Delhi
+165,Delhi,Sunlight Colony,Delhi
+166,Delhi,Swarup Nagar,Delhi
+167,Delhi,TilakMarg,Delhi
+168,Delhi,Tigri,Delhi
+169,Delhi,Tilak Nagar,Delhi
+170,Delhi,TimarPur,Delhi
+171,Delhi,Tughlak Road,Delhi
+172,Delhi,UttamNagar,Delhi
+184,Delhi,Vasant Kunj (North),Delhi
+185,Delhi,Vasant Kunj (South),Delhi
+186,Delhi,Vasant Vihar,Delhi
+187,Delhi,Vijay Vihar,Delhi
+188,Delhi,VikasPuri,Delhi
+189,Delhi,Vivek Vihar,Delhi
+190,Delhi,Wazirabad,Delhi
+445,Delhi,Welcome,Delhi
+449,Delhi,Moti Nagar,Delhi
