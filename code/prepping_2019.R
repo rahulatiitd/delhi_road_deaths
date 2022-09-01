@@ -277,28 +277,22 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Bi
 
 victim_19 <- victim_19 %>% drop_na(PS_Name) %>% drop_na(FIR_No)
 
-<<<<<<< HEAD
-ps_lookup_dp <- read.csv("data/ps_lookup_2016_2020_w_2019.csv")
-=======
+ps_lookup_dp <- read_csv("data/ps_lookup_2016_2020_w_2019.csv")
 
 # This is to be able to map the police station names between the two datasets
 
 ps_lookup_dp <- read_csv("data/ps_lookup_2016_2020_w_2019.csv")
->>>>>>> cdf78333e78b250a4eb6ce7f3a471e4658cc8e18
 
 ps_lookup_dp <- ps_lookup_dp %>% select(`POLICE.STATION`, PS_Name)
 
-<<<<<<< HEAD
-DP_crash_level_data <- read.csv("data/2016_2020_crash_level_data.csv")
-=======
+DP_crash_level_data <- read_csv("data/2016_2020_crash_level_data.csv")
 
 # Prepping the delhi police data to compare
 #-------------------------------------------------------------------------------
 
 DP_crash_level_data <- read_csv("data/2016_2020_crash_level_data.csv")
->>>>>>> cdf78333e78b250a4eb6ce7f3a471e4658cc8e18
 
-x <- unique(DP_crash_level_data$`U.S`)
+x <- unique(DP_crash_level_data$`U/S`)
 
 # only relevant IPC section chosen - contains 304A
 x <-x[c(3,5,7)]
@@ -309,12 +303,9 @@ DP_crash_level_data <-
   filter(`U.S` %in% x) %>% 
   filter(YEAR==2019)
 
-<<<<<<< HEAD
-colnames(DP_crash_level_data) <- c("SL NO.", "FIR_No", "PS_Name" , "U.S", 
-=======
+
 # changing column names to be able to merge
 colnames(DP_crash_level_data) <- c("SL NO.", "FIR_No", "PS_Name" , "U/S", 
->>>>>>> cdf78333e78b250a4eb6ce7f3a471e4658cc8e18
                                    "Date_Of_Crash_DP", "OFFENDING VEHICLE_DP",  
                                    "VICTIMS_DP", "PLACE OF OCCURANCE_DP", 
                                    "ROAD NAME_DP", "YEAR_DP"  )
