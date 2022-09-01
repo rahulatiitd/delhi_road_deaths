@@ -1,5 +1,7 @@
+
 ################################################################################
-# preamble
+# preamble 
+# always run this part
 ################################################################################
 
 library(dplyr)
@@ -10,26 +12,15 @@ library(ggplot2)
 library(readr)
 library(lubridate)
 
-################################################################################
-
 Sys.setlocale("LC_ALL", "English")
 
-setwd('C:/Users/asha2/Documents/GitHub/delhi_road_deaths')
-
-
-######## 2021 shifted to another code....call it ###############################
-
-source("code/prepping_2021.R")
-
-######## 2019 shifted to another code....call it ###############################
+################################################################################
 
 source("code/prepping_2019.R")
 
-######## 2020 shifted to another code....call it ###############################
-
 source("code/prepping_2020.R")
 
-####### Harmonizing 19,20,21 shifted to another code.....call it ###############
+source("code/prepping_2021.R")
 
 source("code/harmonizing_19_20_21.R")
 

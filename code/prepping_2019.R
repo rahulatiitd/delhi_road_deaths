@@ -1,14 +1,13 @@
-
 ################################################################################
 # Reading in 2019 crash data
 ################################################################################
 
 
-crash1 <- read.csv("data/2019/1_Crash_Form_1.csv")
-crash2 <- read.csv("data/2019/1_Crash_Form_2.csv")
+crash1 <- read_csv("data/2019/1_Crash_Form_1.csv")
+crash2 <- read_csv("data/2019/1_Crash_Form_2.csv")
 
-ps_names1 <- read.csv("data/2019/Usys1_2_PSDetail_1.csv")
-ps_names2 <- read.csv("data/2019/Usys1_2_PSDetail_2.csv")
+ps_names1 <- read_csv("data/2019/Usys1_2_PSDetail_1.csv")
+ps_names2 <- read_csv("data/2019/Usys1_2_PSDetail_2.csv")
 
 
 crash1$PS_Name <- NA
@@ -28,14 +27,14 @@ for (i in 1:nrow(crash2)){
   crash2$PS_Name[i] <- ps_names2$PS_Name[which(ps_names2$PS_ID==crash2$Police_Station[i])]
 }
 
-vehicle1 <- read.csv("data/2019/2_Vehicle_Form_1.csv")
-vehicle2 <- read.csv("data/2019/2_Vehicle_Form_2.csv")
+vehicle1 <- read_csv("data/2019/2_Vehicle_Form_1.csv")
+vehicle2 <- read_csv("data/2019/2_Vehicle_Form_2.csv")
 
-victim1 <- read.csv("data/2019/3_Person_Form_1.csv")
-victim2 <- read.csv("data/2019/3_Person_Form_2.csv")
+victim1 <- read_csv("data/2019/3_Person_Form_1.csv")
+victim2 <- read_csv("data/2019/3_Person_Form_2.csv")
 
 # Reading file that has police station names and districts 
-pstation <- read.csv("data/2021/PS_lookup_181.csv")
+pstation <- read_csv("data/2021/PS_lookup_181.csv")
 
 ################################################################################
 # Assigning crash_ID to vehicle and victim files
@@ -133,23 +132,139 @@ victim_19$Vehicle_Type[which(victim_19$Road_User=="Disembarked Vehicle Occupant"
 
 victim_19$Victim_Vehicle_Type <- victim_19$Vehicle_Type
 
-##simplifying vehicle type names
-victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Tractor with Trailer", "Truck (Generic)","Agricultural Tractor", "Articulated Vehicle, Tractor Trailor", "Two-Axle Heavy Commercial Vehicle", "Multi-Axle Heavy Commercial Vehicle", "Intermediate Commercial Vehicle","Two-Axle Medium Commercial Vehicle", "Two_Axle Heavy Commercial Vehicle"))]<-"Truck/Tractor"
-victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Car - Van, Passenger", "Car - Jeep, Passenger", "Car - Passenger", "Car - Commercial", "Car - Van, Commercial", "Car - SUV, Passenger", "Car - SUV, Commercial", "Car - Jeep, Commercial"))]<-"Car"
-victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("MTW - Motorcycle Light", "MTW - Scooter/Moped","MTW - Motorcycle Heavy"))]<-"MTW"
-victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Mini Bus", "Bus (DTC Delhi)", "Bus (Cluster)"))]<-"Bus"
-victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Bicycle - Manual"))]<-"Bicycle"
-victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Cycle Rickshaw" , "Ambulance", "Construction Vehicle","Hand Drawn Vehicle","Cycle Rickshaw - Manual", "Animal Drawn Vehicle"))]<-"Other"
-victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Three Wheeler - Passenger", "E-rickshaw","Three Wheeler - Goods", "Three Wheeler - Passenger, Commercial", "Three Wheeler - Passenger, Private","Light Commercial Vehicle"))]<-"M3W"
+##simplifying victim vehicle type names
 
-victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Truck (Generic)", "Agricultural Tractor", "Articulated Vehicle, Tractor Trailor","Light Commercial Vehicle", "Two-Axle Heavy Commercial Vehicle", "Multi-Axle Heavy Commercial Vehicle", "Intermediate Commercial Vehicle","Two-Axle Medium Commercial Vehicle", "Two_Axle Heavy Commercial Vehicle"))]<-"Truck/Tractor"
-victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Car - Van, Passenger", "Car - Jeep, Passenger", "Car - Passenger", "Car - Commercial", "Car - Van, Commercial", "Car - SUV, Passenger", "Car - SUV, Commercial", "Car - Jeep, Commercial"))]<-"Car"
-victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("MTW - Motorcycle Light", "MTW - Scooter/Moped","MTW - Motorcycle Heavy"))]<-"MTW"
-victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Wall", "Tree","Pole", "Guard Rail", "Median", "Other Road Infrastructure", "Shoulder", "Barrier", "Curb" ))]<-"Fixed object"
-victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Animal", "Ambulance", "Construction Vehicle","Hand Drawn Vehicle","Cycle Rickshaw - Manual", "Animal Drawn Vehicle"))]<-"Other"
-victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Three Wheeler - Goods", "Three Wheeler - Passenger, Commercial", "Three Wheeler - Passenger, Private", "Three Wheeler - Passenger"))]<-"M3W"
-victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Mini Bus","Bus (DTC Delhi)", "Bus (Cluster)"))]<-"Bus"
-victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("E-rickshaw", "Electric Cycle Rickshaw", "Ambulance", "Construction Vehicle","Animal Drawn Vehicle","Cycle Rickshaw - Manual", "Others", "Cycle Rickshaw"))]<-"Other"
+victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Tractor with Trailer", 
+                                                                  "Truck (Generic)",
+                                                                  "Agricultural Tractor", 
+                                                                  "Articulated Vehicle, Tractor Trailor", 
+                                                                  "Two-Axle Heavy Commercial Vehicle", 
+                                                                  "Multi-Axle Heavy Commercial Vehicle", 
+                                                                  "Intermediate Commercial Vehicle",
+                                                                  "Two-Axle Medium Commercial Vehicle", 
+                                                                  "Two_Axle Heavy Commercial Vehicle"
+                                                                  )
+                                    )]<-"Truck/Tractor"
+
+victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Car - Van, Passenger", 
+                                                                  "Car - Jeep, Passenger", 
+                                                                  "Car - Passenger", "Car - Commercial", 
+                                                                  "Car - Van, Commercial", 
+                                                                  "Car - SUV, Passenger", 
+                                                                  "Car - SUV, Commercial", 
+                                                                  "Car - Jeep, Commercial"
+                                                                  )
+                                    )]<-"Car"
+
+victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("MTW - Motorcycle Light", 
+                                                                  "MTW - Scooter/Moped",
+                                                                  "MTW - Motorcycle Heavy"
+                                                                  )
+                                    )]<-"MTW"
+
+victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Mini Bus", 
+                                                                  "Bus (DTC Delhi)", 
+                                                                  "Bus (Cluster)"
+                                                                  )
+                                    )]<-"Bus"
+
+victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Bicycle - Manual"
+                                                                  )
+                                    )]<-"Bicycle"
+
+victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Cycle Rickshaw" , 
+                                                                  "Ambulance", 
+                                                                  "Construction Vehicle",
+                                                                  "Hand Drawn Vehicle",
+                                                                  "Cycle Rickshaw - Manual", 
+                                                                  "Animal Drawn Vehicle"
+                                                                  )
+                                    )]<-"Other"
+
+victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Three Wheeler - Passenger", 
+                                                                  "E-rickshaw","Three Wheeler - Goods", 
+                                                                  "Three Wheeler - Passenger, Commercial", 
+                                                                  "Three Wheeler - Passenger, Private",
+                                                                  "Light Commercial Vehicle"
+                                                                  )
+                                    )]<-"M3W"
+
+
+# simplifying impacting vehicle or object
+
+victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Truck (Generic)", 
+                                                                             "Agricultural Tractor", 
+                                                                             "Articulated Vehicle, Tractor Trailor",
+                                                                             "Light Commercial Vehicle", 
+                                                                             "Two-Axle Heavy Commercial Vehicle", 
+                                                                             "Multi-Axle Heavy Commercial Vehicle", 
+                                                                             "Intermediate Commercial Vehicle",
+                                                                             "Two-Axle Medium Commercial Vehicle", 
+                                                                             "Two_Axle Heavy Commercial Vehicle", 
+                                                                             "Construction Vehicle"
+                                                                             )
+                                      )]<-"Truck/Tractor"
+
+victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Car - Van, Passenger", 
+                                                                             "Car - Jeep, Passenger", 
+                                                                             "Car - Passenger", 
+                                                                             "Car - Commercial", 
+                                                                             "Car - Van, Commercial", 
+                                                                             "Car - SUV, Passenger", 
+                                                                             "Car - SUV, Commercial", 
+                                                                             "Car - Jeep, Commercial"
+                                                                             )
+                                      )]<-"Car"
+
+victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("MTW - Motorcycle Light", 
+                                                                             "MTW - Scooter/Moped",
+                                                                             "MTW - Motorcycle Heavy"
+                                                                             )
+                                      )]<-"MTW"
+
+victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Wall", 
+                                                                             "Tree",
+                                                                             "Pole", 
+                                                                             "Guard Rail", 
+                                                                             "Median", 
+                                                                             "Other Road Infrastructure", 
+                                                                             "Shoulder", 
+                                                                             "Barrier", 
+                                                                             "Curb" 
+                                                                             )
+                                      )]<-"Fixed object"
+
+victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Animal", 
+                                                                             "Ambulance",
+                                                                             "Hand Drawn Vehicle",
+                                                                             "Cycle Rickshaw - Manual", 
+                                                                             "Animal Drawn Vehicle"
+                                                                             )
+                                      )]<-"Other"
+
+victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Three Wheeler - Goods", 
+                                                                             "Three Wheeler - Passenger, Commercial", 
+                                                                             "Three Wheeler - Passenger, Private", 
+                                                                             "Three Wheeler - Passenger"
+                                                                             )
+                                      )]<-"M3W"
+
+victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Mini Bus",
+                                                                             "Bus (DTC Delhi)", 
+                                                                             "Bus (Cluster)"
+                                                                             )
+                                      )]<-"Bus"
+
+victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("E-rickshaw", 
+                                                                             "Electric Cycle Rickshaw", 
+                                                                             "Ambulance",
+                                                                             "Animal Drawn Vehicle",
+                                                                             "Cycle Rickshaw - Manual", 
+                                                                             "Others", 
+                                                                             "Cycle Rickshaw"
+                                                                             )
+                                      )]<-"Other"
+
 victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Bicycle - Manual"))]<-"Bicycle"
 
 
@@ -158,65 +273,65 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Bi
 # Correlating with Delhi police data - 2019
 #################################################################################
 
-# cycles_2019 <- read_csv("data/2019/2019_cycle_fatality_crashes.csv")
-# 
-# cycles_2019$`POLICE STATION` <- str_to_upper(cycles_2019$`POLICE STATION`)
-# 
-# cycles_2019$`POLICE STATION` <- str_replace_all(cycles_2019$`POLICE STATION` , "[[:punct:]]", "")
-# 
-# cycles_2019$`POLICE STATION` <- str_replace_all(cycles_2019$`POLICE STATION`, " ", "")
-# 
-# cycle_vics_19 <- data.frame()
-# 
-# for (i in 1:nrow(cycles_2019)){
-#   cycle_vics_19 <- 
-#     rbind( cycle_vics_19, 
-#            victim_19[ which ( as.numeric(victim_19$FIR_No)==cycles_2019$FIRNO[i]
-#                               ),
-#                       ]
-#            )
-# }
-# cycle_vics_19 <- 
-#   cycle_vics_19 %>% 
-#   filter(`No_Of_ Fatalities`>0)%>% 
-#   select(FIR_No, PS_Name, Collision_Type, Note, Victim_Vehicle_Type, Impacting_VehOrObject)
-# 
-# #----------------------------------------------------------------------------#
-# # Finding: many cases have cycles in the impacting object column rather than 
-# # the victim vehicle column. 
-# # - One victim : To be exchanged
-# # - Two or more victims : Only one to have bicycle in the victim vehicle
+# just making sure there no NA values in for and police station
 
 victim_19 <- victim_19 %>% drop_na(PS_Name) %>% drop_na(FIR_No)
 
+<<<<<<< HEAD
 ps_lookup_dp <- read.csv("data/ps_lookup_2016_2020_w_2019.csv")
+=======
+
+# This is to be able to map the police station names between the two datasets
+
+ps_lookup_dp <- read_csv("data/ps_lookup_2016_2020_w_2019.csv")
+>>>>>>> cdf78333e78b250a4eb6ce7f3a471e4658cc8e18
 
 ps_lookup_dp <- ps_lookup_dp %>% select(`POLICE.STATION`, PS_Name)
 
+<<<<<<< HEAD
 DP_crash_level_data <- read.csv("data/2016_2020_crash_level_data.csv")
+=======
+
+# Prepping the delhi police data to compare
+#-------------------------------------------------------------------------------
+
+DP_crash_level_data <- read_csv("data/2016_2020_crash_level_data.csv")
+>>>>>>> cdf78333e78b250a4eb6ce7f3a471e4658cc8e18
 
 x <- unique(DP_crash_level_data$`U.S`)
 
+# only relevant IPC section chosen - contains 304A
 x <-x[c(3,5,7)]
 
+# Also, only 2019 data needed here
 DP_crash_level_data <- 
   DP_crash_level_data %>% 
   filter(`U.S` %in% x) %>% 
   filter(YEAR==2019)
 
+<<<<<<< HEAD
 colnames(DP_crash_level_data) <- c("SL NO.", "FIR_No", "PS_Name" , "U.S", 
+=======
+# changing column names to be able to merge
+colnames(DP_crash_level_data) <- c("SL NO.", "FIR_No", "PS_Name" , "U/S", 
+>>>>>>> cdf78333e78b250a4eb6ce7f3a471e4658cc8e18
                                    "Date_Of_Crash_DP", "OFFENDING VEHICLE_DP",  
                                    "VICTIMS_DP", "PLACE OF OCCURANCE_DP", 
                                    "ROAD NAME_DP", "YEAR_DP"  )
 
+# changing police station names to be able to merge 
 for (i in 1:nrow(DP_crash_level_data)){
   DP_crash_level_data$PS_Name[i] <- 
     ps_lookup_dp$PS_Name[which(ps_lookup_dp$`POLICE.STATION`== 
                                  DP_crash_level_data$PS_Name[i])]
 }
 
+
+# fixing some compatibility issues
 victim_19$FIR_No <- as.double(victim_19$FIR_No)
 
+
+# Date in required format
 month_short <- substr(month.name,1,3)
 
 for(i in 1:nrow(victim_19)){
@@ -227,18 +342,22 @@ for(i in 1:nrow(victim_19)){
                                        "19")
 }
 
+
+# joining the data
 victim_19 <- victim_19 %>% left_join(DP_crash_level_data, by=c("FIR_No", "PS_Name") )
 
+# selecting necessary columns to view and compare
 view_19 <- 
   victim_19 %>% 
   filter(Injury_Category %in% c("Fatal Injury with Offsite Death",
                                 "Fatal Injury with Onsite Death")) %>% 
-  select(Victim_ID, FIR_No, PS_Name, Date_Of_Crash, 
+  select(Crash_ID, Entry_Personnel, 
+         Victim_ID, FIR_No, PS_Name, Date_Of_Crash, 
          Victim_Vehicle_Type, VICTIMS_DP, 
          Impacting_VehOrObject, `OFFENDING VEHICLE_DP`,
          Note)
 
-
+# Harmonizing the columns so that the vehicle categories can be compared 
 
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("PED"))]<-"Pedestrian"
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("TWW"))]<-"MTW"
@@ -250,30 +369,31 @@ view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("CYR", "AMB", "ERC", "HDC" ))
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("DTC", "PAS"))]<-"Bus"
 
 view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("AMBULNC", "CRANE", "ERCAW"))] <- "Other"
-view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("BUS O S", "DTC BUS", "BUS OTR", "CTR BUS", "MIN.BUS", "BUS SCL", "TRL/CON"))] <- "Bus"
-view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("TEMPO", "HTV/GDS", "TRACTOR", "DELIVRY", "TANKER"))] <- "Truck/Tractor"
+view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("BUS O S", "DTC BUS", "BUS OTR", "CTR BUS", "MIN.BUS", "BUS SCL"))] <- "Bus"
+view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("TEMPO", "HTV/GDS", "TRACTOR", "DELIVRY", "TANKER", "TRL/CON"))] <- "Truck/Tractor"
 view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("UNKNOWN"))] <- "Unknown"
 view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("S/C&M/C"))] <- "MTW"
 view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("PVT CAR", "TAXI"))] <- "Car"
 view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("GRM.SEW", "TSR"))] <- "M3W"
 
+
+# finding the non-matching rows
+
 diff_victims_vehs <- 
   view_19[
     which(
-      (view_19$Victim_Vehicle_Type!=view_19$VICTIMS_DP) | 
-        (view_19$Impacting_VehOrObject!=view_19$`OFFENDING VEHICLE_DP`)
+      (view_19$Victim_Vehicle_Type != view_19$VICTIMS_DP) | 
+      (view_19$Impacting_VehOrObject != view_19$`OFFENDING VEHICLE_DP`)
     ),
   ]
 
 diff_victims_vehs <- diff_victims_vehs %>% filter(VICTIMS_DP!="SLF")
 
+# removing victim id (which we defined above, avoid confusion) and DP data
+write_csv(diff_victims_vehs[,c(1,2,4,5,6,7,9,11)], "data/2019_doubtful_vehicle_type.csv")
 
-write_csv(diff_victims_vehs[,c(2,3,4,5,7,9)], "data/2019_doubtful_vehicle_type.csv")
-
-# FIRs not there
+# FIRs not entered into data acc to Delhi Police dataset
 #-------------------------------------------------------------------------------
-
-
 missing_firs <- anti_join( DP_crash_level_data, victim_19, by=c("FIR_No", "PS_Name"))
 
 write_csv(missing_firs[,c(2,3,4,5)], "data/missing_FIRs_2019.csv")

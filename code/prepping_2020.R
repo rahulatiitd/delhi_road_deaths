@@ -13,8 +13,6 @@ crash_20 <- crash_20[which(!is.na(crash_20$`S. no.`)),]
 # Making victim Table out of crash tables - 2020
 ################################################################################
 
-
-
 victim_20 <- data.frame(matrix(nrow= sum(crash_20$`Total killed`), ncol = length(colnames(crash_20))))
 
 colnames(victim_20) <- colnames (crash_20)
@@ -136,15 +134,11 @@ while (i <= nrow(victims_20_checked)){
   
 }
 
-
-
-
-
 ################################################################################
 # Comparing with delhi police data 2016-2020 
 ################################################################################
 
-
+# check for na values just in case
 victim_20 <- victim_20 %>% drop_na(`Police station`) %>% drop_na(`FIR No.`)
 
 DP_crash_level_data <- read_csv("data/2016_2020_crash_level_data.csv")
@@ -177,45 +171,113 @@ view_20 <-
 # changes in 2020 victim vehicle type
 #-------------------------------------------------------------------------------
 view_20$`Victim user type (as per Delhi Traffic Police)`[
-  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("PED", "Pedestrians", "Disembarked Vehicle Occupant", "Non-Road User Pedestrian"))]<-"Pedestrian"
+  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("PED", 
+                                                                        "Pedestrians", 
+                                                                        "Disembarked Vehicle Occupant", 
+                                                                        "Non-Road User Pedestrian"
+                                                                        ))]<-"Pedestrian"
+
 view_20$`Victim user type (as per Delhi Traffic Police)`[
-  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("TWW", "Motorised two wheeler"))]<-"MTW"
+  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("TWW", 
+                                                                        "Motorised two wheeler"
+                                                                        ))]<-"MTW"
 view_20$`Victim user type (as per Delhi Traffic Police)`[
-  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("Tempo/ Tractor", "Heavy vehicles", "HTV", "TMP"))]<-"Truck/Tractor"
+  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("Tempo/ Tractor", 
+                                                                        "Heavy vehicles", 
+                                                                        "HTV", 
+                                                                        "TMP"
+                                                                        ))]<-"Truck/Tractor"
 view_20$`Victim user type (as per Delhi Traffic Police)`[
-  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("Cyclists"))]<-"Bicycle"
+  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("Cyclists"
+                                                                        ))]<-"Bicycle"
 view_20$`Victim user type (as per Delhi Traffic Police)`[
-  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("TSR", "Auto-rickshaw- TSR"))]<-"M3W"
+  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("TSR", 
+                                                                        "Auto-rickshaw- TSR"
+                                                                        ))]<-"M3W"
 view_20$`Victim user type (as per Delhi Traffic Police)`[
-  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("Cycle rickshaw", "ERC"))]<-"Other"
+  which(view_20$`Victim user type (as per Delhi Traffic Police)` %in% c("Cycle rickshaw", 
+                                                                        "ERC"
+                                                                        ))]<-"Other"
 
 # changes in DP victim vehicle type
 #------------------------------------------------------------------------------
 view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("PED"))]<-"Pedestrian"
+
 view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("TWW"))]<-"MTW"
+
 view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("CYC"))]<-"Bicycle"
+
 view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("SLF"))]<-"Self"
+
 view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("CAR"))]<-"Car"
-view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("TMP", "HTV", "TRC", "MBS", "DLV", "TNK"))]<-"Truck/Tractor"
-view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("TSR", "GMS"))]<-"M3W"       # GMS - gramin seva vehicle taken as auto-rickshaw
-view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("CYR", "AMB", "ERC", "HDC" ))]<-"Other"
+
+view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("TMP", 
+                                                   "HTV", 
+                                                   "TRC", 
+                                                   "MBS", 
+                                                   "DLV", 
+                                                   "TNK"
+                                                   ))]<-"Truck/Tractor"
+
+view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("TSR", 
+                                                   "GMS"                        # GMS - gramin seva vehicle taken as auto-rickshaw
+                                                   ))]<-"M3W"    
+
+view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("CYR", 
+                                                   "AMB", 
+                                                   "ERC", 
+                                                   "HDC" 
+                                                   ))]<-"Other"
 
 # changes in 2020 other vehicle type
 #-------------------------------------------------------------------------------
 view_20$`Responsible road user`[which(view_20$`Responsible road user` %in% c("Motorised two wheeler"))] <- "MTW"
+
 view_20$`Responsible road user`[which(view_20$`Responsible road user` %in% c("Car/ Jeep/ Van/ Taxi"))] <- "Car"
-view_20$`Responsible road user`[which(view_20$`Responsible road user` %in% c("tempo-truck eicher", "Heavy vehicles", "Tempo/ Tractor", "HTV", "TMP"))] <- "Truck/Tractor"
-view_20$`Responsible road user`[which(view_20$`Responsible road user` %in% c("TSR", "Auto-rickshaw- TSR"))] <- "M3W"
+
+view_20$`Responsible road user`[which(view_20$`Responsible road user` %in% c("tempo-truck eicher", 
+                                                                             "Heavy vehicles", 
+                                                                             "Tempo/ Tractor", 
+                                                                             "HTV", 
+                                                                             "TMP"
+                                                                             ))] <- "Truck/Tractor"
+
+view_20$`Responsible road user`[which(view_20$`Responsible road user` %in% c("TSR", 
+                                                                             "Auto-rickshaw- TSR"
+                                                                             ))] <- "M3W"
 
 
 # changes in DP other vehicle type
 #-------------------------------------------------------------------------------
 view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("S/C&M/C"))] <- "MTW"
-view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("PVT CAR", "TAXI"))] <- "Car"
-view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("TEMPO", "HTV/GDS", "TRACTOR", "DELIVRY", "TANKER", "CRANE"))] <- "Truck/Tractor"
-view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("BUS O S", "DTC BUS", "BUS OTR", "CTR BUS", "MIN.BUS", "BUS SCL", "TRL/CON"))] <- "Bus"
-view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("GRM.SEW", "TSR"))] <- "M3W"
-view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("AMBULNC", "MILITRY", "ERCAW"))] <- "Other"
+view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("PVT CAR", 
+                                                                           "TAXI"
+                                                                           ))] <- "Car"
+view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("TEMPO", 
+                                                                           "HTV/GDS", 
+                                                                           "TRACTOR", 
+                                                                           "DELIVRY", 
+                                                                           "TANKER", 
+                                                                           "CRANE"
+                                                                           ))] <- "Truck/Tractor"
+
+view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("BUS O S", 
+                                                                           "DTC BUS", 
+                                                                           "BUS OTR", 
+                                                                           "CTR BUS", 
+                                                                           "MIN.BUS", 
+                                                                           "BUS SCL", 
+                                                                           "TRL/CON"
+                                                                           ))] <- "Bus"
+
+view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("GRM.SEW", 
+                                                                           "TSR"
+                                                                           ))] <- "M3W"
+
+view_20$`OFFENDING VEHICLE_DP`[which(view_20$`OFFENDING VEHICLE_DP` %in% c("AMBULNC", 
+                                                                           "MILITRY", 
+                                                                           "ERCAW"
+                                                                           ))] <- "Other"
 
 
 
@@ -242,3 +304,14 @@ missing_firs <- anti_join( DP_crash_level_data, victim_20, by=c("FIR_No", "PS_Na
 
 
 write_csv(missing_firs[,c(2,3,4,5)], "data/missing_FIRs_2020.csv")
+
+
+################################################################################
+# Changing format of PS names - 2020
+################################################################################
+
+victim_20$PS_Name <- str_to_upper(victim_20$PS_Name)
+
+victim_20$PS_Name <- str_replace_all(victim_20$PS_Name, "[[:punct:]]", "")
+
+victim_20$PS_Name <- str_replace_all(victim_20$PS_Name, " ", "")
