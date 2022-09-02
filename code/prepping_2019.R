@@ -1,13 +1,16 @@
+
+library(dplyr)
+
 ################################################################################
 # Reading in 2019 crash data
 ################################################################################
 
 
-crash1 <- read_csv("data/2019/1_Crash_Form_1.csv")
-crash2 <- read_csv("data/2019/1_Crash_Form_2.csv")
+crash1 <- read.csv("data/2019/1_Crash_Form_1.csv")
+crash2 <- read.csv("data/2019/1_Crash_Form_2.csv")
 
-ps_names1 <- read_csv("data/2019/Usys1_2_PSDetail_1.csv")
-ps_names2 <- read_csv("data/2019/Usys1_2_PSDetail_2.csv")
+ps_names1 <- read.csv("data/2019/Usys1_2_PSDetail_1.csv")
+ps_names2 <- read.csv("data/2019/Usys1_2_PSDetail_2.csv")
 
 
 crash1$PS_Name <- NA
@@ -27,14 +30,14 @@ for (i in 1:nrow(crash2)){
   crash2$PS_Name[i] <- ps_names2$PS_Name[which(ps_names2$PS_ID==crash2$Police_Station[i])]
 }
 
-vehicle1 <- read_csv("data/2019/2_Vehicle_Form_1.csv")
-vehicle2 <- read_csv("data/2019/2_Vehicle_Form_2.csv")
+vehicle1 <- read.csv("data/2019/2_Vehicle_Form_1.csv")
+vehicle2 <- read.csv("data/2019/2_Vehicle_Form_2.csv")
 
-victim1 <- read_csv("data/2019/3_Person_Form_1.csv")
-victim2 <- read_csv("data/2019/3_Person_Form_2.csv")
+victim1 <- read.csv("data/2019/3_Person_Form_1.csv")
+victim2 <- read.csv("data/2019/3_Person_Form_2.csv")
 
 # Reading file that has police station names and districts 
-pstation <- read_csv("data/2021/PS_lookup_181.csv")
+pstation <- read.csv("data/2021/PS_lookup_181.csv")
 
 ################################################################################
 # Assigning crash_ID to vehicle and victim files
@@ -265,7 +268,8 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("E-
                                                                              )
                                       )]<-"Other"
 
-victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Bicycle - Manual"))]<-"Bicycle"
+victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Bicycle - Manual")
+                                      )]<-"Bicycle"
 
 
 
@@ -277,22 +281,22 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Bi
 
 victim_19 <- victim_19 %>% drop_na(PS_Name) %>% drop_na(FIR_No)
 
-ps_lookup_dp <- read_csv("data/ps_lookup_2016_2020_w_2019.csv")
+ps_lookup_dp <- read.csv("data/ps_lookup_2016_2020_w_2019.csv")
 
 # This is to be able to map the police station names between the two datasets
 
-ps_lookup_dp <- read_csv("data/ps_lookup_2016_2020_w_2019.csv")
+ps_lookup_dp <- read.csv("data/ps_lookup_2016_2020_w_2019.csv")
 
-ps_lookup_dp <- ps_lookup_dp %>% select(`POLICE.STATION`, PS_Name)
+ps_lookup_dp <- ps_lookup_dp %>% select(POLICE.STATION, PS_Name)
 
-DP_crash_level_data <- read_csv("data/2016_2020_crash_level_data.csv")
+DP_crash_level_data <- read.csv("data/2016_2020_crash_level_data.csv")
 
 # Prepping the delhi police data to compare
 #-------------------------------------------------------------------------------
 
-DP_crash_level_data <- read_csv("data/2016_2020_crash_level_data.csv")
+DP_crash_level_data <- read.csv("data/2016_2020_crash_level_data.csv")
 
-x <- unique(DP_crash_level_data$`U/S`)
+x <- unique(DP_crash_level_data$U.S)
 
 # only relevant IPC section chosen - contains 304A
 x <-x[c(3,5,7)]
@@ -300,20 +304,20 @@ x <-x[c(3,5,7)]
 # Also, only 2019 data needed here
 DP_crash_level_data <- 
   DP_crash_level_data %>% 
-  filter(`U.S` %in% x) %>% 
+  filter(U.S %in% x) %>% 
   filter(YEAR==2019)
 
 
 # changing column names to be able to merge
 colnames(DP_crash_level_data) <- c("SL NO.", "FIR_No", "PS_Name" , "U/S", 
-                                   "Date_Of_Crash_DP", "OFFENDING VEHICLE_DP",  
+                                   "Date_Of_Crash_DP", "OFFENDING_VEHICLE_DP",  
                                    "VICTIMS_DP", "PLACE OF OCCURANCE_DP", 
                                    "ROAD NAME_DP", "YEAR_DP"  )
 
 # changing police station names to be able to merge 
 for (i in 1:nrow(DP_crash_level_data)){
   DP_crash_level_data$PS_Name[i] <- 
-    ps_lookup_dp$PS_Name[which(ps_lookup_dp$`POLICE.STATION`== 
+    ps_lookup_dp$PS_Name[which(ps_lookup_dp$POLICE.STATION== 
                                  DP_crash_level_data$PS_Name[i])]
 }
 
@@ -345,7 +349,7 @@ view_19 <-
   select(Crash_ID, Entry_Personnel, 
          Victim_ID, FIR_No, PS_Name, Date_Of_Crash, 
          Victim_Vehicle_Type, VICTIMS_DP, 
-         Impacting_VehOrObject, `OFFENDING VEHICLE_DP`,
+         Impacting_VehOrObject, `OFFENDING_VEHICLE_DP`,
          Note)
 
 # Harmonizing the columns so that the vehicle categories can be compared 
@@ -355,17 +359,20 @@ view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("TWW"))]<-"MTW"
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("TSR", "GMS"))]<-"M3W"       # GMS - gramin seva vehicle taken as auto-rickshaw
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("CAR"))]<-"Car"
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("CYC"))]<-"Bicycle"
-view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("TMP", "HTV", "TRC", "MBS", "DLV", "TNK"))]<-"Truck/Tractor"
+view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("TMP", "HTV", "TRC", "MBS", "DLV", "TNK", "TRL/CON"))]<-"Truck/Tractor"
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("CYR", "AMB", "ERC", "HDC" ))]<-"Other"
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("DTC", "PAS"))]<-"Bus"
 
-view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("AMBULNC", "CRANE", "ERCAW"))] <- "Other"
-view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("BUS O S", "DTC BUS", "BUS OTR", "CTR BUS", "MIN.BUS", "BUS SCL"))] <- "Bus"
-view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("TEMPO", "HTV/GDS", "TRACTOR", "DELIVRY", "TANKER", "TRL/CON"))] <- "Truck/Tractor"
-view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("UNKNOWN"))] <- "Unknown"
-view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("S/C&M/C"))] <- "MTW"
-view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("PVT CAR", "TAXI"))] <- "Car"
-view_19$`OFFENDING VEHICLE_DP`[which(view_19$`OFFENDING VEHICLE_DP` %in% c("GRM.SEW", "TSR"))] <- "M3W"
+view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("AMBULNC", "CRANE", "ERCAW"))] <- "Other"
+view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("BUS O S", "DTC BUS", "BUS OTR", "CTR BUS", 
+                                                                           "MIN.BUS", "BUS SCL"))] <- "Bus"
+view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("TEMPO", "HTV/GDS", "TRACTOR", "DELIVRY", 
+                                                                           "TANKER", "Tractor with Trailer"
+                                                                           ))] <- "Truck/Tractor"
+view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("UNKNOWN"))] <- "Unknown"
+view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("S/C&M/C"))] <- "MTW"
+view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("PVT CAR", "TAXI"))] <- "Car"
+view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("GRM.SEW", "TSR"))] <- "M3W"
 
 
 # finding the non-matching rows
@@ -374,7 +381,7 @@ diff_victims_vehs <-
   view_19[
     which(
       (view_19$Victim_Vehicle_Type != view_19$VICTIMS_DP) | 
-      (view_19$Impacting_VehOrObject != view_19$`OFFENDING VEHICLE_DP`)
+      (view_19$Impacting_VehOrObject != view_19$OFFENDING_VEHICLE_DP)
     ),
   ]
 

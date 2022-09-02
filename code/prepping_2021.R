@@ -2,15 +2,15 @@
 # Reading in data
 ################################################################################
 
-crash1 <- read_csv("data/2021/1_Crash_Table_1.csv")
-crash2 <- read_csv("data/2021/1_Crash_Table_2.csv")
-crash3 <- read_csv("data/2021/1_Crash_Table_3.csv")
-crash4 <- read_csv("data/2021/1_Crash_Table_4.csv")
+crash1 <- read.csv("data/2021/1_Crash_Table_1.csv")
+crash2 <- read.csv("data/2021/1_Crash_Table_2.csv")
+crash3 <- read.csv("data/2021/1_Crash_Table_3.csv")
+crash4 <- read.csv("data/2021/1_Crash_Table_4.csv")
 
-ps_names1 <- read_csv("data/2021/Usys1_2_PSDetail_1.csv")
-ps_names2 <- read_csv("data/2021/Usys1_2_PSDetail_2.csv")
-ps_names3 <- read_csv("data/2021/Usys1_2_PSDetail_3.csv")
-ps_names4 <- read_csv("data/2021/Usys1_2_PSDetail_4.csv")
+ps_names1 <- read.csv("data/2021/Usys1_2_PSDetail_1.csv")
+ps_names2 <- read.csv("data/2021/Usys1_2_PSDetail_2.csv")
+ps_names3 <- read.csv("data/2021/Usys1_2_PSDetail_3.csv")
+ps_names4 <- read.csv("data/2021/Usys1_2_PSDetail_4.csv")
 
 
 crash1$PS_Name <- NA
@@ -20,30 +20,34 @@ crash4$PS_Name <- NA
 
 
 for (i in 1:nrow(crash1)){
-  crash1$PS_Name[i] <- ps_names1$PS_Name[which(ps_names1$PS_ID==crash1$Police_Station[i])]
+  crash1$PS_Name[i] <- 
+    ps_names1$PS_Name[ which( ps_names1$PS_ID == crash1$Police_Station[i] )]
 }
 
 for (i in 1:nrow(crash2)){
-  crash2$PS_Name[i] <- ps_names2$PS_Name[which(ps_names2$PS_ID==crash2$Police_Station[i])]
+  crash2$PS_Name[i] <- 
+    ps_names2$PS_Name[ which( ps_names2$PS_ID == crash2$Police_Station[i] )]
 }
 
 for (i in 1:nrow(crash3)){
-  crash3$PS_Name[i] <- ps_names3$PS_Name[which(ps_names3$PS_ID==crash3$Police_Station[i])]
+  crash3$PS_Name[i] <- 
+    ps_names3$PS_Name[ which( ps_names3$PS_ID == crash3$Police_Station[i] )]
 }
 
 for (i in 1:nrow(crash4)){
-  crash4$PS_Name[i] <- ps_names4$PS_Name[which(ps_names4$PS_ID==crash4$Police_Station[i])]
+  crash4$PS_Name[i] <- 
+    ps_names4$PS_Name[ which( ps_names4$PS_ID == crash4$Police_Station[i] )]
 }
 
-vehicle1 <- read_csv("data/2021/2_Vehicle_Table_1.csv")
-vehicle2 <- read_csv("data/2021/2_Vehicle_Table_2.csv")
-vehicle3 <- read_csv("data/2021/2_Vehicle_Table_3.csv")
-vehicle4 <- read_csv("data/2021/2_Vehicle_Table_4.csv")
+vehicle1 <- read.csv("data/2021/2_Vehicle_Table_1.csv")
+vehicle2 <- read.csv("data/2021/2_Vehicle_Table_2.csv")
+vehicle3 <- read.csv("data/2021/2_Vehicle_Table_3.csv")
+vehicle4 <- read.csv("data/2021/2_Vehicle_Table_4.csv")
 
-victim1 <- read_csv("data/2021/3_Victim_Table_1.csv")
-victim2 <- read_csv("data/2021/3_Victim_Table_2.csv")
-victim3 <- read_csv("data/2021/3_Victim_Table_3.csv")
-victim4 <- read_csv("data/2021/3_Victim_Table_4.csv")
+victim1 <- read.csv("data/2021/3_Victim_Table_1.csv")
+victim2 <- read.csv("data/2021/3_Victim_Table_2.csv")
+victim3 <- read.csv("data/2021/3_Victim_Table_3.csv")
+victim4 <- read.csv("data/2021/3_Victim_Table_4.csv")
 
 # Reading file that has police station names and districts 
 pstation <- read.csv("data/2021/PS_lookup_181.csv")
@@ -83,10 +87,11 @@ rm(victim1, victim2, victim3, victim4)
 crash_21$FIR_No <- substr(crash_21$FIR_No, 1, 4)
 
 ################################################################################
-# Assigning crash_ID to those vehicle where it is not available
+# Removing the entries without crash ID
 ################################################################################
 
-x<-unique(vehicle_21$Vehicle_ID[which(is.na(vehicle_21$Crash_ID))])
+x <- unique( vehicle_21$Vehicle_ID[ which(is.na(vehicle_21$Crash_ID)) ])
+
 victim_21 <- victim_21[-c(which(victim_21$Vehicle_ID %in% x)),]
 
 ################################################################################
@@ -94,6 +99,8 @@ victim_21 <- victim_21[-c(which(victim_21$Vehicle_ID %in% x)),]
 ################################################################################
 
 for (i in 1:nrow(victim_21)){
+  
+  # check if this starting number is still ok w.r.t. 2019 and 2021
   victim_21$Victim_ID[i] <- 8565+i
 }
 
@@ -140,9 +147,16 @@ victim_21$Vehicle_Type[which(victim_21$Road_User=="Pedestrian" )]<- "Pedestrian"
 ## adding in geocodes from crash file with geocodes
 ################################################################################
 
-crash_gps_21<- read_csv('data/2021/2021 FIR Delhi geocoded.csv')
+# (this is being done because of a glitch which caused all the geocordinate 
+# entries to be integers in the access form)
 
-crash_gps_21<- subset(crash_gps_21, select=c("FIR_No", "PS_Name", "Latitude", "Longitude"))
+
+crash_gps_21<- read.csv('data/2021/2021 FIR Delhi geocoded.csv')
+
+crash_gps_21<- subset(crash_gps_21, select=c("FIR_No", 
+                                             "PS_Name", 
+                                             "Latitude", 
+                                             "Longitude"))
 
 # stripping spaces and punctuations from names and making them capital
 
@@ -178,7 +192,7 @@ victim_21$PS_Name <- str_replace_all(victim_21$PS_Name, " ", "")
 
 # correcting some misspelled names
 
-ps_name_change <- read_csv("data/2021/ps_name_change.csv")
+ps_name_change <- read.csv("data/2021/ps_name_change.csv")
 
 for (i in 1:nrow(crash_21)){
   
@@ -210,7 +224,7 @@ for (i in 1:nrow(crash_gps_21)){
   
 }
 
-# testing the unmatched ones - to be commented in final code
+# # testing the unmatched ones - to be commented in final code
 
 # crash_21_iitd <- data.frame(crash_21$FIR_No, crash_21$PS_Name)
 # crash_21_bbrg <- data.frame(crash_gps_21$FIR_No, crash_gps_21$PS_Name)
@@ -239,28 +253,131 @@ crash_21 <- crash_21 %>% left_join(crash_gps_21, by=c("FIR_No","PS_Name"))
 
 victim_21$Victim_Vehicle_Type <- victim_21$Vehicle_Type
 
-##simplifying vehicle type names
-victim_21$Victim_Vehicle_Type[which(victim_21$Vehicle_Type %in% c("Articulated Vehicle, Tractor Trailor","Light Commercial Vehicle", "Two-Axle Heavy Commercial Vehicle", "Multi-Axle Heavy Commercial Vehicle", "Intermediate Commercial Vehicle","Two-Axle Medium Commercial Vehicle", "Two_Axle Heavy Commercial Vehicle"))]<-"Truck/Tractor"
-victim_21$Victim_Vehicle_Type[which(victim_21$Vehicle_Type %in% c("Car - Van, Passenger", "Car - Jeep, Passenger", "Car - Passenger", "Car - Commercial", "Car - Van, Commercial", "Car - SUV, Passenger", "Car - SUV, Commercial", "Car - Jeep, Commercial"))]<-"Car"
-victim_21$Victim_Vehicle_Type[which(victim_21$Vehicle_Type %in% c("MTW - Motorcycle Light", "MTW - Scooter/Moped","MTW - Motorcycle Heavy"))]<-"MTW"
-victim_21$Victim_Vehicle_Type[which(victim_21$Vehicle_Type %in% c("Mini Bus"))]<-"Bus"
-victim_21$Victim_Vehicle_Type[which(victim_21$Vehicle_Type %in% c("Bicycle - Manual"))]<-"Bicycle"
-victim_21$Victim_Vehicle_Type[which(victim_21$Vehicle_Type %in% c("Ambulance", "Construction Vehicle","Hand Drawn Vehicle","Cycle Rickshaw - Manual", "Animal Drawn Vehicle"))]<-"Other"
-victim_21$Victim_Vehicle_Type[which(victim_21$Vehicle_Type %in% c("Three Wheeler - Goods", "Three Wheeler - Passenger, Commercial", "Three Wheeler - Passenger, Private"))]<-"M3W"
+##simplifying vicim vehicle type names
+
+victim_21$Victim_Vehicle_Type [
+  which(victim_21$Vehicle_Type %in% c("Articulated Vehicle, Tractor Trailor",
+                                      "Light Commercial Vehicle", 
+                                      "Two-Axle Heavy Commercial Vehicle", 
+                                      "Multi-Axle Heavy Commercial Vehicle", 
+                                      "Intermediate Commercial Vehicle",
+                                      "Two-Axle Medium Commercial Vehicle", 
+                                      "Two_Axle Heavy Commercial Vehicle"
+                                      )
+        )]<-"Truck/Tractor"
+
+victim_21$Victim_Vehicle_Type[
+  which(victim_21$Vehicle_Type %in% c("Car - Van, Passenger", 
+                                      "Car - Jeep, Passenger", 
+                                      "Car - Passenger", 
+                                      "Car - Commercial", 
+                                      "Car - Van, Commercial", 
+                                      "Car - SUV, Passenger", 
+                                      "Car - SUV, Commercial", 
+                                      "Car - Jeep, Commercial"
+                                      )
+        )]<-"Car"
+
+victim_21$Victim_Vehicle_Type[
+  which(victim_21$Vehicle_Type %in% c("MTW - Motorcycle Light", 
+                                      "MTW - Scooter/Moped",
+                                      "MTW - Motorcycle Heavy"
+                                      )
+        )]<-"MTW"
+
+victim_21$Victim_Vehicle_Type[
+  which(victim_21$Vehicle_Type %in% c("Mini Bus"))]<-"Bus"
+
+victim_21$Victim_Vehicle_Type[
+  which(victim_21$Vehicle_Type %in% c("Bicycle - Manual"))]<-"Bicycle"
+
+victim_21$Victim_Vehicle_Type[
+  which(victim_21$Vehicle_Type %in% c("Ambulance", 
+                                      "Construction Vehicle",
+                                      "Hand Drawn Vehicle",
+                                      "Cycle Rickshaw - Manual", 
+                                      "Animal Drawn Vehicle"
+                                      )
+        )]<-"Other"
+
+victim_21$Victim_Vehicle_Type[
+  which(victim_21$Vehicle_Type %in% c("Three Wheeler - Goods", 
+                                      "Three Wheeler - Passenger, Commercial", 
+                                      "Three Wheeler - Passenger, Private"
+                                      )
+        )]<-"M3W"
 
 
-victim_21$Impacting_VehOrObject[which(victim_21$Impacting_VehOrObject %in% c("Articulated Vehicle, Tractor Trailor","Light Commercial Vehicle", "Two-Axle Heavy Commercial Vehicle", "Multi-Axle Heavy Commercial Vehicle", "Intermediate Commercial Vehicle","Two-Axle Medium Commercial Vehicle", "Two_Axle Heavy Commercial Vehicle"))]<-"Truck/Tractor"
-victim_21$Impacting_VehOrObject[which(victim_21$Impacting_VehOrObject %in% c("Car - Van, Passenger", "Car - Jeep, Passenger", "Car - Passenger", "Car - Commercial", "Car - Van, Commercial", "Car - SUV, Passenger", "Car - SUV, Commercial", "Car - Jeep, Commercial"))]<-"Car"
-victim_21$Impacting_VehOrObject[which(victim_21$Impacting_VehOrObject %in% c("MTW - Motorcycle Light", "MTW - Scooter/Moped","MTW - Motorcycle Heavy"))]<-"MTW"
-victim_21$Impacting_VehOrObject[which(victim_21$Impacting_VehOrObject %in% c("Wall", "Tree","Pole", "Guard Rail", "Median", "Other Road Infrastructure", "Shoulder"))]<-"Fixed object"
-victim_21$Impacting_VehOrObject[which(victim_21$Impacting_VehOrObject %in% c("Ambulance", "Construction Vehicle","Hand Drawn Vehicle","Cycle Rickshaw - Manual", "Animal Drawn Vehicle"))]<-"Other"
-victim_21$Impacting_VehOrObject[which(victim_21$Impacting_VehOrObject %in% c("Three Wheeler - Goods", "Three Wheeler - Passenger, Commercial", "Three Wheeler - Passenger, Private"))]<-"M3W"
-victim_21$Impacting_VehOrObject[which(victim_21$Impacting_VehOrObject %in% c("Mini Bus"))]<-"Bus"
-victim_21$Impacting_VehOrObject[which(victim_21$Impacting_VehOrObject %in% c("Ambulance", "Construction Vehicle","Animal Drawn Vehicle","Cycle Rickshaw - Manual", "Others", "Cycle Rickshaw"))]<-"Other"
 
+##simplifying impacting vehicle/ object type names
 
+victim_21$Impacting_VehOrObject[
+  which(victim_21$Impacting_VehOrObject %in% c("Articulated Vehicle, Tractor Trailor",
+                                               "Light Commercial Vehicle", 
+                                               "Two-Axle Heavy Commercial Vehicle", 
+                                               "Multi-Axle Heavy Commercial Vehicle", 
+                                               "Intermediate Commercial Vehicle",
+                                               "Two-Axle Medium Commercial Vehicle", 
+                                               "Two_Axle Heavy Commercial Vehicle",
+                                               "Construction Vehicle"
+                                               )
+        )]<-"Truck/Tractor"
 
+victim_21$Impacting_VehOrObject[
+  which(victim_21$Impacting_VehOrObject %in% c("Car - Van, Passenger", 
+                                               "Car - Jeep, Passenger", 
+                                               "Car - Passenger", 
+                                               "Car - Commercial", 
+                                               "Car - Van, Commercial", 
+                                               "Car - SUV, Passenger", 
+                                               "Car - SUV, Commercial", 
+                                               "Car - Jeep, Commercial"
+                                               )
+        )]<-"Car"
 
+victim_21$Impacting_VehOrObject[
+  which(victim_21$Impacting_VehOrObject %in% c("MTW - Motorcycle Light", 
+                                               "MTW - Scooter/Moped",
+                                               "MTW - Motorcycle Heavy"
+                                               )
+        )]<-"MTW"
+
+victim_21$Impacting_VehOrObject[
+  which(victim_21$Impacting_VehOrObject %in% c("Wall", 
+                                               "Tree",
+                                               "Pole", 
+                                               "Guard Rail", 
+                                               "Median", 
+                                               "Other Road Infrastructure", 
+                                               "Shoulder"
+                                               )
+        )]<-"Fixed object"
+
+victim_21$Impacting_VehOrObject[
+  which(victim_21$Impacting_VehOrObject %in% c("Ambulance", 
+                                               "Construction Vehicle",
+                                               "Hand Drawn Vehicle",
+                                               "Cycle Rickshaw - Manual", 
+                                               "Animal Drawn Vehicle"
+                                               )
+        )]<-"Other"
+
+victim_21$Impacting_VehOrObject[
+  which(victim_21$Impacting_VehOrObject %in% c("Three Wheeler - Goods", 
+                                               "Three Wheeler - Passenger, Commercial", 
+                                               "Three Wheeler - Passenger, Private"
+                                               )
+        )]<-"M3W"
+
+victim_21$Impacting_VehOrObject[
+  which(victim_21$Impacting_VehOrObject %in% c("Mini Bus"))]<-"Bus"
+
+victim_21$Impacting_VehOrObject[
+  which(victim_21$Impacting_VehOrObject %in% c("Ambulance", 
+                                               "Animal Drawn Vehicle",
+                                               "Cycle Rickshaw - Manual", 
+                                               "Others", 
+                                               "Cycle Rickshaw"))]<-"Other"
 
 ################################################################################
 # Only people who died - 2021
@@ -274,3 +391,8 @@ victim_f_21 <-
 
 # getting rid of useless columns
 victim_f_21 <- victim_f_21 %>% select(where(~!all(is.na(.))))
+
+################################################################################
+# TODO - compare with delhi police data 2021
+################################################################################
+
