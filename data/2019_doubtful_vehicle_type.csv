@@ -1,163 +1,498 @@
-FIR_No,PS_Name,Date_Of_Crash,Victim_Vehicle_Type,Impacting_VehOrObject,Note
-14,Adarsh Nagar,19-Jan-19,Pedestrian,Other,"Victim 1:- Male/Killed
+Crash_ID,Entry_Personnel,FIR_No,PS_Name,Date_Of_Crash,Victim_Vehicle_Type,Impacting_VehOrObject,Note
+1461,Anisha,14,Adarsh Nagar,19-Jan-19,Truck/Tractor,Other,"Victim 1:- Male/Killed
 
 A pedestrian was been hit and crushed by a truck. The victim was taken to the hospital by a PCR Van where he was declared as dead."
-41,Adarsh Nagar,26-Apr-19,Pedestrian,Truck/Tractor,"Victim 1:- Aman/29/Male/Killed
+1462,Anisha,35,Adarsh Nagar,13-Feb-19,Bus,Bus,"Victim 1:- Mohammad Hurra/57/Male/Killed
+
+A pedestrian came infront of a DTC bus due to which he got hit on his face. The victim was taken to the hospital where he was declared as unfit to give statement."
+1463,Anisha,40,Adarsh Nagar,17-Feb-19,Unknown,Unknown,"Victim 1:- Killed
+
+A pedestrian was been hit and crushed by an unknown vehicle."
+1465,Anisha,41,Adarsh Nagar,26-Apr-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Aman/29/Male/Killed
 
 A pedestrian was been hit by a truck and was taken to the hospital by a PCR van were he was unfit to give statement."
-141,Adarsh Nagar,12-May-19,Bus,MTW,"Victim 1:- Mohd. Fahim/55/Male/Killed
+1466,Anisha,131,Adarsh Nagar,05-May-19,MTW,MTW,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by a motorcyclist and was taken to the hospital where he was unfit to give statement."
+1467,Anisha,141,Adarsh Nagar,12-May-19,Bus,MTW,"Victim 1:- Mohd. Fahim/55/Male/Killed
 Victim 2: Jaruna/50/Female/Injured
 Victim 3:- Samir/7/Male/Injured
 
 A motorcyclist and the pillion riders were been hit by a TATA bus. The motorcyclist and the pillion riders were taken to the hospital where the motorcyclist was declared as brought dead and the pillion riders were treated."
-242,Ali Pur,05-Jul-19,M3W,Truck/Tractor,"Victim 1:- Rohan Kumar/22/Male/Killed
+1469,Anisha,216,Adarsh Nagar,17-Jul-19,Unknown,Unknown,"Victim 1:- Madan Lal/60/Male/Killed
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1471,Anisha,231,Adarsh Nagar,30-Jul-19,Bus,Bus,"Victim 1:- Kamlesh Devi/60/Female/Killed
+
+A pedestrian was been hit by a DTC bus. The victim was taken to the hospital where she was treated."
+1472,Anisha,272,Adarsh Nagar,14-Aug-19,Unknown,Unknown,"Victim 1:- 70/Female/Killed
+
+A pedestrian was been hit an unknown vehicle. The victim was taken to the hospital where she was declared as brought dead."
+1475,Anisha,344,Adarsh Nagar,10-Oct-19,Truck/Tractor,Truck/Tractor,"Victim 1:- 40/Male/Killed
+
+A pedestrian was been hit by a truck.  The victim was taken to the hospital where he was declared as brought dead."
+1477,Anisha,11,Ali Pur,10-Jan-19,Car,Car,"Victim 1:- Ramesh/51/Male/Killed
+
+A pedestrian was been hit by a Bullero Car. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1478,Anisha,242,Ali Pur,05-Jul-19,M3W,Truck/Tractor,"Victim 1:- Rohan Kumar/22/Male/Killed
 
 A tempo driver was been hit by a truck. The victim was stuck on the conductor's seat and when taken to the hospital he was declared as brought dead."
-146,Ali Pur,11-Apr-19,M3W,Car,"Victim 1:- Shubh Narayan/45/Male/Killed
+1479,Anisha,338,Ali Pur,09-Aug-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1480,Anisha,30,Ali Pur,28-Jan-19,Unknown,Unknown,"Victim 1:-Thapa Tek Bahadur/26/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1481,Anisha,36,Ali Pur,30-Jan-19,Car,Car,"Victim 1:- Jawahar/Male/Killed
+
+A pedestrian was been hit by a Toyota Itios Car. The victim was injured and was taken to the hospital where he was declared as patient unfit to give statement and later on was declared as dead."
+1483,Anisha,114,Ali Pur,22-Mar-19,Truck/Tractor,Truck/Tractor,"Victim 1:-Abhishek/17/Male/Killed
+
+A pedestrian was been crushed by a truck dur to which he was dead on the spot."
+1484,Anisha,144,Ali Pur,10-Apr-19,MTW,MTW,"Victim 1:- Mahaveer Sharma/35/Male/Killed
+Victim 2:- Nisar/45/Male/Injured
+
+A pedestrian was been hit by a motorcyclist. The victim and the motorcyclist were injured and were taken to the hospital where the pedestrian was declared as brought dead and the motorcyclist was unfit to give statement."
+1485,Anisha,146,Ali Pur,11-Apr-19,M3W,Car,"Victim 1:- Shubh Narayan/45/Male/Killed
 
 An auto rickshaw driver was been hit by a car from behind due to which the auto got overturned. The victim was injured and was taken to the hospital where he was declared as clinicarry dead."
-193,Ali Pur,26-May-19,Truck/Tractor,Pedestrian,"Victim 1:- Vikaram/40/Male/Killed
+1488,Anisha,193,Ali Pur,26-May-19,Pedestrian,Pedestrian,"Victim 1:- Vikaram/40/Male/Killed
 Victim 2:- Ranjit Singh/25/Male/Killed
 
 A disembarked vehicle occupants where been hit by a truck from behind due to which they got stuck in between the trucks. The victims were taken out and were taken to the hospital where they were declared as brought dead."
-193,Ali Pur,26-May-19,Truck/Tractor,Pedestrian,"Victim 1:- Vikaram/40/Male/Killed
+1488,Anisha,193,Ali Pur,26-May-19,Pedestrian,Pedestrian,"Victim 1:- Vikaram/40/Male/Killed
 Victim 2:- Ranjit Singh/25/Male/Killed
 
 A disembarked vehicle occupants where been hit by a truck from behind due to which they got stuck in between the trucks. The victims were taken out and were taken to the hospital where they were declared as brought dead."
-324,Ali Pur,05-Aug-19,MTW,Other,"Victim 1:- Bobby/21/Male/Killed
+1490,Anisha,277,Ali Pur,25-Jul-19,Unknown,Unknown,"Victim 1:- 55/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital by the private ambulance where he was dead."
+1491,Anisha,324,Ali Pur,05-Aug-19,MTW,Other,"Victim 1:- Bobby/21/Male/Killed
 Victim 2:- Gyan Singh/40/Male/Injured
 
 A cycle rickshaw rider was been hit by a motorcyclist. The victims were taken to the hospital where the cycle rickshaw driver was declared as brought dead and the motorcyclist was unfit to give statement."
-483,Ali Pur,28-Dec-19,Pedestrian,Truck/Tractor,"Victim 1:- Ishwar Singh/Male/Killed
-Victim 2:- Karambir/Male/Injured
+1492,Anisha,346,Ali Pur,15-Aug-19,Unknown,Unknown,"Victim 1:- Male/Killed
 
-The pedestrians were been hit by a truck which was in a stationary position as the vehicle was been hit by another truck. The victims were injured and were taken to the hospital where one of the victim was declared as brought dead and the other was injured."
-218,AnandVihar,11-Jun-19,Other,Car,"Victim 1:- Man Mohan/50/Male/Killed
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1493,Anisha,353,Ali Pur,21-Aug-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Deepanshu Yadav/24/Male/Killed
+
+A pedestrian was been hit by a truck. The victim was taken to the hospital where he was declared as brought dead."
+1495,Anisha,389,Ali Pur,22-Sep-19,M3W,Truck/Tractor,"Victim 1:- Anju/4/Femnale/Killed
+
+A pedestrian was been hit by a tempo and the the vehicle was onto her due to which she died on the spot."
+1496,Anisha,437,Ali Pur,10-Nov-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was been taken to the hospital where he was declared as brought dead."
+1497,Anisha,442,Ali Pur,15-Nov-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was been taken to the hospital where he was declared as brought dead."
+1501,Anisha,47,AnandVihar,06-Feb-19,Car,Car,"Victim 1:- Mukut Bihar Gaur/73/Male/Killed
+
+A pedestrian was been hit by a car. The victim was taken to the hospital by the same car where later on he died."
+1502,Anisha,218,AnandVihar,11-Jun-19,Other,Car,"Victim 1:- Man Mohan/50/Male/Killed
 
 A ca's driver was been hit by a crane. The victim was taken to the hospital where he was declared as brought dead."
-494,AnandVihar,27-Nov-19,M3W,Unknown,"Victim 1:- Pradeep Kumar/55/Male/Killed
+1503,Anisha,391,AnandVihar,15-Oct-19,Unknown,Unknown,"Victim 1:- 60/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was refered to higher centre."
+1504,Anisha,234,AnandVihar,24-Jun-19,Unknown,Unknown,"Victim 1:- Male/35/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was treated."
+1505,Anisha,494,AnandVihar,27-Nov-19,M3W,Unknown,"Victim 1:- Pradeep Kumar/55/Male/Killed
 
 An Electronic Rickshaw driver was been hit by an unknown vehicle. The victim was injured and was taken to the hospital by the ambulance where he was declared as brought dead."
-173,Ashok Vihar,16-May-19,MTW,Pedestrian,"Victim 1:- Radhe shyam/64/Male/Killed
+1506,Anisha,514,AnandVihar,05-Dec-19,Unknown,Unknown,"Victim 1:- 65/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim's one leg was cut and was found dead on the spot."
+1508,Anisha,173,Ashok Vihar,16-May-19,MTW,Pedestrian,"Victim 1:- Radhe shyam/64/Male/Killed
 
 A pedestrian was been hit by a motorcyclist. The victim was injured and was taken to the hospital where he was treated."
-25,Bhalaswa Dairy,18-Jan-19,Truck/Tractor,MTW,"Victim 1:- Renu Kakkar/55/Female/Killed
+1510,Anisha,21,Bara Hindu Rao,23-Mar-19,MTW,MTW,"Victim 1:-  Ravinder Kumar/Male/Killed
+
+A pedestrian was been hit by a motorcyclist. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1511,Anisha,29,Bara Hindu Rao,12-Apr-19,Unknown,Unknown,"Victim 1:- Banni Singh/75/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was treated."
+1512,Anisha,117,Barakhamba Road,16-Oct-19,Unknown,Unknown,"Victim 1:- Rambeer/42/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was treated."
+1513,Anisha,17,Bhajan Pura,18-Jan-19,MTW,MTW,"Victim 1:- 55/Male/Killed
+ 
+A pedestrian was been hit by a motorcyclist. The victim was injured and was taken to the hospiatal where he died during the treatment."
+1514,Anisha,524,Bhajan Pura,04-Oct-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Kanta Devi/50/Female/Killed
+
+A pedestrian was been hit by a truck. The victim was taken to the hospital where she was declared as brought dead."
+1515,Anisha,25,Bhalaswa Dairy,18-Jan-19,Truck/Tractor,MTW,"Victim 1:- Renu Kakkar/55/Female/Killed
 Victim 2:- Narendra Kakkar/58/Male/Killed
 
 A scooty rider and a pillion rider were been hit by a truck. The rider's head was crushed due to truck's left back tyre. The rider was dead on the spot and the pillion rider was injured."
-652,Bhalaswa Dairy,"NA-NA-19",Unknown,MTW,"Victim 1:- 35/Male/Killed
+1517,Anisha,401,Bhalaswa Dairy,16-Jul-19,M3W,Truck/Tractor,"Victim 1:- Ramchet/50/Male/Killed
+
+A pedestrian was been hit by a tempo. The victim was injured and was taken to the hospital where he was treated."
+1519,Anisha,579,Bhalaswa Dairy,14-Sep-19,Unknown,Unknown,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured ad was taken to the hospital where he was declared as brought dead."
+1521,Anisha,625,Bhalaswa Dairy,26-Sep-19,Unknown,Unknown,"Victim 1:- Pushpa Jain/76/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was treated."
+1525,Anisha,652,Bhalaswa Dairy,-NA-19,Unknown,MTW,"Victim 1:- 35/Male/Killed
 
 A motorcyclist was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead"
-233,Burari,27-Jun-19,Pedestrian,Truck/Tractor,"Victim 1:- Fateh Bahadur/65/Male/Killed
+1526,Anisha,685,Bhalaswa Dairy,22-Nov-19,Unknown,Unknown,"Victim 1:- 45/Killed
 
-A pedestrian was been hit by a public transport vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
-380,Burari,31-Oct-19,Car,Unknown,"Victim 1:- Ram Prakash/52/Male/Killed
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he/she was declared as brought dead."
+1527,Anisha,703,Bhalaswa Dairy,07-Dec-19,Unknown,Unknown,"Victim 1:- 72/Male/Killed
 
-A car's driver was been hit by another vehicle. The victim was been injured and was taken to the hospital where he was declared as brought dead."
-90,ChankyaPuri,23-Aug-19,Car,Pedestrian,"Victim 1:- Shravan Kumar/30/Male/Killed
-
-A disembarked truck's driver was been hit by a taxi driver. The victim was injured and was taken to the hospital where he was treated."
-135,ChankyaPuri,30-Nov-19,Pedestrian,Unknown,"Victim 1:- Vikas Sharma/49/Male/Killed
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he died later."
+1528,Anisha,79,Ashok Vihar,28-Feb-19,Car,Car,"Victim 1:- 55/Male/Killed
 
 A pedestrian was been hit by a car. The victim was injured and was taken to the hospital where he was treated."
-56,Civil Lines,18-Mar-19,Bicycle,Unknown,"Victim 1:- 60/Male/Killed
+1530,Anisha,22,Burari,19-Jan-19,M3W,Truck/Tractor,"Victim 1:- Akshraj/07/Male/Killed
+
+A pedestrian was been hit by a tempo. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1534,Anisha,105,Burari,15-Mar-19,Unknown,Unknown,"Victim 1:- Narender Singh/46/Male/Killed
+ 
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1539,Anisha,233,Burari,27-Jun-19,M3W,Truck/Tractor,"Victim 1:- Fateh Bahadur/65/Male/Killed
+
+A pedestrian was been hit by a public transport vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1540,Anisha,380,Burari,31-Oct-19,Car,Unknown,"Victim 1:- Ram Prakash/52/Male/Killed
+
+A car's driver was been hit by another vehicle. The victim was been injured and was taken to the hospital where he was declared as brought dead."
+1541,Anisha,382,Burari,02-Nov-19,MTW,MTW,"Victim 1:- Shubhi/4/Female/Killed
+
+A pedestrian was been hit by a motorcyclist. The victim was injuerd and was taken to the hospital where she was treated."
+1544,Anisha,31,ChankyaPuri,07-Mar-19,Unknown,Unknown,"Victim 1:- Sazida Begum/45/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where she was treated."
+1545,Anisha,48,ChankyaPuri,05-May-19,Unknown,Unknown,"Victim 1:- Mahesh Kumar/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1547,Anisha,90,ChankyaPuri,23-Aug-19,Pedestrian,Pedestrian,"Victim 1:- Shravan Kumar/30/Male/Killed
+
+A disembarked truck's driver was been hit by a taxi driver. The victim was injured and was taken to the hospital where he was treated."
+1550,Anisha,135,ChankyaPuri,30-Nov-19,Unknown,Unknown,"Victim 1:- Vikas Sharma/49/Male/Killed
+
+A pedestrian was been hit by a car. The victim was injured and was taken to the hospital where he was treated."
+1553,Anisha,19,Civil Lines,19-Jan-19,Unknown,Unknown,"Victim 1:- 36/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and his body was found dead on the road."
+1554,Anisha,25,Civil Lines,06-Feb-19,Unknown,Unknown,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1556,Anisha,56,Civil Lines,18-Mar-19,Bicycle,Unknown,"Victim 1:- 60/Male/Killed
 
 A cyclist was been hit by an unknown vehicle. The victim was taken to the hospital where he was treated."
-85,Civil Lines,01-May-19,Car,Bicycle,"Victim 1:- Omprakash/60/Male/Killed
+1557,Anisha,60,Civil Lines,21-Mar-19,Unknown,Unknown,"Victim 1:- Sabbir/80/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he died during the treatement."
+1558,Anisha,85,Civil Lines,01-May-19,Car,Bicycle,"Victim 1:- Omprakash/60/Male/Killed
 
 A pedestrian was been hit by a car. The victim was taken to the hospital where he was declared as brought dead."
-51,Darya Ganj,04-Mar-19,Bus,M3W,"Victim 1:- 30/Male/Killed
+1561,Anisha,95,Civil Lines,19-May-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Male/Killed
+
+A pedestrian was handicapped and was been hit by truck while the truck's driver was backing his vehicle. The victim was takne to the hospital where he was declared as brought dead."
+1564,Anisha,107,Civil Lines,01-Jun-19,M3W,Truck/Tractor,"Victim 1:- Mohammad Kasim/45/Male/Killed
+
+A pedestrian was been hit by a tempo. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1565,Anisha,136,Civil Lines,04-Aug-19,Unknown,Unknown,"Victim 1:- 50/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1566,Anisha,147,Civil Lines,05-Sep-19,Unknown,Unknown,"Victim 1:- 45/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to thehospital where he was declared as brought dead."
+1567,Anisha,159,Civil Lines,06-Sep-19,MTW,MTW,"Victim 1:- Gopal/38/Male/Killed
+
+A pedestrian was been hit by a motorcyclist. The victim was injuerd and was taken to the hospital where he died during the treatement."
+1569,Anisha,170,Civil Lines,11-Oct-19,Unknown,Unknown,"Victim 1:- 40/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was lying on the road. The victim was taken to the hospital where he was declared as brought dead."
+1572,Anisha,1,Connaught Place,-NA-19,Unknown,Unknown,"Victim 1:- 45/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was unfit to give statement."
+1573,Anisha,10,Connaught Place,28-Jan-19,Car,Car,"Victim 1:- 58/Female/Killed
+
+A pedestrian was been hit by a car. The victim was injured and was taken to the hospital where she was declared as brought dead."
+1574,Anisha,50,Connaught Place,26-May-19,Unknown,Unknown,"Victim 1:- 65/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he/she was treated."
+1576,Anisha,84,Connaught Place,24-Sep-19,Unknown,Unknown,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he/she was declared as brought dead."
+1580,Anisha,48,Darya Ganj,25-Feb-19,Unknown,Unknown,"Victim 1:- Unknown/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was treated."
+1581,Anisha,51,Darya Ganj,04-Mar-19,Bus,M3W,"Victim 1:- 30/Male/Killed
 
 An E-rickshaw driver was been hit by a cluster bus. The victim was taken to the hospital where he was treated."
-7,Delhi Cantt.,05-Jan-19,M3W,Unknown,"Victim 1:- Udai Bhan/Male/Killed
+1582,Anisha,70,Darya Ganj,06-Apr-19,Unknown,Unknown,"Victim 1:- 55/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1583,Anisha,132,Darya Ganj,20-Jun-19,Bus,Bus,"Victim 1:- Unknown/60/Male/Killed
+
+A pedestrian was been hit by a cluster bus and the same bus hit an auto too. The pedestrian's head was injured and was taken to where he was declared as brought dead."
+1584,Anisha,228,Darya Ganj,19-Nov-19,Unknown,Unknown,"Victim 1:- Unknown/45/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1585,Anisha,1,Dayalpur,01-Jan-19,Unknown,Unknown,"Victim 1:- Sonu/21/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1586,Anisha,87,Dayalpur,16-Mar-19,Bus,Bus,"Victim 1:- Paalo/Female/55/Killed
+
+A pedestrian was been hit by a cluster bus and the victim's neck was found slit due to which she died on the spot."
+1587,Anisha,7,Delhi Cantt.,05-Jan-19,M3W,Unknown,"Victim 1:- Udai Bhan/Male/Killed
 
 A car's driver was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he died."
-56,Delhi Cantt.,09-Feb-19,Car,Bicycle,"Victim 1:- Rajender Sehrawat/Male/Killed
+1588,Anisha,26,Delhi Cantt.,19-Jan-19,Other,Truck/Tractor,"Victim 1:- Female/Killed
+
+A pedestrian was been hit by a JCB vehicle who drove upon her after hitting her from behind due to which she died on the spot."
+1591,Anisha,56,Delhi Cantt.,09-Feb-19,Car,Bicycle,"Victim 1:- Rajender Sehrawat/Male/Killed
 
 A cyclist was been hit by a car. The victim was injured and was taken to the hospital where he was declared as brought dead."
-63,Delhi Cantt.,19-Feb-19,MTW,Unknown,"Victim 1:- Satender Prasad/47/Male/Killed
+1592,Anisha,63,Delhi Cantt.,19-Feb-19,MTW,Unknown,"Victim 1:- Satender Prasad/47/Male/Killed
 
 A motorcyclist was been hit by an unknown vehicle and was found dead on the spot."
-153,Delhi Cantt.,03-Jun-19,Car,Truck/Tractor,"Victim 1:- Vivek Prakash/40/Male/Injured
+1598,Anisha,153,Delhi Cantt.,03-Jun-19,Car,Truck/Tractor,"Victim 1:- Vivek Prakash/40/Male/Injured
 Victim 2:- Sajid/Male/Killed
 
 A truck was been hit by a car from behind and the victims were taken to the hospital where the car's driver was declared as brought dead and the truck's driver was found injured."
-171,Delhi Cantt.,18-Jun-19,Unknown,Other,"Victim 1:- Bhuvan lal/45/Male/Killed
+1599,Anisha,171,Delhi Cantt.,18-Jun-19,Unknown,Other,"Victim 1:- Bhuvan lal/45/Male/Killed
 
 A hand cart puller was been hit by an unknown vehicle and his body was crushed due to which he died on the spot."
-237,Delhi Cantt.,09-Sep-19,Unknown,Bicycle,"Victim 1:- Rama Shankar Choudhary/55/Male/Killed
+1600,Anisha,175,Delhi Cantt.,24-Jun-19,Unknown,Unknown,"Victim 1:- Unknown/30-45/Female/Killed
+
+A pedestrain was been hit by an unknown vehicle and was found dead on the spot."
+1601,Anisha,180,Delhi Cantt.,27-Jun-19,Unknown,Unknown,"Victim 1:- Unknown/25/Male/Killed
+
+A pedestrain was been hit by an unknown vehicle and was found dead on the spot."
+1603,Anisha,257,Delhi Cantt.,11-Sep-19,Unknown,Unknown,"Victim 1:- Chandirka Prasad/Male/42/Killed
+
+A pedestrain was been hit by an unknown vehicle and was found dead on the spot."
+1607,Anisha,287,Delhi Cantt.,24-Nov-19,Car,Car,"Victim 1:- Anandi Chaudhary/66/Male/Killed
+
+A pedestrian was been hit by a private car. The victim was taken to the hospital where he was declared dead."
+1608,Anisha,303,Delhi Cantt.,13-Dec-19,Unknown,Unknown,"Victim 1:- Unknown/50/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and the victim's head was crushed and was found dead on the spot."
+1610,Anisha,135,Delhi Cantt.,03-May-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1611,Anisha,237,Delhi Cantt.,09-Sep-19,Unknown,Bicycle,"Victim 1:- Rama Shankar Choudhary/55/Male/Killed
 
 A cyclist was been hit by an unknown vehicle and was found dead on the spot."
-268,Delhi Cantt.,23-Oct-19,Other,MTW,"Victim 1:- Rajender Rai/55/Male/Killed
+1612,Anisha,268,Delhi Cantt.,23-Oct-19,Other,MTW,"Victim 1:- Rajender Rai/55/Male/Killed
 
 A motorcyclist was been hit by a crane and the victim was taken to the hospital where he was unfit to give statement."
-131,D.B.G. Road,15-Jul-19,M3W,Bus,"Victim 1:- Bhagwati Devi/65/Female/Killed
+1614,Anisha,41,D.B.G. Road,01-Feb-19,Unknown,Unknown,"Victim 1:- Unknown/30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he died during the treatment."
+1616,Anisha,131,D.B.G. Road,15-Jul-19,M3W,Bus,"Victim 1:- Bhagwati Devi/65/Female/Killed
 Victim 2:- Manoj/24/Male/Injured
 Victim 3: Hani/23/Male/Injured
 Victim 3:- Dogender Singh/48/Male/Injured"
-168,D.B.G. Road,05-Sep-19,Pedestrian,Other,"Victim 1:- Hema Devi/25/Female/Killed
+1617,Anisha,168,D.B.G. Road,05-Sep-19,Others,Other,"Victim 1:- Hema Devi/25/Female/Killed
 Victim 2:- Prem Pal/Male/Injured
 Victim 3:- Maya/12/Female/Injured
 
 The pedestians were been hit by a delivery vehicle. The victims were taken to the hospital where two of them were injured and the other pedestrian died during the treatment."
-113,D.B.G. Road,15-Jun-19,M3W,Unknown,"Victim 1:- Babloo/35/Male/Killed
+1618,Anisha,185,D.B.G. Road,29-Sep-19,Unknown,Unknown,"Victim 1:- Akshay Lal Sharma/32/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1619,Anisha,236,D.B.G. Road,12-Dec-19,Bus,Bus,"Victim 1:- Unknown/50-55/Male/Killed
+
+A pedestrian was been hit by a cluster bus and was found dead on the spot."
+1620,Anisha,113,D.B.G. Road,15-Jun-19,M3W,Unknown,"Victim 1:- Babloo/35/Male/Killed
 
 A tempo was found in an accidental condition and the victim was already taken  to the hospital where he was declared as brought dead."
-18,Sector-23 Dwarka,09-Jan-19,MTW,Not Applicable,"Victim 1:-Yogesh Kumar/26/Male/Killed
+1621,Anisha,18,Sector-23 Dwarka,09-Jan-19,MTW,Not Applicable,"Victim 1:-Yogesh Kumar/26/Male/Killed
 
 A motorcyclist was sef injured by falling off from the bike. The victim was taken to the hospital where he was treated and was found drunk."
-422,Sector-23 Dwarka,03-Oct-19,MTW,Car,"Victim 1:- Suraj Dev Singh/18/Male/Killed
+1623,Anisha,63,Sector-23 Dwarka,03-Feb-19,Unknown,Unknown,"Victim 1:- Unknown/25/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was treated at the hospital."
+1625,Anisha,113,Sector-23 Dwarka,18-Mar-19,Unknown,Unknown,"Victim 1:- Santosh Jha/42/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was treated."
+1626,Anisha,177,Sector-23 Dwarka,30-May-19,M3W,Truck/Tractor,"Victim 1:- Gajender Singh/36/Male/Killed
+
+A pedestrian was been hit by a tempo. The victim was injured and was taken to the hospital where he was declared dead."
+1628,Anisha,422,Sector-23 Dwarka,03-Oct-19,MTW,Car,"Victim 1:- Suraj Dev Singh/18/Male/Killed
 Victim 2:- Kishan Godara/18/Male/Injured
 
 A motorcyclist and a pillion rider were been hit by a taxi driver. The victims were injured and were taken to the hospital where the pillion rider was declared as brought dead and the motorcyclist was treated."
-425,Sector-23 Dwarka,07-Oct-19,MTW,Tractor with Trailer,"Victim 1:- Saourav Jain/28/Male/Killed
+1629,Anisha,425,Sector-23 Dwarka,07-Oct-19,MTW,Tractor with Trailer,"Victim 1:- Saourav Jain/28/Male/Killed
 
 A motorcyclist was been hit by tractor. The victim was taken to the hospital  where he was declared as brought dead."
-9,Dwarka North,05-Jan-19,Pedestrian,Other,"Victim 1:- Baby Ekra/3/Female/Killed
+1631,Anisha,532,Sector-23 Dwarka,29-Dec-19,Car,Car,"Victim 1:- Surbhi/3/Female/Killed
+
+A pedestrian was been hit by a car. The victim was taken to the hospital where she died during the treatment."
+1632,Anisha,9,Dwarka North,05-Jan-19,M3W,Other,"Victim 1:- Baby Ekra/3/Female/Killed
 
 A pedestrian was been hit by a electric rickshaw. The victim was taken to the hospital where she was declared as brought dead."
-207,Dwarka North,09-Jun-19,M3W,Car,"Victim 1:- Nanhelal/Male/Killed
+1635,Anisha,180,Dwarka North,18-May-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was treated."
+1636,Anisha,185,Dwarka North,21-May-19,Car,Car,"Victim 1:- 65/Male/Killed
+
+A pedestrian was been hit by a private car. The victim was injured and was taken to the hospital where he was treated."
+1637,Anisha,207,Dwarka North,09-Jun-19,M3W,Car,"Victim 1:- Nanhelal/Male/Killed
 
 An E-rickshaw driver was been hit by a car. The victim's vehicle got overturned and he came under the car due to which he died on the spot."
-351,Ghazipur,28-Oct-19,M3W,Not Applicable,"Victim 1:- Javed/Male/Killed
+1638,Anisha,268,Dwarka North,20-Jul-19,Unknown,Unknown,"Victim 1:-Roli Sharma/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where she was treated."
+1639,Anisha,361,Dwarka North,06-Sep-19,Unknown,Unknown,"Victim 1:- Unknown/32/Male/Killed
+
+Apedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was treated."
+1640,Anisha,375,Dwarka North,13-Sep-19,Car,Car,"Victim 1:- Anand/8 months/Male/Killed
+
+A pedestrian was been hit by a by a car. The victim was not responding and was taken to the hospital where he was declared as brought dead."
+1647,Anisha,303,Dwarka South,30-Jun-19,Unknown,Unknown,"Victim 1:- Unknown/65/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim  was taken to the hospital where he was declared as brought dead"
+1649,Anisha,552,Dwarka South,16-Dec-19,Unknown,Unknown,"Victim 1:- L.R.Chauhan/70/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1651,Anisha,563,Dwarka South,26-Dec-19,Car,Car,"Victim 1:- Amardeep Singh Gill/Male/Killed
+Victim 2:- Rajini Gill/Female/Injured
+
+The pedestrians were been hit by a car. The victims were found on the road and were taken to the hospital where one of them died and the other was treated."
+1652,Anisha,569,Dwarka South,30-Dec-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Geeta Rani/Female/Killed
+
+A pedestrain was been hit by a truck. The victim was injured and was taken to the hospital where she was declared as brought dead."
+1654,Anisha,21,Farash Bazar,18-Jan-19,Unknown,Unknown,"Victim 1:- Unknown/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was unfit to give statement."
+1655,Anisha,246,Farash Bazar,17-Jul-19,Unknown,Unknown,"Victim 1:- 45/Male/Killed
+ 
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1656,Anisha,37,Ghazipur,03-Feb-19,Unknown,Unknown,"Victim 1:- 50/Male/Killed
+
+A pedestrian was been hit by a unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1657,Anisha,56,Ghazipur,21-Feb-19,Unknown,Unknown,"Victim 1:- Shanti Devi/46/Female/Killed
+
+A pedestrian was been hit by a two wheeler vehicle. The victim was injured and was hospitalized."
+1663,Anisha,286,Ghazipur,26-Aug-19,Car,Car,"Victim 1:- Satender Pal Singh/48/Male/Killed
+
+A pedestrian was been hit by a car. The victim was taken to the hospital where he was declared as brought dead."
+1664,Anisha,351,Ghazipur,28-Oct-19,M3W,Not Applicable,"Victim 1:- Javed/Male/Killed
 
 A pillion rider in an auto rickshaw fell of from the vehicle due to the sudden break of the rickshaw driver as the pillion rider were sitting on the driver's seat. As the victim fell on the ground, a motorcyclist which was coming from behind crushed the victim from the waist. The victim was hospitalized and was treated."
-49,GulabiBagh,07-May-19,MTW,Pedestrian,"Victim 1:- Bachhi Ram/57/Male/Killed
+1665,Anisha,366,Ghazipur,30-Oct-19,Bus,Bus,"Victim 1:-Khushboo Yadav/17/Female/Killed
+
+A pedestrian was been hit by a mini bus. The victim was injured and was taken to the hospital where she was treated"
+1671,Anisha,113,GokulPuri,25-Apr-19,Bus,Bus,"Victim 1:- Unknown/30/Male/Killed
+
+A pedestrian was been hit by a mini bus and was found dead on the spot."
+1672,Anisha,131,GokulPuri,31-May-19,Unknown,Unknown,"Victim 1:- Jiledar Singh/60/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where the doctor declared him as brought dead."
+1676,Anisha,51,G.T B. Enclave,30-Jan-19,Unknown,Unknown,"Victim 1:- Dharm Raj/40/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was hospitalized and was treated."
+1677,Anisha,163,G.T B. Enclave,19-Apr-19,Unknown,Unknown,"Victim 1:- Hassan Bano/55/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where she was treated."
+1679,Anisha,205,G.T B. Enclave,11-May-19,Car,Car,"Victim 1:- Omprakash/72/Male/Killed
+
+A pedestrian was been hit by a car. The victim was hospitalized and was treated."
+1680,Anisha,441,G.T B. Enclave,30-Sep-19,Unknown,Unknown,"Victim 1:- 25/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was hospitalized and was treated."
+1684,Anisha,10,GulabiBagh,01-Feb-19,Unknown,Unknown,"Victim 1:- Kaku/23/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was hospitalized and was treated."
+1685,Anisha,28,GulabiBagh,01-Apr-19,Car,Car,"Victim 1:- Sanjay/Male/Killed
+
+A pedestrian was been hit by a car when the car got hit into the wall and the pedestrian who was lying on the road got hit. The victim was hospitalized and was unfit for the statement."
+1686,Anisha,39,GulabiBagh,20-Apr-19,M3W,M3W,"Victim 1:- Raj/2/Male/Injured
+Victim 2:- Sachak/3/Male/Killed
+
+A pedestrian who was crossing the road got hit by an auto. The vehicle overturned and one of the pillion rider also fell off from the vicle. The victims were taken to the hospiatl where the pedestrian died and the pillion rider was treated."
+1687,Anisha,49,GulabiBagh,07-May-19,MTW,Pedestrian,"Victim 1:- Bachhi Ram/57/Male/Killed
 
 A pedestrian was been hit by a motorcyclist. The victim was injured and was taken to the hospital where he was declared as brought dead."
-168,I.P. Estate,03-Aug-19,Truck/Tractor,Not Applicable,"Victim 1:- Shahrukh/21/Male/Injured
+1688,Anisha,122,GulabiBagh,21-Oct-19,Unknown,Unknown,"Victim 1:-  58/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1689,Anisha,111,Hazrat Nizammuddin,06-May-19,Unknown,Unknown,"Victim 1:- Kala Bai/70/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where she diedduring the treatment."
+1697,Anisha,168,I.P. Estate,03-Aug-19,Truck/Tractor,Not Applicable,"Victim 1:- Shahrukh/21/Male/Injured
 Victim 2:- Wajid/21/Male/Injured
 Victim 3:- Jallu/45/Male/Killed
 
 A truck got self hit and one of the passenger got stuck on the seat. The victims were taken to the hospital where one of them died and the other were treated."
-193,I.P. Estate,09-Aug-19,Car,M3W,"Victim 1:- 50/Male/Killed
+1698,Anisha,193,I.P. Estate,09-Aug-19,Car,M3W,"Victim 1:- 50/Male/Killed
 
 An auto rickshaw driver got hit by a private car. The victim was taken to the hospital were he was declared as brought dead."
-254,I.P. Estate,25-Nov-19,MTW,Bus,"Victim 1:- Vikash Panwar/27/Male/Killed
+1699,Anisha,208,I.P. Estate,07-Sep-19,Car,Car,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by a private car. The victim was injured and was taken to the hospital where he was hospitalized."
+1701,Anisha,254,I.P. Estate,25-Nov-19,MTW,Bus,"Victim 1:- Vikash Panwar/27/Male/Killed
 Victim 2:- Radhika Rawat/30/Female/Injured
 
 A motorcyclist and a pillion rider got disbalanced due to the sudden break of the motorcyclist and fell off. The motorcyclist got crushed by th eDTC bus which was coming from behind due to which he died on the spot."
-256,I.P. Estate,01-Dec-19,Pedestrian,Car,"Victim 1:- Unknown/25/Male/Killed
+1703,Anisha,256,I.P. Estate,01-Dec-19,Car,Car,"Victim 1:- Unknown/25/Male/Killed
 Victim 2:- Manoj Kumar Sharma/48/Male/Injured
 Victim 3:- Seema Sharma/42/Female/Injured
 
 A pedestrian, motorcyclist and a pillion rider were been hit by a car. The victims were taken to the hospital where the pedestrian died and the other were treated."
-148,Jagatpuri,18-Jun-19,Bus,Pedestrian,"Victim 1:- Sushma/20/Female/Killed
+1708,Anisha,148,Jagatpuri,18-Jun-19,Bus,Pedestrian,"Victim 1:- Sushma/20/Female/Killed
 
 A bus passenger fell off from the bus. The victim was taken to the hospital where he was treated and then died later on."
-220,Jahangir Puri,21-Apr-19,Unknown,MTW,"Victim 1:- Sugandhi/21/Female/Killed
+1711,Anisha,72,Jahangir Puri,05-Feb-19,Unknown,Unknown,"Victim 1:- Mahendra Singh/48/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1715,Anisha,180,Jahangir Puri,27-Mar-19,Unknown,Unknown,"Victim 1:- Unknown/55/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1716,Anisha,220,Jahangir Puri,21-Apr-19,Unknown,MTW,"Victim 1:- Sugandhi/21/Female/Killed
 
 A motorcyclist and a pillion rider were been hit by an unknown vehicle. The pillion rider was taken to the hospiatl where she died during the treatment."
-282,Jahangir Puri,15-Jun-19,Bus,Truck/Tractor,"Victim 1:- Sompal/52/Male/Killed
+1717,Anisha,238,Jahangir Puri,05-May-19,Unknown,Unknown,"Victim 1:- Unknown/55/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1718,Anisha,258,Jahangir Puri,24-May-19,Unknown,Unknown,"Victim 1:- Mukesh/52/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was hospitalized."
+1719,Anisha,265,Jahangir Puri,03-Jun-19,M3W,Truck/Tractor,"Victim 1:- Unknown/20-22/Male/Killed
+
+A pedestrian was been hit by a tempo. The victim was taken to the hospital where he was declared as brought dead."
+1720,Anisha,282,Jahangir Puri,15-Jun-19,Bus,Truck/Tractor,"Victim 1:- Sompal/52/Male/Killed
 
 A tempo driver was been hit by a mini bus. The victim was taken to the hospital where he ws declared as brought dead."
-551,Jahangir Puri,07-Nov-19,Truck/Tractor,MTW,"Victim 1:- Rahul/24/Male/Killed
+1721,Anisha,310,Jahangir Puri,07-Jul-19,M3W,Truck/Tractor,"Victim 1: Sunita/35/Female/Injured
+Victim 2:- Unknown/Male/Killed
+
+The pedestrians were been hit by a tempo. The victims were taken to the hospital where one of them was declared as brought dead."
+1723,Anisha,320,Jahangir Puri,11-Jul-19,Unknown,Unknown,"Victim 1:- Tehjeeb/24/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized."
+1726,Anisha,439,Jahangir Puri,16-Sep-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Hukum Chand/64/Male/Injured
+Victim 2:- Beena Devi/55/Female/Killed
+
+The pedestrian were  been hit by a truck and the vehicle crushed one of the victim. The victims were taken to the hospital where one of them died."
+1727,Anisha,551,Jahangir Puri,07-Nov-19,Truck/Tractor,MTW,"Victim 1:- Rahul/24/Male/Killed
 
 A motorcyclist was been hit by a truck. The victim was found crushed by the truck due to which he was dead on the spot."
-214,Jyoti Nagar,09-Jul-19,M3W,Bicycle,"Victim 1:- Male/Killed
+1729,Anisha,577,Jahangir Puri,28-Nov-19,Pedestrian,Truck/Tractor,"Victim 1:- Tejveer/28/Male/Killed
+Victim 2:- Babloo/42/Male/Injured
+
+A truck driver and a passenger were been hit by another truck while they were changing the vehicle's tyre. The victims were injured and were taken to the hospital where the driver was declared as brought dead and the passenger was treated."
+1731,Anisha,23,JamaMasjid,12-Jan-19,Unknown,Unknown,"Victim 1:- 25/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and the vicim was found dead on the spot."
+1732,Anisha,162,JamaMasjid,28-Aug-19,Unknown,Unknown,"Victim 1:- 35/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1733,Anisha,93,Jyoti Nagar,21-Mar-19,Car,Car,"Victim 1:- Monu Kumar/24/Male/Injured
+Victim 2:- Kishan/55/Male/Killed
+
+A pedestrian and a cyclist was been hit by a car. The victims were injured and were taken to the hospital where the pedestrian was declared as brought dead."
+1734,Anisha,214,Jyoti Nagar,09-Jul-19,M3W,Bicycle,"Victim 1:- Male/Killed
 
 A cyclist was been hit by an auto driver. The victim was taken to the hospital where he was hospitalized."
-317,KalyanPuri,28-Jun-19,M3W,Truck/Tractor,"Victim 1:- Premwati/Female/Injured
+1738,Anisha,317,KalyanPuri,28-Jun-19,M3W,Truck/Tractor,"Victim 1:- Premwati/Female/Injured
 Victim 2:- Daya/Male/Injured
 Victim3:- Sudarshan/Male/Injured
 Victim 4:- Priyanka/Female/Injured
@@ -169,7 +504,7 @@ Victim 9:- Monu Jain/Male/Killed
 Victim 10:- Mukesh Jain/Male/Killed
 
 A tempo got hit due to the sudden break of a water tanker vehicle. The victims were injured and were taken to the hospital where some of the victims were declared as brought dead and others were treated."
-317,KalyanPuri,28-Jun-19,M3W,Truck/Tractor,"Victim 1:- Premwati/Female/Injured
+1738,Anisha,317,KalyanPuri,28-Jun-19,M3W,Truck/Tractor,"Victim 1:- Premwati/Female/Injured
 Victim 2:- Daya/Male/Injured
 Victim3:- Sudarshan/Male/Injured
 Victim 4:- Priyanka/Female/Injured
@@ -181,7 +516,7 @@ Victim 9:- Monu Jain/Male/Killed
 Victim 10:- Mukesh Jain/Male/Killed
 
 A tempo got hit due to the sudden break of a water tanker vehicle. The victims were injured and were taken to the hospital where some of the victims were declared as brought dead and others were treated."
-317,KalyanPuri,28-Jun-19,M3W,Truck/Tractor,"Victim 1:- Premwati/Female/Injured
+1738,Anisha,317,KalyanPuri,28-Jun-19,M3W,Truck/Tractor,"Victim 1:- Premwati/Female/Injured
 Victim 2:- Daya/Male/Injured
 Victim3:- Sudarshan/Male/Injured
 Victim 4:- Priyanka/Female/Injured
@@ -193,244 +528,1096 @@ Victim 9:- Monu Jain/Male/Killed
 Victim 10:- Mukesh Jain/Male/Killed
 
 A tempo got hit due to the sudden break of a water tanker vehicle. The victims were injured and were taken to the hospital where some of the victims were declared as brought dead and others were treated."
-266,Kashmere Gate,27-Sep-19,Pedestrian,Bus,"Victim 1:- Ram Khilawan/63/Male/Killed
+1740,Anisha,326,KalyanPuri,07-Jul-19,Unknown,Unknown,"Victim 1:- Chanchal/25/Female/Killed
 
-A pedestrian was been hit by a DTC bus. The victim was injured and was taken to the hospital where he was declared as borught dead."
-280,KhajuriKhas,03-Jun-19,Other,MTW,"Victim 1:- 35/Male/Killed
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where she was treated."
+1742,Anisha,508,KalyanPuri,28-Oct-19,Unknown,Unknown,"Victim 1:- 35/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1745,Anisha,69,Kamla Market,30-Mar-19,M3W,Truck/Tractor,"Victim 1:- Talig/7/Male/Killed
+
+A pedestrian was been hit by a  tempo. The victim was taken to the hospital where he was hospitalized and died later on."
+1747,Anisha,202,Kamla Market,29-Sep-19,Car,Car,"Victim 1:- 50/Male/Killed
+
+A car got hit on the divider due to which it got overturned and hit the pedestrian. The victim was taken to the hospiatal where he was declared as brought dead."
+1750,Anisha,382,Karawal Nagar,25-Sep-19,Unknown,Unknown,"Victim 1:- Avdesh Kumar Mishra/65/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1751,Anisha,75,Karol Bagh,23-Feb-19,Unknown,Unknown,"Victim 1:- 25/Male/Killed
+
+A pedestrian was been hit by an uknown vehicle. The victim was hospitalized and was unfit for statement."
+1752,Anisha,43,Karawal Nagar,27-Jan-19,Car,Car,"Victim 1:- 4/Male/Killed
+
+A pedestrian was been hit by a car. The victim was taken to the hospital where he was declared as brought dead."
+1753,Anisha,22,Kashmere Gate,18-Jan-19,Unknown,Unknown,"Victim 1:- Surender/65/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized."
+1754,Anisha,32,Kashmere Gate,24-Jan-19,Bus,Bus,"Victim 1:- 50/Male/Killed
+
+A pedestrian was been hit by a bus. The victim was taken to the hospital where he was hospitalized and died during the treatment."
+1755,Anisha,65,Kashmere Gate,09-Mar-19,Unknown,Unknown,"Victim 1:- 27/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead"
+1758,Anisha,91,Kashmere Gate,04-Apr-19,Unknown,Unknown,"Victim 1:- 40/Male/Killed
+
+A pedestrian was found crushed by an unknown vehicle and was found dead on the spot."
+1759,Anisha,166,Kashmere Gate,27-Jun-19,Car,Car,"Victim 1:- 40/Male/Killed
+Victim 2:- 45/Male/Injured
+
+A car got hit on the footpath and got overturn. The vehicle fell onto the pedestrian who were sleeping on the road. The victims were injured and were taken to the hospital where one of them was declared as brought dead."
+1760,Anisha,183,Kashmere Gate,08-Jul-19,Unknown,Unknown,"Victim 1:- Unknown/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1761,Anisha,199,Kashmere Gate,24-Jul-19,Unknown,Unknown,"Victim 1:-Ram Pravesh/30/Male/Killed
+Victim 2:-Vijay/25/Male/Killed
+Victim 3:- Rocky/19/Male/Killed
+Victim 4:- 30/Male/Killed
+Victim 5:- Sukhdev/40/Male/Injured
+
+The pedestrians who were sleeping on the footpath were been crushed by an unknown vehicle. The victims were taken to the hospital where they were declared as brought dead and one victim was injured."
+1761,Anisha,199,Kashmere Gate,24-Jul-19,Unknown,Unknown,"Victim 1:-Ram Pravesh/30/Male/Killed
+Victim 2:-Vijay/25/Male/Killed
+Victim 3:- Rocky/19/Male/Killed
+Victim 4:- 30/Male/Killed
+Victim 5:- Sukhdev/40/Male/Injured
+
+The pedestrians who were sleeping on the footpath were been crushed by an unknown vehicle. The victims were taken to the hospital where they were declared as brought dead and one victim was injured."
+1761,Anisha,199,Kashmere Gate,24-Jul-19,Unknown,Unknown,"Victim 1:-Ram Pravesh/30/Male/Killed
+Victim 2:-Vijay/25/Male/Killed
+Victim 3:- Rocky/19/Male/Killed
+Victim 4:- 30/Male/Killed
+Victim 5:- Sukhdev/40/Male/Injured
+
+The pedestrians who were sleeping on the footpath were been crushed by an unknown vehicle. The victims were taken to the hospital where they were declared as brought dead and one victim was injured."
+1761,Anisha,199,Kashmere Gate,24-Jul-19,Unknown,Unknown,"Victim 1:-Ram Pravesh/30/Male/Killed
+Victim 2:-Vijay/25/Male/Killed
+Victim 3:- Rocky/19/Male/Killed
+Victim 4:- 30/Male/Killed
+Victim 5:- Sukhdev/40/Male/Injured
+
+The pedestrians who were sleeping on the footpath were been crushed by an unknown vehicle. The victims were taken to the hospital where they were declared as brought dead and one victim was injured."
+1762,Anisha,229,Kashmere Gate,26-Aug-19,MTW,MTW,"Victim 1:- 67/Male/Killed
+
+A pedestrian was been hit by an motorcyclist. The victim was injured and was taken to the hospital where he died during the treatment."
+1763,Anisha,244,Kashmere Gate,08-Sep-19,Truck/Tractor,Truck/Tractor,"Victim 1:- 50/Male/Killed
+
+A pedestrian was been hit by a truck. The victim was injured and was taken to the hospital where he was hospitalized."
+1765,Anisha,276,Kashmere Gate,10-Oct-19,Bus,Bus,"Victim 1:- 32/Male/Killed
+
+A pedestrian was been hit by a cluster bus. The victim was taken to the hospital where he was declared as brought dead."
+1766,Anisha,280,Kashmere Gate,13-Oct-19,Unknown,Unknown,"Victim 1:- 36/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1767,Anisha,283,Kashmere Gate,15-Oct-19,Car,Car,"Victim 1:- Male/Killed
+
+A pedestrian who was sleeping on the footpath was been hit by a taxi. The victim was taken to the hospital where he was hospitalized."
+1768,Anisha,360,Kashmere Gate,11-Dec-19,Unknown,Unknown,"Victim 1;- Mange Ram/30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was treated."
+1769,Anisha,46,Keshav Puram,29-Jan-19,Unknown,Unknown,"Victim 1:- Shahdat/50/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
+1771,Anisha,83,Keshav Puram,01-Mar-19,Unknown,Unknown,"Victim 1:- Chandini/3/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where she was declared as brought dead."
+1774,Anisha,133,Keshav Puram,04-Apr-19,Unknown,Unknown,"Victim 1:- Krishana Devi/65/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
+1777,Anisha,132,KhajuriKhas,11-Mar-19,Unknown,Unknown,"Victim 1:- 60/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital and was hospitalized."
+1778,Anisha,254,KhajuriKhas,23-May-19,Unknown,Unknown,"Victim 1:- Hari Ram Verma/42/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was treated."
+1779,Anisha,344,KhajuriKhas,28-Jun-19,Unknown,Unknown,"Victim 1:- 60/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1780,Anisha,280,KhajuriKhas,03-Jun-19,Other,MTW,"Victim 1:- 35/Male/Killed
 
 A motorcyclist was been hit by an ambulance vehicle. The victim was taken to the hospital and was hospitalized."
-280,KhajuriKhas,03-Jun-19,Other,MTW,"Victim 1:- 35/Male/Killed
+1780,Anisha,280,KhajuriKhas,03-Jun-19,Other,MTW,"Victim 1:- 35/Male/Killed
 
 A motorcyclist was been hit by an ambulance vehicle. The victim was taken to the hospital and was hospitalized."
-546,KhajuriKhas,13-Oct-19,Truck/Tractor,Bicycle,"Victim 1:- Vasudev Dixit/45/Male/Killed
+1781,Anisha,546,KhajuriKhas,13-Oct-19,Truck/Tractor,Bicycle,"Victim 1:- Vasudev Dixit/45/Male/Killed
 Victim 2:- Sadeep Mishra/Male/Injured
 
 A cyclist and a pillion rider were been hit by a truck and the truck crushed the cyclist  due to which he died on the spot."
-48,MadhuVihar,18-Mar-19,MTW,Pedestrian,"Victim 1:- Shekhar/31/Male/Killed
+1782,Anisha,566,KhajuriKhas,24-Oct-19,Unknown,Unknown,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1783,Anisha,627,KhajuriKhas,28-Oct-19,Unknown,Unknown,"Victim 1:-Roshan Khatum/50/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he died during the treatment."
+1786,Anisha,6,Kotwali,06-Jan-19,Unknown,Unknown,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1791,Anisha,174,Kotwali,05-Jun-19,Unknown,Unknown,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought daed."
+1793,Anisha,256,Kotwali,25-Jul-19,M3W,M3W,"Victim 1:- Puran Sharma/45/Male/Killed
+
+A pedestrian was been hit by an auto. The victim was taken to the hospital where he was declared as brought dead."
+1795,Anisha,295,Kotwali,29-Aug-19,Unknown,Unknown,"Victim 1:-24/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he died during the treatment."
+1798,Anisha,31,Lahori Gate,25-Feb-19,Unknown,Unknown,"Victim 1:- 30-35/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1801,Anisha,61,Lahori Gate,09-Apr-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Ajay/Male/Killed
+
+A pedestrian was been hit by a truck. The victim was injured and was taken to the hospital where he was unfit to give statement."
+1802,Anisha,65,Lahori Gate,17-Apr-19,Unknown,Unknown,"Victim 1:- 35/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was dead on the spot."
+1804,Anisha,119,Lahori Gate,01-Jul-19,Unknown,Unknown,"Victim 1:- B.C.Das/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1805,Anisha,233,Lahori Gate,22-Nov-19,Unknown,Unknown,"Victim 1:- 50/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1806,Anisha,236,Lahori Gate,30-Nov-19,Unknown,Unknown,"Victim 1:- 40/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1807,Anisha,238,Lahori Gate,04-Dec-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1808,Anisha,101,LaxmiNagar,21-Apr-19,Unknown,Unknown,"Victim 1:- Mohammad Danish/12/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized with grevious injury."
+1809,Anisha,167,LaxmiNagar,21-Jun-19,Unknown,Unknown,"Victim 1:- Prem Sharma/52/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was hospitalized."
+1810,Anisha,3,MadhuVihar,04-Jan-19,Unknown,Unknown,"Victim 1:- Rajvir Singh/56/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized with grevious injury."
+1812,Anisha,19,MadhuVihar,01-Feb-19,Unknown,Unknown,"Victim 1:- Sham Sundar Verma/59/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was hospitalized."
+1813,Anisha,40,MadhuVihar,06-Mar-19,Bus,Bus,"Victim 1:- Avinash Kumar/37/Male/Killed
+
+A pedestrian was been hit by a bus. The victim was taken to the hospital and was hospitalized."
+1814,Anisha,48,MadhuVihar,18-Mar-19,MTW,Pedestrian,"Victim 1:- Shekhar/31/Male/Killed
 
 A motorcyclist was been hit by an unknown vehicle. His head was found crushed and was dead on the spot."
-98,Mahendra Park,09-Mar-19,Pedestrian,Truck/Tractor,"Victim 1:- Farhan/Male/Killed
-Viictim 2:- Hasina Praveen/Female/Injured
+1815,Anisha,184,MadhuVihar,25-Aug-19,MTW,MTW,"Victim 1:- Mahabeer/65/Male/Killed
 
-A motorcyclist and the pillion riders were been hit by a tempo. The victims were taken to the hospital where one of the pillion rider was declared as brought dead and the others were treated."
-245,Mahendra Park,21-Jun-19,MTW,Truck/Tractor,"Victim 1:- Chaen Sukhrai/63/Male/Killed
+A pedestrian was been hit by a motorcyclist. The victim was injured and was taken to the hospital where he died during the treatment."
+1816,Anisha,2,Mahendra Park,04-Jan-19,Car,Car,"Victim 1:- Sachin/17/Male/Killed
+Victim 2:- Nitin/20/Male/Injured
+
+The pedestrians were been hit by a car. The victims were taken to the hospiatal where one was declared as brought dead."
+1817,Anisha,55,Mahendra Park,07-Feb-19,Unknown,Unknown,"Victim 1:- Sukhlal/45/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized."
+1820,Anisha,120,Mahendra Park,22-Mar-19,Truck/Tractor,Truck/Tractor,"Victim 1:-55/Male/Killed
+
+A pedestrian came suddenly in front of a moving truck and got hit. The victim was taken to the hospiatal where he was hospitalized."
+1821,Anisha,154,Mahendra Park,12-Apr-19,Unknown,Unknown,"Victim 1:- Vijay Kumar/34/Male/Killed
+
+A pedestrian was been hit by an unknown vechile. The victim was taken to the hospital where he was declared as brought dead."
+1823,Anisha,183,Mahendra Park,03-May-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was treated."
+1824,Anisha,192,Mahendra Park,13-May-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by a truck. The victim was taken to the hospiatal where he was declared as brought dead."
+1825,Anisha,245,Mahendra Park,21-Jun-19,MTW,Truck/Tractor,"Victim 1:- Chaen Sukhrai/63/Male/Killed
 
 A motorcyclist was been hit by a canter. The victim was taken to the hospital where he was declared as brought dead."
-29,Mandawali,01-Mar-19,MTW,Unknown,"sVictim 1:- Mamun/34/Male/Killed
+1827,Anisha,303,Mahendra Park,24-Jul-19,Unknown,Unknown,"Victim 1:- Rajeshwari/Female/Killed
+
+A pedestrian was been hit by an uknown vehicle. The victim was injured and was taken to the hospital where she was hospitalized."
+1829,Anisha,325,Mahendra Park,20-Aug-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Moolchand/55/Male/Killed
+
+A pedestrian was been hit by an unknown truck. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1832,Anisha,29,Mandawali,01-Mar-19,MTW,Unknown,"sVictim 1:- Mamun/34/Male/Killed
 Victim 2:- Ashfaq/50/Male/Injured
 
 A motorcyclist and a pillion rider got disbalanced on the speed breaker and fell. The motorcyclist was crushed by a car which was coming at a very high speed. The victims were taken to the hospital where the motorcyclist was declared as brought dead."
-55,Maurice Nagar,26-Aug-19,M3W,Bicycle,"Victim 1:- 40/Male/Killed
+1833,Anisha,72,Mandawali,07-Mar-19,Bus,Truck/Tractor,"Victim 1:- Amit Gupta/29/Male/Killed
+
+A pedestrian who was standing on a RTV bus door was been hit by a truck on a moving vehicle. The victim fell from the bus and was taken to the hospital where he was declared as brought dead."
+1835,Anisha,28,Mandir Marg,07-Mar-19,Bus,Bus,"Victim 1:- Surjeet Singh/Male/Killed
+
+A pedestrian was been hit by a DTC bus. The victim was taken to the hospital where he was hospitalized."
+1837,Anisha,59,Mandir Marg,08-Jun-19,Unknown,Unknown,"Victim 1:- Raju/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1839,Anisha,1066,MangolPuri,02-Nov-19,M3W,Truck/Tractor,"Victim 1:- Suraj/26/Male/Killed
+
+A pedestrian was been hit by a tempo. The victim was taken to the hospital where he was declared as brought dead."
+1841,Anisha,172,Mansarover Park,08-May-19,Unknown,Unknown,"Victim 1:- Hemant Yadav/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he died during the treatment."
+1842,Anisha,412,Mansarover Park,17-Jul-19,Unknown,Unknown,"Victim 1:- 31/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1845,Anisha,55,Maurice Nagar,26-Aug-19,M3W,Bicycle,"Victim 1:- 40/Male/Killed
 
 A cyclist was been hit by an auto. The victim was injured and was hospiatlized."
-22,MayurVihar,21-Jan-19,Truck/Tractor,Car,"Victim 1:- Dilip Kumar/Male/Killed
+1846,Anisha,88,Maurice Nagar,09-Nov-19,Unknown,Unknown,"Victim 1:- Shyam Babu/40/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital and was unfit to give statement."
+1847,Anisha,22,MayurVihar,21-Jan-19,Truck/Tractor,Car,"Victim 1:- Dilip Kumar/Male/Killed
 
 A TVS scooter rider and a swift car were been hit by a Bolero car which got disbalanced in order to avoid crash with a crane. The victim of scooter was taken to the hospital where he was hospitalized."
-22,MayurVihar,21-Jan-19,Pedestrian,Car,"Victim 1:- Dilip Kumar/Male/Killed
+1847,Anisha,22,MayurVihar,21-Jan-19,Truck/Tractor,Car,"Victim 1:- Dilip Kumar/Male/Killed
 
 A TVS scooter rider and a swift car were been hit by a Bolero car which got disbalanced in order to avoid crash with a crane. The victim of scooter was taken to the hospital where he was hospitalized."
-60,NandNagari,16-Feb-19,Pedestrian,Truck/Tractor,"Victim 1:- 52/Male/Killed
+1849,Anisha,229,MayurVihar,15-Jul-19,Unknown,Unknown,"Victim 1:- Mohan/63/Male/Killed
 
-A pedestrian was been hit by a tempo. The victim got stuck in between the tempo and a Gramin Seva vehicle. The victim was taken to the hospital where he was declared as brought dead."
-316,NandNagari,06-Jun-19,Bus,Bus,"Victim 1:- Tejpal/48/Male/Killed
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
+1850,Anisha,270,MayurVihar,31-Aug-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle, his body was completely crushed and was found dead on the spot."
+1852,Anisha,48,Model Town,18-Jan-19,Unknown,Unknown,"Victim 1:- Deepak Kumar/33/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1857,Anisha,269,Mukherji Nagar,11-Jul-19,MTW,MTW,"Victim 1:- 50/Male/Killed
+
+A pedestrian was been hit by a motorcycle. The victim was taken to the hospital where he was hospitalized."
+1858,Anisha,312,Mukherji Nagar,15-Jul-19,Unknown,Unknown,"Victim 1:- Ashok Kumar/30/Male/Killed
+
+A pedestrian was been hit by an unknow vehicle. The victim was injured and was hospitalizeed and after 16 days he died in the hospital."
+1859,Anisha,414,Mukherji Nagar,14-Sep-19,Car,Car,"Victim 1:- Ravi/22/Male/Killed
+
+A pedestrian was been hit by a car. The victim was brutally injured and was taken to the hospital where the doctors declared him as brought dead."
+1860,Anisha,169,Nabi Karim,17-May-19,MTW,MTW,"Victim 1:- 35/Male/Killed
+
+A pedestrian was been hit by a scooter. The victim was taken to the hospital where he died during the treatment."
+1861,Anisha,198,Nabi Karim,10-Jun-19,Unknown,Unknown,"Victim 1:-Sunny/50/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized where he was unfit to give statement."
+1862,Anisha,321,Nabi Karim,14-Sep-19,Unknown,Unknown,"Victim 1:- Laxmi/70/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized in the hospital where she was unfit to give statement."
+1863,Anisha,373,Nabi Karim,22-Oct-19,Unknown,Unknown,"Victim 1:- Manoj Sharma/27/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was hospiatlized but died during the treatment."
+1864,Anisha,7,NandNagari,04-Jan-19,Unknown,Unknown,"Victim 1:- 40/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was hospitalized."
+1869,Anisha,147,NandNagari,31-Mar-19,Unknown,Unknown,"Victim 1:- 32/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1872,Anisha,316,NandNagari,06-Jun-19,Bus,Bus,"Victim 1:- Tejpal/48/Male/Killed
 
 A passenger of RTV bus was been hit by a DTC bus. The victim was taken to the hospital where he was declared as brought dead."
-517,NewAshok Naf!ar,19-Oct-19,MTW,Unknown,"Victim 1:- Vikas Rai/23/Male/Killed
+1873,Anisha,390,NandNagari,18-Jul-19,MTW,MTW,"Victim 1:- Anna/35/Female/Killed
+
+A pedestrian was been hit by a motorcyclist. The victim was injured and was taken to the hospital where she was hospitalized."
+1874,Anisha,391,NandNagari,20-Jul-19,M3W,Truck/Tractor,"Victim 1:- Shiva/5/Male/Killed
+Victim 2:- Rajpal/30/Male/Killed
+
+The pedestrians were been hit by a tempo. The victims were taken to the hospital where they were declared as brought dead."
+1874,Anisha,391,NandNagari,20-Jul-19,M3W,Truck/Tractor,"Victim 1:- Shiva/5/Male/Killed
+Victim 2:- Rajpal/30/Male/Killed
+
+The pedestrians were been hit by a tempo. The victims were taken to the hospital where they were declared as brought dead."
+1875,Anisha,417,NandNagari,29-Jul-19,Unknown,Unknown,"Victim 1:- Butar Yadav/25/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospiatl where he was declared as brought dead."
+1876,Anisha,532,NandNagari,26-Aug-19,MTW,MTW,"Victim 1:- Ruda Singh/71/Male/Killed
+Victim 2:- Acche Lal/58/Male/Injured
+Victim 3:- Sumit/28/Male/Injured
+
+The pedestrians were been hit by a motorcyclist. The victims were taken to the hospital where one of the pedestrian died and and the motorcyclist and the other pedestrian were injured."
+1877,Anisha,687,NandNagari,13-Nov-19,Unknown,Unknown,"Victim 1:- Firoj/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized."
+1878,Anisha,692,NandNagari,17-Nov-19,Unknown,Unknown,"Victim 1:- 60/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1879,Anisha,710,NandNagari,26-Nov-19,M3W,M3W,"Victim 1:-30/Male/Killed
+
+A pedestrian was been hit by an Auto. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1894,Anisha,5,NewAshok Naf!ar,08-Jan-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Sameer/8/Male/Killed
+
+A pedestrian was been hit by a truck. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1895,Anisha,11,NewAshok Naf!ar,12-Jan-19,MTW,MTW,"Victim 1:- 35/Male/Killed
+
+A pedestrian was been hit by a motorcyclist. The victim was taken to the hospital where he was hospitalized."
+1897,Anisha,205,NewAshok Naf!ar,08-Apr-19,MTW,MTW,"Victim 1:- Aakash/19/Male/Killed
+Victim 2:- Vishal Singh/25/Male/Injured
+Victim 3:- Shiv Shankar/31/Male/Injured
+
+The pedestrians were been hit by a motorcyclist in which the motorcyclist too got injured. The victims were taken to the hispital where one of the pedestrian was later on declared as dead."
+1899,Anisha,406,NewAshok Naf!ar,19-Jul-19,Unknown,Unknown,"Victim 1:- Mayank Bhardwaj/26/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was hospitalized."
+1900,Anisha,441,NewAshok Naf!ar,03-Aug-19,Unknown,Unknown,"Victim 1:- Hariom Prasad/45/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he died during the treatment."
+1901,Anisha,517,NewAshok Naf!ar,19-Oct-19,MTW,Unknown,"Victim 1:- Vikas Rai/23/Male/Killed
 A motorcyclist was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
-183,Palam Village,25-Apr-19,M3W,MTW,"Victim 1:- Piyush Dhar Upadayay/26/Male/Killed
+1904,Anisha,53,North Avenue,03-Dec-19,Bus,Bus,"Victim 1:- Rajesh Chadh/40/Male/Injured
+
+A pedestrian was been hit by a bus. The vicitim was injured and was hospitalized where he was unfit to give statement."
+1905,Anisha,183,Palam Village,25-Apr-19,M3W,MTW,"Victim 1:- Piyush Dhar Upadayay/26/Male/Killed
 
 A motorcyclist was been hit by a tempo. The victim was injured and was taken to the hospital where he was declared as brought dead."
-112,Pandav Nagar,31-Mar-19,Car,MTW,"Victim 1:- Charu/26/Female/Injured
+1906,Anisha,216,Palam Village,23-May-19,M3W,Other,"Victim 1:- Maniram/28/Male/Killed
+
+A pedestrian was been hit by an E-rickshaw. The victim was crushed by the electric rickshaw driver and was taken to the hospital where he was declared as brought dead."
+1908,Anisha,43,Pandav Nagar,31-Jan-19,Unknown,Unknown,"Victim 1:- Ravinder Jha/46/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he died during the treatment."
+1909,Anisha,112,Pandav Nagar,31-Mar-19,Car,MTW,"Victim 1:- Charu/26/Female/Injured
 Victim 2:- Khushboo/26/Female/
 Victim 3:- Deepak/28/Male/Injured
 Victim 4:- Ranjeet Singh/40/Male/Injured
 Victim 5:- Methew/30/Male/Killed
 
 A Scorpi car hitted the motorcyclist and a Taxi car and then got hit on the divider due to which the vehicle got overturned and the passengers and the driver were injured. The victims of the car and the motorcyclist was taken to the hospital where one of the passenger was declared as brought dead."
-12,Patparganj Ind. Area,28-Jan-19,Bus,Not Applicable,"Victim 1:- Vijay Singh/60/Male/Killed
+1917,Anisha,403,Pandav Nagar,16-Nov-19,Bus,Bus,"Victim 1:- Female/Killed
+
+A pedestrian was been hit by a DTC bus. The victim was found dead on the spot with her head crushed by the vehicle."
+1918,Anisha,408,Pandav Nagar,12-Nov-19,Unknown,Unknown,"Victim 1:- 55/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where she died during the treatment."
+1919,Anisha,432,Pandav Nagar,06-Dec-19,Unknown,Unknown,"Victim 1:- Unknown/Killed
+Victim 2:- Unknown/Injured
+Victim 3:- Unknown/Injured
+
+The pedestrians were been hit by an unknown vehicle. The victims were taken to the hospital where one of them was declared as brought dead."
+1922,Anisha,12,Patparganj Ind. Area,28-Jan-19,Bus,Not Applicable,"Victim 1:- Vijay Singh/60/Male/Killed
 
 A bus passenger fell off from the bus when he was trying to board the bus. The victim was injured and was taken to the hospital where he was hospitalized."
-127,Patparganj Ind. Area,06-Sep-19,M3W,Other,"Victim 1:- Gaurav/24/Male/Killed
+1925,Anisha,127,Patparganj Ind. Area,06-Sep-19,M3W,Other,"Victim 1:- Gaurav/24/Male/Killed
 
 A cycle rickshaw rider was been hit by a garbage tempo. The victim was taken to the hospital where he was declared as brought dead."
-149,Patparganj Ind. Area,28-Sep-19,Bus,Not Applicable,"Victim 1:- Krishna Devi/40/Female/Killed
+1926,Anisha,145,Patparganj Ind. Area,21-Sep-19,Unknown,Unknown,"Victim 1:- Kundan/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
+1927,Anisha,149,Patparganj Ind. Area,28-Sep-19,Bus,Not Applicable,"Victim 1:- Krishna Devi/40/Female/Killed
 
 A bus passenger got hit by the same bus when she was trying to get off from the bus. The victim was taken to the hospital where she died during the treatment."
-167,Patparganj Ind. Area,25-Oct-19,Unknown,MTW,"uVictim 1:- Lalit Upadhaye/42/Male/Killed
+1928,Anisha,167,Patparganj Ind. Area,25-Oct-19,Unknown,MTW,"uVictim 1:- Lalit Upadhaye/42/Male/Killed
 
 A motorcyclist was been hit by an unknown vehicle. The victim was injured and was admitted first in one hospital then his family members took him to another hospital where he was hospitalized."
-145,Preet Vihar,15-Sep-19,MTW,Unknown,"Victim 1:- Dharmender/Male/Killed
+1929,Anisha,174,Patparganj Ind. Area,28-Oct-19,Unknown,Unknown,"Victim 1:- Unknown/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found unconscious on the road. The victim was injured and was hospitalized."
+1933,Anisha,145,Preet Vihar,15-Sep-19,MTW,Unknown,"Victim 1:- Dharmender/Male/Killed
 
 A motorcyclist was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
-157,SamayPurBadli,13-Mar-19,Pedestrian,Unknown,"Victim 1:- Anangpal/29/Male/Killed
+1934,Anisha,164,Preet Vihar,23-Oct-19,Bus,Bus,"Victim 1:- Ramniwas Gupta/78/Male/Killed
+
+A pedestrian was been hit by a cluster bus. The victim was taken to the hospital where he was hospitalized."
+1935,Anisha,175,Preet Vihar,12-Nov-19,Unknown,Unknown,"Victim 1:- Priyansh/2/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and his head was found crushed on the spot. The victim was taken to the hospital where he was declared as brought dead."
+1936,Anisha,12,Rajinder Nagar,07-Feb-19,Unknown,Unknown,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1938,Anisha,52,Rani Bagh,02-Feb-19,Unknown,Unknown,"Victim 1:-Arun/30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was takent to the hospital where he was hospitalized."
+1939,Anisha,274,Rani Bagh,19-Jul-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Manjit Kaur/Female/Killed
+
+A pedestrian was been hit by a truck. The victim was been crushed by the vehicle due to which she died on the spot."
+1941,Anisha,17,Roop Nagar,25-Jan-19,MTW,MTW,"Victim 1:- Vijay Bajaj/67/Male/Killed
+
+A pedestrian was been hit by a motorcyclist. The victim was injured and was taken to the hospital where he was hospitalized."
+1944,Anisha,110,Roop Nagar,04-Aug-19,Car,Car,"Victim 1:- Raju/40/Male/Killed
+
+A pedestrian was been hit by a car. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1946,Anisha,85,Sadar Bazar,04-Apr-19,Unknown,Unknown,"Victim 1:- 50/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found on the road with his both the legs injured. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1948,Anisha,149,Sadar Bazar,25-Aug-19,Unknown,Unknown,"Victim 1:- Kala/55/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was hospitalized."
+1950,Anisha,157,SamayPurBadli,13-Mar-19,Unknown,Unknown,"Victim 1:- Anangpal/29/Male/Killed
 
 A pedestrian was been hit by an unknown vehicle. The victim was been hit and was declared as brought dead."
-227,Sarai Rohilla,15-Jul-19,Unknown,Other,"Victim 1:- Deepchand Bandhu/Male/Killed
+1951,Anisha,284,SamayPurBadli,26-Apr-19,Unknown,Unknown,"Victim 1:- Surender Kumar/65/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
+1952,Anisha,295,SamayPurBadli,01-May-19,Car,Car,"Victim 1:- Krishna Devi/53/Female/Killed
+
+A car hitted a parked scooty, a motorcycle and then a pedestrian who was sitting under a tree and then the car got hit onto a tree. The pedestrian was injured and was taken to the hospital where she was declared as brought dead."
+1953,Anisha,330,SamayPurBadli,15-May-19,Unknown,Unknown,"Victim 1:- Krish/10/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1954,Anisha,506,SamayPurBadli,24-Jul-19,Unknown,Unknown,"Victim 1:- 45/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1955,Anisha,598,SamayPurBadli,10-Aug-19,Unknown,Unknown,"Victim 1:- 45/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
+1956,Anisha,738,SamayPurBadli,20-Oct-19,Unknown,Unknown,"Victim 1:- 30-35/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and his body was found crushed on the road due to which he was dead on the spot."
+1957,Anisha,750,SamayPurBadli,26-Oct-19,Unknown,Unknown,"Victim 1:- Vijay Singh/55/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he died during the treatment."
+1958,Anisha,792,SamayPurBadli,15-Nov-19,Unknown,Unknown,"Victim 1:- Jivan Kuman Mandal/33/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1959,Anisha,819,SamayPurBadli,28-Nov-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+1962,Anisha,59,Sarai Rohilla,10-Mar-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim had a head injury due to which he was hospitalized."
+1963,Anisha,227,Sarai Rohilla,15-Jul-19,Unknown,Other,"Victim 1:- Deepchand Bandhu/Male/Killed
 
 A cycle rickshaw rider was been hit by an unknown vehicle.The victim was injured and was taken to the hospital where he was hospitalized."
-18,Subhash Place,14-Jan-19,M3W,Truck/Tractor,"Victim 1:- Lakshman/19/Male/Killed
+1965,Anisha,311,Sarai Rohilla,03-Oct-19,Bus,Bus,"Victim 1:-50/Male/Killed
+
+A pedestrian was been hit by a school bus. The victim came under the wheels of the bus due to which after some time he died on the spot."
+1966,Anisha,361,Sarai Rohilla,01-Dec-19,Unknown,Unknown,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and wa staken to the hospital where he died during the treatment."
+1968,Anisha,18,Subhash Place,14-Jan-19,M3W,Truck/Tractor,"Victim 1:- Lakshman/19/Male/Killed
 
 A Champion car was been hit by a truck from side. The passenger of the car came under the car and was taken to the hospital where he was dead on the spot."
-459,Subhash Place,12-Dec-19,Pedestrian,Unknown,"Victim 1:- Chanderbhan/32/Male/Killed
+1969,Anisha,40,Subhash Place,07-Feb-19,Unknown,Unknown,"Victim 1:- 50/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1971,Anisha,53,Subhash Place,26-Feb-19,Unknown,Unknown,"Victim 1:- Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared brought dead."
+1972,Anisha,56,Subhash Place,01-Mar-19,Unknown,Unknown,"Victim 1:- Mohammad Sabir/18/Male/Injured
+Victim 2:- Ajay Singh Rawat/40/Male/Killed
+
+The pedestrians were been hit by an unknown vehicle. The victims were taken to the hospital where one of them was declared as brought dead."
+1973,Anisha,63,Subhash Place,03-Mar-19,Unknown,Unknown,"Victim 1:- Lal Mohan/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1974,Anisha,152,Subhash Place,20-May-19,MTW,MTW,"Victim 1:- Ramesh Chand/Male/Killed
+
+A pedestrian was been hit by a motorcyclist. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1975,Anisha,165,Subhash Place,04-Apr-19,Unknown,Unknown,"Victim 1:- Yogeshwar Mukhiya/48/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1976,Anisha,173,Subhash Place,08-Jun-19,M3W,Truck/Tractor,"Victim 1:- Deepak/30/Male/Killed
+
+A pedestrian was been hit by a tempo. The victim was hospitalized with grievous injury."
+1978,Anisha,406,Subhash Place,21-Nov-19,Unknown,Unknown,"Victim 1:- Vishnu Kohli/22/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1979,Anisha,448,Subhash Place,15-Dec-19,Unknown,Unknown,"Victim 1:-Male/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found drunk at the spot. The victim was taken to the hospital where he was declared as brought dead."
+1980,Anisha,459,Subhash Place,12-Dec-19,Unknown,Unknown,"Victim 1:- Chanderbhan/32/Male/Killed
 
 A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as"
-211,Seelampur,22-May-19,Unknown,Pedestrian,"Victim 1:- Gurdeep Singh Mahesh/69/Male/Killed
+1981,Anisha,27,Seelampur,22-Jan-19,Unknown,Unknown,"Victim 1:- Akela Begum/55/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized."
+1983,Anisha,211,Seelampur,22-May-19,Unknown,Pedestrian,"Victim 1:- Gurdeep Singh Mahesh/69/Male/Killed
 
 A motorcyclist fell off from the bike.The victim was injured and was taken to the hospital where he was hospitalized for 7 days and died during the treatment."
-416,Seelampur,22-Sep-19,Unknown,Pedestrian,"Victim 1:- Vijay Bansal/55/Male/Killed
+1984,Anisha,416,Seelampur,22-Sep-19,Unknown,Pedestrian,"Victim 1:- Vijay Bansal/55/Male/Killed
 
 A pillion rider fell off from the bike due to the hit of a car from behind. The victim was taken to the hospita and was hospitalized."
-192,Seema Puri,16-Mar-19,Bus,Not Applicable,"Victim 1:- Shakir/Male/Killed
+1985,Anisha,451,Seelampur,11-Oct-19,Unknown,Unknown,"Victim 1:- Afzal/23/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+1986,Anisha,11,Seema Puri,01-Jan-19,Unknown,Unknown,"Victim 1:- Gulshan Jana/24/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized and died after 6 days."
+1987,Anisha,70,Seema Puri,30-Jan-19,Car,Car,"Victim 1:- Yusuf/50/Male/Killed
+
+A pedestrian was been hit by a car. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1988,Anisha,85,Seema Puri,08-Feb-19,Unknown,Unknown,"Victim 1:- 40/Male/Killed
+
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+1990,Anisha,192,Seema Puri,16-Mar-19,Bus,Not Applicable,"Victim 1:- Shakir/Male/Killed
 
 A passenger of the bus fell off from the bus and was immediately taken to the hospital where he died after 2 days"
-245,Shahdara,23-Sep-19,MTW,Not Applicable,"Victim 1:- Sarita Agarwal/46/Female/Killed
+1992,Anisha,342,Seema Puri,25-May-19,Unknown,Unknown,"Victim 1:- Sandeep/20/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was unfit to give statement."
+1993,Anisha,529,Seema Puri,13-Aug-19,Unknown,Unknown,"Victim 1:- Arun Singh/30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was hospitalized."
+1996,Anisha,733,Seema Puri,07-Nov-19,Unknown,Unknown,"Victim 1:- Rustom/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he died during the treatment."
+1997,Anisha,748,Seema Puri,14-Nov-19,Unknown,Unknown,"Victim 1:- Harpal/65/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
+1998,Ashwani,765,Seema Puri,26-Nov-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Faizan/25/Male/Killed
+
+A pedestrian was been hit by a truck. The victim was injured and was taken to the hospital where"
+1999,Anisha,16,Shahdara,26-Jan-19,Unknown,Unknown,"Victim 1:- Khushnasib/30/Female/Killed
+Victim 2:- Mohammad Imraan/7 month/Male/Killed
+
+The pedestrian were been hit by an unknown vehicle. The victims were taken to the hospital where the child was declared as brought dead."
+2000,Anisha,245,Shahdara,23-Sep-19,MTW,Not Applicable,"Victim 1:- Sarita Agarwal/46/Female/Killed
 
 A motorcyclist fell off from the bike. The victim was injured and was taken to the hospital where she died during the treatment."
-37,ShakarPur,22-Feb-19,Car,Bicycle,"Victim 1:- Pappu Yadav/38/Male/Injured
+2001,Anisha,248,Shahdara,27-Sep-19,Unknown,Unknown,"Victim 1:- 24/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
+2005,Anisha,37,ShakarPur,22-Feb-19,Car,Bicycle,"Victim 1:- Pappu Yadav/38/Male/Injured
 Victim 2:- Vijay Kumar/35/Male/Killed
 
 A cyclist and a pillion rider were been hit by a car. The victim were injured and were taken to the hospital where the pillion rider died during the treatment."
-98,Shastri Park,10-Mar-19,MTW,Pedestrian,"Victim 1:- Shehnaz/45/Female/Killed
+2007,Anisha,255,ShakarPur,18-Aug-19,MTW,MTW,"Victim 1:- 35/Male/Killed
+
+A pedestrian was been hit by a motorcycle. The victim was injured and was taken to the hospital where he was declared as brought dead"
+2008,Anisha,323,ShakarPur,06-Oct-19,Unknown,Unknown,"Victim 1:- NN Arora/74/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized."
+2009,Anisha,345,ShakarPur,24-Oct-19,Unknown,Unknown,"Victim 1:- 60/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized."
+2012,Anisha,411,ShakarPur,12-Dec-19,Unknown,Unknown,"Victim 1:- 34-35/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle and was found dead on the spot."
+2017,Anisha,44,Shastri Park,27-Jan-19,Unknown,Unknown,"Victim 1:- Mukhtar/28/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
+2018,Anisha,55,Shastri Park,01-Feb-19,Unknown,Unknown,"Victim 1:- Subhaodh/32/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hosppitalized."
+2019,Anisha,62,Shastri Park,07-Feb-19,Unknown,Unknown,"Victim 1:- Asif/28/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hosppitalized."
+2020,Anisha,77,Shastri Park,22-Feb-19,Unknown,Unknown,"Victim 1:-Maya Devi/30/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+2021,Anisha,98,Shastri Park,10-Mar-19,MTW,Pedestrian,"Victim 1:- Shehnaz/45/Female/Killed
 
 A motorcyclist and a pillion rider were been hit by an unknown vehicle. The pillion rider was taken to the hospital where she was declared as brought dead."
-553,Shastri Park,05-Nov-19,Pedestrian,Unknown,"Victim 1:- Satish Dwarkanath/50/Male/Killed
+2022,Anisha,104,Shastri Park,12-Mar-19,M3W,M3W,"Victim 1:- Ram Nagar/54/Male/Killed
+
+A pedestrian was been hit by an auto. The victim was injured and was taken to the hospital where he died during the treatment."
+2027,Anisha,294,Shastri Park,28-May-19,Unknown,Unknown,"Victim 1:- Pyaarelal/75/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+2028,Anisha,339,Shastri Park,10-Jul-19,Unknown,Unknown,"Victim 1:- Harish/32/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as brought dead."
+2030,Anisha,459,Shastri Park,29-Aug-19,Unknown,Unknown,"Victim 1:- 30/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where she was declared as brought dead."
+2031,Anisha,489,Shastri Park,19-Sep-19,Unknown,Unknown,"Victim 1:- 30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was hospitalized."
+2032,Anisha,520,Shastri Park,13-Oct-19,Car,Car,"Victim 1:- Majidan/75/Male/Killed
+
+A pedestrian was been hit by a car. The victim was taken to the hospital where he was declared as brought dead."
+2034,Anisha,553,Shastri Park,05-Nov-19,Unknown,Unknown,"Victim 1:- Satish Dwarkanath/50/Male/Killed
 
 A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he died during the treatment."
-94,Sonia Vihar,03-May-19,MTW,Truck/Tractor,"Victim 1:- Tilak Singh/50/Male/Killed
+2036,Anisha,94,Sonia Vihar,03-May-19,MTW,Truck/Tractor,"Victim 1:- Tilak Singh/50/Male/Killed
 
 A motorcyclist was been hit by a tractor. The victim was injured and was taken to the hospital where he was declared as brought dead."
-10,Vivek Vihar,10-Jan-19,Unknown,Bicycle,"Victim 1:- 32/Male/Killed
+2038,Anisha,202,Sonia Vihar,11-Aug-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Jaipal Singh/70/Male/Killed
+
+A pedestrian was been hit by a truck which was reversing his vehicle. The victim was taken to the hospital where he died during the treatment."
+2045,Anisha,281,Wazirabad,07-Oct-19,Unknown,Unknown,"Victim 1:- Rahul Patel/22/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he died during the treatment."
+2046,Anisha,409,Vasant Kunj (South),04-Aug-19,Unknown,Unknown,"Victim 1:- Tribhuvan/32/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized."
+2048,Anisha,276,Vasant Kunj (North),04-Dec-19,Unknown,Unknown,"Victim 1:- 40/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+2049,Anisha,168,Harsh Vihar,18-Apr-19,Truck/Tractor,Truck/Tractor,"Victim 1:- 28/Male/Killed
+
+A pedestrian was been hit by a tractor. The victim was taken to the hospital where he was declared as brought dead."
+2050,Anisha,506,Harsh Vihar,06-Oct-19,MTW,MTW,"Victim 1:- Asha Ram/70/Male/Killed
+
+A pedestrian was been hit by a motorcyclist. The victim was taken to the hospital where he was declared as brought dead."
+2051,Anisha,575,Harsh Vihar,13-Nov-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Ompal/42/Male/Killed
+
+A pedestrian was been hit by a truck. The victim was taken to the hospital where he was declared as brought dead."
+2052,Anisha,33,Paharganj,21-Jan-19,Car,Car,"Victim 1:- 45/Female/Killed
+
+A pedestrian was been hit by an car. The voctim was taken to the hospital where she was declared as brought dead."
+2053,Anisha,196,Paharganj,09-Jul-19,Unknown,Unknown,"Victim 1:-30/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was hospitalized."
+2054,Anisha,10,Vivek Vihar,10-Jan-19,Unknown,Bicycle,"Victim 1:- 32/Male/Killed
 
 A cyclist was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where he was declared as broght dead."
-44,Vivek Vihar,09-Feb-19,Truck/Tractor,Bicycle,"Victim 1:- 35/Male/Killed
+2055,Anisha,36,Vivek Vihar,30-Jan-19,Unknown,Unknown,"Victim 1:- 27/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+2056,Anisha,44,Vivek Vihar,09-Feb-19,Truck/Tractor,Bicycle,"Victim 1:- 35/Male/Killed
 
 A cyclist was been hit bya tractor. The victim was taken to the hospital where he was declared as brought dead."
-2,Tughlak Road,11-Jan-19,Bus,Bicycle,"Victim 1:- Rajender Prasad/59/Male/Killed
+2059,Anisha,151,Vivek Vihar,18-Apr-19,Unknown,Unknown,"Victim 1:- Hitesh/20/Male/Killed
+
+A pedestrian was been hit by an unknown  vehicle. The victim was taken to the hospitalll where he was hospitalized."
+2060,Anisha,235,Vivek Vihar,30-Jun-19,Unknown,Unknown,"Victim 1:- 25/Male/Killed
+
+A pedestrian was been hit by an unknown  vehicle. The victim was taken to the hospitalll where he was hospitalized."
+2061,Anisha,265,Vivek Vihar,28-Jul-19,Car,Car,"Victim 1:- Keshav/21/Male/Injured
+Victim 2:- Prabhjot Singh/18/Male/Killed
+Victim 3:- Arsh/19/Male/Injured
+Victim 4:- Rubal/20/Female/Killed
+
+The pedestrians were been hit by an unknown vehicle. The victims were injured and were taken to the hospital where two of them were declared as brought dead."
+2061,Anisha,265,Vivek Vihar,28-Jul-19,Car,Car,"Victim 1:- Keshav/21/Male/Injured
+Victim 2:- Prabhjot Singh/18/Male/Killed
+Victim 3:- Arsh/19/Male/Injured
+Victim 4:- Rubal/20/Female/Killed
+
+The pedestrians were been hit by an unknown vehicle. The victims were injured and were taken to the hospital where two of them were declared as brought dead."
+2065,Anisha,2,Tughlak Road,11-Jan-19,Bus,Bicycle,"Victim 1:- Rajender Prasad/59/Male/Killed
 Victim 2:-Rajender/42/Male/Killed
 
 A cyclist and a pillion rider were been hit by a bus. The victim were injured and were taken to the hospital where one of them was declared as brought dead."
-2,Tughlak Road,11-Jan-19,Bus,Bicycle,"Victim 1:- Rajender Prasad/59/Male/Killed
+2065,Anisha,2,Tughlak Road,11-Jan-19,Bus,Bicycle,"Victim 1:- Rajender Prasad/59/Male/Killed
 Victim 2:-Rajender/42/Male/Killed
 
 A cyclist and a pillion rider were been hit by a bus. The victim were injured and were taken to the hospital where one of them was declared as brought dead."
-30,TimarPur,22-Feb-19,Car,Other,"Victim 1:- Kesho Mandal/40/Male/Killed
+2070,Anisha,169,Karol Bagh,02-May-19,Car,Car,"Victim 1:- Phoolwati Yadav/Female/Killed
+
+A pedestrian was been hit by a car. The victim was injured and was taken to the hospital where she was hospitalized."
+2071,Anisha,403,Karol Bagh,08-Nov-19,Unknown,Unknown,"Victim 1:- Shyam/25/Male/Killed
+
+A pedestrian was been hit by a unknown vehicle. The victim was injured and was taken to the hospital where she was hospitalized."
+2074,Anisha,37,Sabzi Mandi,14-Jan-19,Unknown,Unknown,"Victim 1:- Alauddin/65/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he was declared as brought dead."
+2076,Anisha,388,Shastri Park,30-Jul-19,M3W,Truck/Tractor,"Victim 1:- Amisha Kumari/21/Female/Killed
+
+A pedestrian was been hit by a tempo. The victim was taken to the hospital where she was declared as brought dead."
+2077,Anisha,191,Bharat Nagar,10-Feb-19,Car,Car,"Victim 1:- Gulam/3/Male/Killed
+
+A pedestrian was been hit by a car. The victim was injured and was hospitalized in the hospital."
+2078,Anisha,266,Bharat Nagar,11-Jun-19,MTW,MTW,"Victim 1:- Raghu Nandan/50/Male/Killed
+
+A pedestrian was been hit by a motorcyclist. The victim was injured and was taken to the hospital where he was unfit for statement."
+2079,Anisha,302,Bharat Nagar,05-Jul-19,Unknown,Unknown,"Victim 1:- Palak/1 Year 6 Months/Female/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was taken to the hospital where she was declared as brought dead."
+2080,Anisha,32,Swarup Nagar,28-Jan-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Geeta/42/Female/Killed
+
+A pedestrian was been hit by a truck. The victim was taken to the hospital where she was declared as brought dead."
+2081,Anisha,67,Swarup Nagar,05-Mar-19,Unknown,Unknown,"Victim 1:- Unknown/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was taken to the hospital where he died later."
+2083,Anisha,440,Swarup Nagar,23-Oct-19,Car,Car,"Victim 1:- Ashok Kumar Sharma/58/Male/Killed
+
+A pedestrian was been hit by a car driver who was reversing his vehicle at a high speed. The victim was taken to the hospital where he was declared as brought dead."
+2085,Anisha,5,TimarPur,09-Jan-19,Unknown,Unknown,"Victim 1:- 25/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was found on the road and was been checked by the CAT ambulance permedics where he was found dead."
+2086,Anisha,22,TimarPur,01-Feb-19,Bus,Bus,"Victim 1:- Phool Singh/40/Male/Killed
+
+A pedestrian was been hit by a cluster bus. The victim was injured and was taken to the hospital where he was hospitalized."
+2089,Anisha,30,TimarPur,22-Feb-19,Car,Other,"Victim 1:- Kesho Mandal/40/Male/Killed
 
 An Electric rickshaw driver was been hit by a car. The victim was injured and was taken to the hospital where he was declared as brought dead."
-50,TimarPur,05-Apr-19,Bus,Not Applicable,"Victim 1:- Lachi Ram/55/Male/Killed
+2093,Anisha,50,TimarPur,05-Apr-19,Bus,Not Applicable,"Victim 1:- Lachi Ram/55/Male/Killed
 
 A passenger fell off from a moving bus. The victim got injured on his head and was hospitalized."
-160,TimarPur,16-Aug-19,MTW,Bus,"Victim 1:- Anil Kumar/35/Male/Killed
+2094,Anisha,57,TimarPur,14-Apr-19,MTW,MTW,"Victim 1:- Anurag/Male/Killed
+
+A pedestrian was been hit by a motorcyclist. The victim was taken to the hospital and was hospitalized."
+2096,Anisha,67,TimarPur,05-May-19,Truck/Tractor,Truck/Tractor,"Victim 1:- Rajvir/55/Male/Killed
+
+A pedestrian was been hit by a truck. The victim was injured and was taken to the hospital where he was hospitalized."
+2097,Anisha,71,TimarPur,11-May-19,Unknown,Unknown,"Victim 1:- Deepak/Male/Killed
+
+A pedestrian was been hit by an unknonw vehicle. The victim was injured and was hospitalized in the hospital."
+2099,Anisha,94,TimarPur,09-Jun-19,Car,Car,"Victim 1:- 45/Male/Killed
+
+A pedestrian was been hit by a car. The victim was injured and was hospitalized."
+2100,Anisha,160,TimarPur,16-Aug-19,MTW,Bus,"Victim 1:- Anil Kumar/35/Male/Killed
 
 A motorcyclist was been hit by a bus. The victim was injured and was taken to the hospital where he was hospitalized."
-146,Wazirabad,25-May-19,MTW,Other,"Victim :Yogesh/Male/24/Dead
+2102,Anisha,204,TimarPur,31-Oct-19,Unknown,Unknown,"Victim 1:- Vicky/35/Male/Killed
+
+A pedestrian was been hit by an unknown vehicle. The victim was injured and was takne to the hospital where he was hospitalized."
+1461,Ashwani,7,TimarPur,11-Jan-19,Unknown,Unknown,Victim:Unknown/Male/40/DOA
+1466,Ashwani,70,Wazirabad,14-Mar-19,Unknown,Unknown,Victim : Unkown/unkown/Unknown/DOA
+1467,Ashwani,98,Wazirabad,07-Apr-19,Truck/Tractor,Truck/Tractor,Victim :Unknown/Dead
+1469,Ashwani,116,Wazirabad,02-May-19,Unknown,Unknown,Victim : Prince/Male/11/Dead
+1470,Ashwani,146,Wazirabad,25-May-19,MTW,Other,"Victim :Yogesh/Male/24/Dead
 Victim :Sarvesh/Male/40/Injured"
-195,Aman Vihar,25-Apr-19,Other,Car,Victim: Rafik/Male/20/Dead
-428,Aman Vihar,01-Sep-19,MTW,MTW,Victim : Ritesh/Male/20/Dead
-180,Bawana,21-Apr-19,MTW,Tractor with Trailer,Victim: Sandeep/Male /20/Dead
-582,Bawana,18-Dec-19,M3W,Car,"Victim: Bablu /Male/Unknown/Dead
+1471,Ashwani,194,Wazirabad,18-Jul-19,Unknown,Unknown,Victim :Unknown/Male/Unknown/Dead
+1473,Ashwani,210,Wazirabad,29-Jul-19,Car,Car,Victim : Rishab/Male/22/Dead
+1474,Ashwani,227,Wazirabad,15-Aug-19,Unknown,Unknown,Victim: Unknown / Dead
+1476,Ashwani,279,Wazirabad,05-Oct-19,Unknown,Unknown,Victim: Unknown/ Male/ unknown/ Dead
+1477,Ashwani,292,Wazirabad,16-Oct-19,Truck/Tractor,Truck/Tractor,Victim : Rajesh Kr /Male/38/Dead
+1479,Ashwani,307,Wazirabad,26-Oct-19,Unknown,Unknown,Victim : Unknown/ Male / 45/Dead
+1481,Ashwani,319,Wazirabad,09-Nov-19,Unknown,Unknown,Victim : Unknown/ Unknown/25/Dead
+1482,Ashwani,343,Wazirabad,02-Dec-19,Unknown,Unknown,Victim : Unknown / Male / 50/Dead
+1483,Ashwani,12,Aman Vihar,06-Jan-19,Car,Car,Victim: Mona/Female/26/Dead
+1486,Ashwani,195,Aman Vihar,25-Apr-19,Other,Car,Victim: Rafik/Male/20/Dead
+1489,Ashwani,428,Aman Vihar,01-Sep-19,MTW,MTW,Victim : Ritesh/Male/20/Dead
+1492,Ashwani,165,Bawana,10-Apr-19,Truck/Tractor,Truck/Tractor,Victim: Sunil Kr/ Male / 35/ Dead
+1493,Ashwani,180,Bawana,21-Apr-19,MTW,Tractor with Trailer,Victim: Sandeep/Male /20/Dead
+1494,Ashwani,198,Bawana,22-Apr-19,Unknown,Unknown,Victim: Sughan Jha/ Male/ 35/Dead
+1496,Ashwani,257,Bawana,14-Apr-19,Unknown,Unknown,"Victim : Unknown / Dead
+No Details in records"
+1499,Ashwani,332,Bawana,20-Jul-19,Truck/Tractor,Truck/Tractor,Victim: Umesh Kaushik/Male /40 /Dead
+1501,Ashwani,421,Bawana,12-Aug-19,Unknown,Unknown,Victim: Pradeep/Male /35/ DEAD
+1502,Ashwani,451,Bawana,27-Aug-19,Unknown,Unknown,Victim: Gutanshu/ Male / 23/Dead
+1503,Ashwani,490,Bawana,28-Sep-19,Unknown,Unknown,Victim: Satpal/Male /50/Dead
+1504,Ashwani,496,Bawana,03-Oct-19,Truck/Tractor,Truck/Tractor,Victim: Ramdas/Male/40/ Dead
+1507,Ashwani,582,Bawana,18-Dec-19,M3W,Car,"Victim: Bablu /Male/Unknown/Dead
 Victim: Mahesh/Male/Unknown/Injured"
-146,BegumPur,17-Apr-19,M3W,Car,Victim : Raja Ram /Male/ 47 /Dead
-278,BudhVihar,13-Oct-19,Pedestrian,M3W,Victim: Taniya /Female/1/Dead
-208,K.N katju Marg,01-Jun-19,MTW,M3W,"Victim:Gulshan Choudhary/Male/24/Dead
+1509,Ashwani,15,BegumPur,17-Jan-19,MTW,MTW,Victim: Manish/Male/ 7/ Dead
+1512,Ashwani,299,BegumPur,30-Aug-19,Car,Car,Victim: Unknown/Female/12/Dead
+1514,Ashwani,366,BegumPur,28-Oct-19,Unknown,Unknown,Victim: Roshan Kr. / Male / 24/ Dead
+1515,Ashwani,296,BegumPur,28-Aug-19,MTW,MTW,Victim : Janki /Female  /40/ Dead
+1516,Ashwani,146,BegumPur,17-Apr-19,M3W,Car,Victim : Raja Ram /Male/ 47 /Dead
+1518,Ashwani,278,BudhVihar,13-Oct-19,M3W,M3W,Victim: Taniya /Female/1/Dead
+1519,Ashwani,305,BudhVihar,11-Nov-19,MTW,MTW,Victim : Manav / Male/ 5/Dead
+1520,Ashwani,338,BudhVihar,26-Dec-19,Unknown,Unknown,"Victim : Vijay/ Male / 40/ Dead
+Victim : Sachin/ Male /28 /Injured"
+1521,Ashwani,27,BudhVihar,25-Jan-19,Unknown,Unknown,Victim: Unknown/ Female/50/Dead
+1522,Ashwani,171,BudhVihar,12-Jul-19,Unknown,Unknown,Victim: Unknown/ Male/30/ Dead
+1525,Ashwani,208,K.N katju Marg,01-Jun-19,MTW,M3W,"Victim:Gulshan Choudhary/Male/24/Dead
 Victim: Gurcharan Singh / Male/50/Injured"
-305,Kanjhawala,06-Jun-19,Car,MTW,Victim: Sameruddin Toor/ Male / 56/Injured
-878,MangolPuri,13-Sep-19,MTW,Truck/Tractor,Victim: Deepak Singh/ Male /30/Dead
-29,Maurya Enclave,27-Jan-19,Car,Truck/Tractor,Victim: Amir/Male/Unknown/Injured
-171,Maurya Enclave,19-Jun-19,MTW,Bus,"Victim: Ratna Devi/Female/50/Dead
+1527,Ashwani,412,K.N katju Marg,22-Oct-19,MTW,MTW,Victim: Parvati/Female/75/Dead
+1528,Ashwani,440,K.N katju Marg,15-Nov-19,Unknown,Unknown,Victim:Mona/Female/47/Dead
+1532,Ashwani,305,Kanjhawala,06-Jun-19,Car,MTW,Victim: Sameruddin Toor/ Male / 56/Injured
+1533,Ashwani,6,Kanjhawala,07-Jan-19,Unknown,Unknown,Victim: Ramgopal/ Male/40/Injured
+1534,Ashwani,68,Kanjhawala,04-Mar-19,Truck/Tractor,Truck/Tractor,Victim: Sufiyan Raja/ Male /2/Dead
+1537,Ashwani,190,Kanjhawala,20-May-19,Unknown,Unknown,Victim: Rajkumar/Male / 29/Injured
+1540,Ashwani,152,MangolPuri,07-Feb-19,Unknown,Unknown,Victim: Unknown / Male/ 70/ Dead
+1542,Ashwani,387,MangolPuri,11-Apr-19,MTW,MTW,Victim: Unknown/Female /70/ Injured
+1544,Ashwani,634,MangolPuri,06-Jul-19,Unknown,Unknown,Victim: Mahender Singh/Male/46/Dead
+1547,Ashwani,878,MangolPuri,13-Sep-19,MTW,Truck/Tractor,Victim: Deepak Singh/ Male /30/Dead
+1550,Ashwani,1166,MangolPuri,05-Dec-19,Unknown,Unknown,Victim: Yashpal singh/Male/70/Dead
+1551,Ashwani,29,Maurya Enclave,27-Jan-19,Car,Truck/Tractor,Victim: Amir/Male/Unknown/Injured
+1553,Ashwani,171,Maurya Enclave,19-Jun-19,MTW,Bus,"Victim: Ratna Devi/Female/50/Dead
 Victim: Jagan Singh/Male/56/Injured"
-184,Raj Park,21-Feb-19,MTW,Truck/Tractor,"Victim: Vishnu/ Male / 35 / Dead 
+1554,Ashwani,175,Maurya Enclave,21-Jun-19,Car,Car,Victim: Unknown/ Female/Unknown/ Injured
+1556,Ashwani,370,Maurya Enclave,07-Nov-19,Other,Truck/Tractor,Victim: Md. Jakir/Male/35/Dead
+1569,Ashwani,108,ParshantVihar,25-Apr-19,Unknown,Unknown,Victim: Unknown/Male /25/ Injured
+1570,Ashwani,169,Prem Nagar,05-Apr-19,Car,Car,Victim: Bhavesh/ Male / 2/ Dead
+1573,Ashwani,184,Raj Park,21-Feb-19,MTW,Truck/Tractor,"Victim: Vishnu/ Male / 35 / Dead 
 Victim : Janaki / Female / Unknown/ Injured"
-13,South Rohini,01-Jan-19,MTW,Fixed object,Victim: Harpreet/ Male / 35/ Dead
-352,Subhash Place,03-Oct-19,Pedestrian,Tractor with Trailer,Victim: Parul/ Male / 19/ Dead
-269,Shahbad Dairy,19-Jun-19,Pedestrian,Truck/Tractor,Victim: Baldev / Male/ Unkown / Dead
-384,Shahbad Dairy,18-Aug-19,M3W,Car,"Victim: Pramod Gupta / Male / Unknown/ Dead
+1574,Ashwani,185,Raj Park,21-Feb-19,MTW,MTW,Victim: Ganga Ram/ Male / 65 / Injured
+1575,Ashwani,221,Raj Park,06-Mar-19,Unknown,Unknown,"Victim : Unknown/ Male / Unknown/ Dead
+Victim : Ashwani / Male / 20 / Injured
+Victim : Shivam / Male / 18 / Injured"
+1580,Ashwani,374,Rani Bagh,29-Aug-19,Car,Car,Victim: Unknown / Male / Unknown/ Dead
+1581,Ashwani,515,Rani Bagh,20-Oct-19,Unknown,Unknown,Victim: Suresh Kr / Male / 62/ Injured
+1582,Ashwani,566,Rani Bagh,27-Oct-19,Unknown,Unknown,Victim: Harenderpal / Male/ 40 / Dead
+1586,Ashwani,13,South Rohini,01-Jan-19,MTW,Fixed object,Victim: Harpreet/ Male / 35/ Dead
+1588,Ashwani,789,SamayPurBadli,14-Nov-19,Unknown,Unknown,Victim: Mithlesh / Male /28 /Dead
+1589,Ashwani,352,Subhash Place,03-Oct-19,Truck/Tractor,Tractor with Trailer,Victim: Parul/ Male / 19/ Dead
+1590,Ashwani,380,Subhash Place,22-Oct-19,Unknown,Unknown,Victim: Unknown/Male/Unknown / Injured
+1591,Ashwani,403,Subhash Place,15-Nov-19,Unknown,Unknown,Victim: Naresh / Male / 35 / Injured
+1592,Ashwani,30,Shahbad Dairy,16-Jan-19,Unknown,Unknown,Victim: Mahavir/ Male / 60/ Dead
+1597,Ashwani,269,Shahbad Dairy,19-Jun-19,Truck/Tractor,Truck/Tractor,Victim: Baldev / Male/ Unkown / Dead
+1598,Ashwani,273,Shahbad Dairy,22-Jun-19,Unknown,Unknown,Victim : Sunny/ Male / Unknown / Injured
+1601,Ashwani,427,Shahbad Dairy,16-Sep-19,Unknown,Unknown,Victim: Sunil kr ./ Male / 36/ Dead
+1603,Ashwani,239,Shahbad Dairy,31-May-19,Unknown,Unknown,Victim: Manish Gautam/ Male / 39/ Injured
+1604,Ashwani,384,Shahbad Dairy,18-Aug-19,M3W,Car,"Victim: Pramod Gupta / Male / Unknown/ Dead
 Victim : Renu Gupta / Female/ Unknown / Injured
 Victim: Shaidul Sheikh/ Male/ Unknown/ Injured"
-111,Defence Colony,16-Jun-19,Truck/Tractor,MTW,Victim: Lucky / Male / 14/ Dead
-42,South Campus,22-Apr-19,Unknown,MTW,Victim: Sevram/ Male / 30/Dead
-218,R.K Puram,06-Sep-19,Car,Truck/Tractor,Victim: Mursalin / Male / Unknown / Dead
-54,Saket,03-Feb-19,Pedestrian,Truck/Tractor,Victim: Narayan Singh Bist/ Male /60/ Dead
-217,Saket,21-May-19,Pedestrian,M3W,Victim: Vinod/ Male /45/ Dead
-22,Vasant Kunj (South),07-Jan-19,Truck/Tractor,MTW,Victim: Ramnandan Kr. /Male /22/ Dead
-140,Vasant Kunj (South),06-Mar-19,Bus,Bicycle,Victim: Unknown/ Male / Unknown/ Dead
-108,Badarpur,15-Apr-19,M3W,Not Applicable,Victim: TaraChand / Male / 59/ Dead
-204,Badarpur,24-Jun-19,Bus,Pedestrian,Victim: Alfu / Male / 70/ Injured
-366,Badarpur,08-Oct-19,MTW,Truck/Tractor,"Victim: Unknown/ Male / Unknown / Dead
+1606,Ashwani,69,Shalimar Bagh,04-Feb-19,Car,Car,Victim: Harkesh Singh/ Male / Unknown / Injured
+1610,Ashwani,299,Shalimar Bagh,24-Jun-19,Car,Car,Victim: Chandrika / Male / Unknown /Injured
+1611,Ashwani,410,Sultan Puri,19-Apr-19,Truck/Tractor,Truck/Tractor,Victim:Unknown/ Male / Unknown / Dead
+1613,Ashwani,860,Sultan Puri,20-Aug-19,Truck/Tractor,Truck/Tractor,"Victim:Babloo/ Male / 19/ Injured
+Victim: Anand Pal/ Male / 28/ Dead"
+1614,Ashwani,1190,Sultan Puri,03-Dec-19,Car,Car,Victim: Nandani/Female /4/ Dead
+1616,Ashwani,25,Vijay Vihar,26-Jan-19,Truck/Tractor,Truck/Tractor,Victim: Prdeep Kr . / Male / Unknown/ Dead
+1618,Ashwani,111,Defence Colony,16-Jun-19,Truck/Tractor,MTW,Victim: Lucky / Male / 14/ Dead
+1621,Ashwani,6,South Campus,10-Jan-19,Car,Car,Victim: Unknown/Female/ 60/ Dead
+1622,Ashwani,42,South Campus,22-Apr-19,Unknown,MTW,Victim: Sevram/ Male / 30/Dead
+1623,Ashwani,47,South Campus,02-May-19,Truck/Tractor,Truck/Tractor,Victim: Unknown /Male / 35/Dead
+1624,Ashwani,57,South Campus,02-Jun-19,Truck/Tractor,Truck/Tractor,"Victim: Unknown/unknown/ Unknown/ Dead
+Victim: Unknown/ Unknown / Unknown /Injured
+Victim: Unknown /Unknown/ Unknown/ Injured"
+1625,Ashwani,70,South Campus,04-Jul-19,Car,Car,Victim: Ganga Ram /Male / 48/ Injured
+1626,Ashwani,92,South Campus,16-Aug-19,Unknown,Unknown,Victim: Ajay Rana/ Male /Injured
+1628,Ashwani,65,South Campus,23-Jun-19,Bus,Bus,Victim: Joshila Rai/ Male / 26/ Injured
+1632,Ashwani,70,Fatehpur Beri,19-Feb-19,Car,Car,Victim:Rajwati/Female/ 65/Dead
+1634,Ashwani,141,Fatehpur Beri,09-Apr-19,MTW,MTW,Victim: Arjun singh/ Male / 53/ Dead
+1635,Ashwani,188,Fatehpur Beri,23-May-19,Truck/Tractor,Truck/Tractor,Victim: Unknown/Unknown/Unknown /Dead
+1636,Ashwani,219,Fatehpur Beri,12-Jun-19,MTW,MTW,Victim: Kashish Gupta / Male/ Unknown/ Injured
+1638,Ashwani,323,Fatehpur Beri,02-Sep-19,Unknown,Unknown,Victim: Ikramul/ Male / 56/ Dead
+1640,Ashwani,434,Fatehpur Beri,04-Dec-19,Car,Car,Victim: Komal / Female/ 7 / Dead
+1643,Ashwani,311,HauzKhas,05-Dec-19,Unknown,Unknown,Victim: Unknown/ Male / 30/ Dead
+1644,Ashwani,345,HauzKhas,27-Jun-19,Unknown,Unknown,Victim: Amar Singh/ Male/ 35/ Dead
+1645,Ashwani,124,Hazrat Nizammuddin,20-May-19,Unknown,Unknown,Victim: Manisha/ Male / 26/ injured
+1646,Ashwani,145,Hazrat Nizammuddin,06-Jun-19,Car,Car,Victim:Md. Arshed / Male / 36 / Injured
+1652,Ashwani,140,KishanGarh,15-Apr-19,Unknown,Unknown,Victim: Unknown/ Male / 35 / Injured
+1657,Ashwani,385,KishanGarh,18-Oct-19,Bus,Bus,Victim: Sanjeev/ Male / 26/ Injured
+1659,Ashwani,441,KishanGarh,05-Dec-19,Unknown,Unknown,Victim: Unknown/ Male / 40 /Dead
+1660,Ashwani,454,KishanGarh,14-Dec-19,Unknown,Unknown,Victim: Shakir/ Male/ 30/ Dead
+1663,Ashwani,220,Kotla Mubarak Pur,22-Jul-19,Unknown,Unknown,Victim: Jagdish/ Male / Unknown /Dead
+1667,Ashwani,384,Lajpat Nagar,23-Dec-19,Unknown,Unknown,Victim: Maya/ Female / 42/ Dead
+1669,Ashwani,135,Lodhi Colony,06-Jun-19,Unknown,Unknown,Victim: Sunita / Female / 38/ Injured
+1671,Ashwani,120,MaidanGarhi,19-May-19,Unknown,Unknown,Victim: Unknown/ Male / Unknown / Dead
+1673,Ashwani,8,Malviya Nagar,10-Jan-19,Unknown,Unknown,Victim: Unknown/Male /40/ Dead
+1674,Ashwani,14,Malviya Nagar,15-Jan-19,Car,Car,Victim: Irfan Khan / Male / 35/ Dead
+1681,Ashwani,150,Neb Sarai,29-Apr-19,Unknown,Unknown,Victim: Raj Kumar/ Male /58/Injured
+1682,Ashwani,3,R.K Puram,01-Jan-19,Unknown,Unknown,Victim: Unknown/ Male / 40/ Injured
+1683,Ashwani,41,R.K Puram,01-Feb-19,Bus,Bus,Victim: Santosh /Male /28/ Injured
+1684,Ashwani,83,R.K Puram,14-Mar-19,Unknown,Unknown,Victim: Pappu Salim/Male / 35 / Injured
+1687,Ashwani,218,R.K Puram,06-Sep-19,Car,Truck/Tractor,Victim: Mursalin / Male / Unknown / Dead
+1688,Ashwani,254,R.K Puram,28-Oct-19,Car,Car,Victim: Premvati/ Female/ 70/ Dead
+1689,Ashwani,118,R.K Puram,17-Apr-19,Unknown,Unknown,Victim: Yogender Paswan/ Maale / 31/ DEAD
+1690,Ashwani,183,Safdarjung Enclave,25-Jul-19,Unknown,Unknown,Victim: Unknown/ Male / Unknown / Dead
+1692,Ashwani,1,Sarojini Nagar,02-Jan-19,Unknown,Unknown,Victim: Rajkumar/ Male / Unknown / Dead
+1694,Ashwani,212,Sarojini Nagar,01-Nov-19,Unknown,Unknown,Victim: Prempal / Male / 45/ Dead
+1695,Ashwani,101,Sarojini Nagar,12-Jun-19,Unknown,Unknown,Victim: Alam / Male / 24/ Injured
+1697,Ashwani,122,Vasant Kunj (North),31-May-19,Truck/Tractor,Truck/Tractor,Victim: Shamser Mia/ Male / 32/  DEAD
+1698,Ashwani,54,Saket,03-Feb-19,Truck/Tractor,Truck/Tractor,Victim: Narayan Singh Bist/ Male /60/ Dead
+1699,Ashwani,158,Saket,09-Apr-19,Car,Car,Victim: Lal Jha / Male /47/ Injured
+1700,Ashwani,217,Saket,21-May-19,M3W,M3W,Victim: Vinod/ Male /45/ Dead
+1701,Ashwani,348,Saket,30-Aug-19,MTW,MTW,Victim: OP Sharma / Male / 69/ Injured
+1702,Ashwani,422,Saket,04-Nov-19,Unknown,Unknown,Victim: Sandeep/ Male / 22/ Dead
+1703,Ashwani,499,Saket,11-Mar-19,Unknown,Unknown,Victim: Ramcharan / Male/ Unknown/ Dead
+1704,Ashwani,22,Vasant Kunj (South),07-Jan-19,Truck/Tractor,MTW,Victim: Ramnandan Kr. /Male /22/ Dead
+1705,Ashwani,140,Vasant Kunj (South),06-Mar-19,Bus,Bicycle,Victim: Unknown/ Male / Unknown/ Dead
+1707,Ashwani,151,Vasant Kunj (South),13-Mar-19,Truck/Tractor,Truck/Tractor,Victim: Unknown/ Male / Unknown /Dead
+1708,Ashwani,183,Vasant Kunj (South),29-Mar-19,Unknown,Unknown,Victim:Jamila/ Female / 6/ Injured
+1715,Ashwani,574,Vasant Kunj (South),01-Oct-19,Unknown,Unknown,Victim: Prakashan Yadav/ Male / 48/ Dead
+1720,Ashwani,131,Amar Colony,21-Apr-19,Unknown,Unknown,Victim: Shivnayak Singh/ Male / 68/ Dead
+1721,Ashwani,200,Amar Colony,25-Jun-19,Unknown,Unknown,Victim: Kiran Dev Mishra /Male /Unknown /Dead
+1723,Ashwani,51,Badarpur,01-Mar-19,Unknown,Unknown,Victim: Unknown/ Male / 25/ Dead
+1724,Ashwani,54,Badarpur,03-Mar-19,Unknown,Unknown,Victim: Kali Pada Roy/ Male /Unknown / Dead
+1725,Ashwani,108,Badarpur,15-Apr-19,M3W,Not Applicable,Victim: TaraChand / Male / 59/ Dead
+1728,Ashwani,173,Badarpur,01-Jun-19,Unknown,Unknown,Victim: Unknown/ Male / 45/Dead
+1729,Ashwani,204,Badarpur,24-Jun-19,Bus,Pedestrian,Victim: Alfu / Male / 70/ Injured
+1731,Ashwani,267,Badarpur,04-Aug-19,Car,Car,Victim:Vivek / Male / 22/ DEAD
+1732,Ashwani,366,Badarpur,08-Oct-19,MTW,Truck/Tractor,"Victim: Unknown/ Male / Unknown / Dead
 Victim: Lucky / Male / 27/ Injured"
-136,Chitaranjan Park,06-Sep-19,MTW,Truck/Tractor,"Victim: Rohit Rana / Male / Unknown/ Dead
+1734,Ashwani,136,Chitaranjan Park,06-Sep-19,MTW,Truck/Tractor,"Victim: Rohit Rana / Male / Unknown/ Dead
 Victim: Shubham Biswas/ Male / Unknown /Injured"
-131,Defence Colony,16-Jul-19,Bicycle,Car,Victim: Yashpal /Male /Unknown / Dead
-368,GovindPuri,17-Nov-19,Car,Truck/Tractor,Victim: Ansh Girdhar / Male / 19/ Injured
-154,GovindPuri,07-May-19,Bicycle,M3W,Victim: Santosh Dube/ Male / 38/Dead
-236,Greater Kailash,01-Dec-19,MTW,Unknown,Victim: Ramesh Chand Bhatt/ Male /50/ Dead
-215,Hazrat Nizammuddin,01-Sep-19,M3W,Unknown,"Victim:Raju/Male /23/ Dead 
+1735,Ashwani,38,Chitaranjan Park,19-Mar-19,Car,Car,Victim: Sherbahadur / Male / Unknown / Dead
+1736,Ashwani,131,Defence Colony,16-Jul-19,Bicycle,Car,Victim: Yashpal /Male /Unknown / Dead
+1737,Ashwani,186,Defence Colony,27-Oct-19,Unknown,Unknown,Victim: Unknown/ Male / 45/ DEAD
+1739,Ashwani,14,CIVIL LINESAmbedkar Nagar,07-Jan-19,MTW,MTW,Victim: Shanti / Female / 71/ Injured
+1740,Ashwani,306,CIVIL LINESAmbedkar Nagar,06-Jul-19,Unknown,Unknown,Victim: Rohit / Male / Unknown/ Injured
+1741,Ashwani,350,CIVIL LINESAmbedkar Nagar,29-Jul-19,Car,Car,Victim: Chandra Kanta/ Female/ 71/ Dead
+1744,Ashwani,565,CIVIL LINESAmbedkar Nagar,21-Dec-19,Unknown,Unknown,Victim: Rajni Kant / Male / 23 / Dead
+1745,Ashwani,50,GovindPuri,03-Feb-19,Unknown,Unknown,Victim: Gyanu / Male / Unknown / Injured
+1747,Ashwani,368,GovindPuri,17-Nov-19,Car,Truck/Tractor,Victim: Ansh Girdhar / Male / 19/ Injured
+1749,Ashwani,27,GovindPuri,19-Jan-19,Truck/Tractor,Truck/Tractor,"Victim: Sandhya / Female / 8 / Dead
+Victim: Kamini/ Female /12/ Injured"
+1750,Ashwani,154,GovindPuri,07-May-19,Bicycle,M3W,Victim: Santosh Dube/ Male / 38/Dead
+1751,Ashwani,108,Greater Kailash,15-May-19,Unknown,Unknown,"Victim: Unknown/ Male / 60 / Injured
+No other Details available in records (location)"
+1756,Ashwani,207,Greater Kailash,26-Oct-19,Car,Car,Victim: Tinkoo Yadav / Male / 21/ Dead
+1757,Ashwani,236,Greater Kailash,01-Dec-19,MTW,Unknown,Victim: Ramesh Chand Bhatt/ Male /50/ Dead
+1759,Ashwani,95,Hazrat Nizammuddin,18-Apr-19,Bus,Bus,Victim:Honey / Male / 24/ Dead
+1760,Ashwani,215,Hazrat Nizammuddin,01-Sep-19,M3W,Unknown,"Victim:Raju/Male /23/ Dead 
 Victim: Braham Dev/ Male / 36/Injured
 Victim: Majnu/ Male / 30/Injured
 Victim: Vikram Singh/ Male / 26/Injured
 Victim: Md. Ameen/ Male/ Injured"
-276,Hazrat Nizammuddin,23-Nov-19,Pedestrian,Unknown,Victim: Nazeem/ Male /unknown / Injured
-289,Hazrat Nizammuddin,24-Dec-19,MTW,MTW,"Victim: Pushkar Thapa/ Male /60 / Dead
+1761,Ashwani,219,Hazrat Nizammuddin,08-Sep-19,Unknown,Unknown,Victim: Unknown / Male / 35/ DEAD
+1762,Ashwani,276,Hazrat Nizammuddin,23-Nov-19,Unknown,Unknown,Victim: Nazeem/ Male /unknown / Injured
+1763,Ashwani,289,Hazrat Nizammuddin,24-Dec-19,MTW,MTW,"Victim: Pushkar Thapa/ Male /60 / Dead
 Victim: Nirmala Thapa / Female /56/ Injured"
-75,Lajpat Nagar,07-Feb-19,M3W,Car,Victim: Vikesh / Male / 22/ Injured
-107,New Friends Colony,19-May-19,Pedestrian,Truck/Tractor,Victim: Shoaib / Male/ Unknown /Dead
-171,New Friends Colony,11-Aug-19,Pedestrian,Truck/Tractor,Victim:Rajesh / Male / 35 / Dead
-5,Okhla Ind. Area,01-Jan-19,Pedestrian,MTW,Victim: Subodh Poddar/ Male / 56 / Dead
-173,Okhla Ind. Area,19-Jun-19,M3W,Truck/Tractor,"Victim: Sanjay Varman / Male / 32/ Injured
+1766,Ashwani,156,Jaitpur,24-Jul-19,Car,Car,victim: Daroga Singh/ Male / 70/ Dead
+1768,Ashwani,70,Jamia Nagar,09-Apr-19,Unknown,Unknown,Victim: Shabnam / Female / Unknown/ Dead
+1773,Ashwani,33,Kalkaji,21-Jan-19,Car,Car,Victim: Deepak/ Male / 5/ Dead
+1774,Ashwani,62,Kalkaji,05-Feb-19,Unknown,Unknown,Victim:Munni Devi / Female /75/ Dead
+1779,Ashwani,75,Lajpat Nagar,07-Feb-19,M3W,Car,Victim: Vikesh / Male / 22/ Injured
+1780,Ashwani,108,Lajpat Nagar,03-Mar-19,Car,Car,"Victim: Unknown/ Male / Unknown / Dead
+Victim: Nitish / male /unknown / Injured
+Victim: Gaurav / Male /Unknown / Injured"
+1782,Ashwani,200,Lajpat Nagar,27-May-19,Car,Car,Victim: Munesh / Female / 50/Dead
+1783,Ashwani,121,Neb Sarai,29-Mar-19,Car,Car,Victim: Ajam / Male /5/ Dead
+1787,Ashwani,171,New Friends Colony,11-Aug-19,Truck/Tractor,Truck/Tractor,Victim:Rajesh / Male / 35 / Dead
+1789,Ashwani,239,New Friends Colony,10-Dec-19,Truck/Tractor,Truck/Tractor,Victim: Unknown/ Male / 28/ Injured
+1790,Ashwani,5,Okhla Ind. Area,01-Jan-19,MTW,MTW,Victim: Subodh Poddar/ Male / 56 / Dead
+1791,Ashwani,47,Okhla Ind. Area,29-Jan-19,Truck/Tractor,Truck/Tractor,Victim: Suresh Sharma / Male / 65/ Injured
+1794,Ashwani,161,Okhla Ind. Area,30-May-19,Unknown,Unknown,Victim: Sunita Majumdar / Female / 30 / Injured
+1795,Ashwani,173,Okhla Ind. Area,19-Jun-19,M3W,Truck/Tractor,"Victim: Sanjay Varman / Male / 32/ Injured
 Victim: Unknown / Male / 40/ Dead"
-183,Okhla Ind. Area,02-Jul-19,Truck/Tractor,MTW,Victim: Upender Thakur / Male / Unknown / Dead
-392,Okhla Ind. Area,31-Oct-19,MTW,Truck/Tractor,"Victim: Babloo/ Male / 33/ Dead 
+1796,Ashwani,183,Okhla Ind. Area,02-Jul-19,Truck/Tractor,MTW,Victim: Upender Thakur / Male / Unknown / Dead
+1797,Ashwani,190,Okhla Ind. Area,09-Jul-19,Unknown,Unknown,Victim: Bachhu Mehra / Male / 40 / Dead
+1798,Ashwani,199,Okhla Ind. Area,15-Jul-19,Truck/Tractor,Truck/Tractor,"Victim: Rinku Sahu/ Male / 14 / Dead
+Victim: Rohan Dube / Male / Unknown / Injured"
+1800,Ashwani,374,Okhla Ind. Area,18-Oct-19,Truck/Tractor,Truck/Tractor,Victim: Umer Ali /Male / 62/ Dead
+1802,Ashwani,392,Okhla Ind. Area,31-Oct-19,MTW,Truck/Tractor,"Victim: Babloo/ Male / 33/ Dead 
 Victim: Surender Thakur/ Male / 22/ Injured"
-100,Sarita Vihar,17-Mar-19,MTW,Truck/Tractor,"Victim: Apurva Shukla / Male / 29/ Dead
+1808,Ashwani,79,PulPrahladPur,24-Apr-19,Unknown,Unknown,Victim: Unknown/ Unknown/ Unknown / Dead
+1809,Ashwani,105,PulPrahladPur,29-Mar-19,Truck/Tractor,Truck/Tractor,Victim: Shiv Kr./ Male / 50 / Dead
+1811,Ashwani,120,PulPrahladPur,13-Jun-19,Unknown,Unknown,Victim: UnKnown/ Dead
+1817,Ashwani,163,SangamVihar,08-May-19,Car,Car,Victim: Daya Shankar / male / 50/ Dead
+1819,Ashwani,243,SangamVihar,24-Jul-19,Truck/Tractor,Truck/Tractor,Victim: Jyoti/ Female / 5/ Dead
+1820,Ashwani,340,SangamVihar,02-Oct-19,Pedestrian,Truck/Tractor,Victim: Mahender/ Male / 46/ Dead
+1825,Ashwani,93,Sarita Vihar,13-Mar-19,MTW,MTW,Victim: Vijay Kr. /Male / 60 / Injured
+1826,Ashwani,100,Sarita Vihar,17-Mar-19,MTW,Truck/Tractor,"Victim: Apurva Shukla / Male / 29/ Dead
 Victim: Ankur/ Male/ Unknown / Injured"
-165,Sarita Vihar,12-May-19,Unknown,Other,Victim:Pradeep Kr./ Male / 55/Injured
-50,Sunlight Colony,17-Feb-19,Car,Truck/Tractor,"Victim: Puran / Male / 45/ Injured
+1828,Ashwani,126,Sarita Vihar,10-Apr-19,MTW,MTW,Victim: Unknown / Male / Unknown / Injured
+1829,Ashwani,165,Sarita Vihar,12-May-19,Unknown,Other,Victim:Pradeep Kr./ Male / 55/Injured
+1830,Ashwani,177,Sarita Vihar,20-May-19,Car,Car,Victim: Unknown / Male / 27 /Injured
+1831,Ashwani,211,Sarita Vihar,05-Jun-19,Unknown,Unknown,Victim:Pradeep Singh / Male / 39/ Injured
+1832,Ashwani,249,Sarita Vihar,16-Jul-19,Truck/Tractor,Truck/Tractor,Victim: Unknown/ Female/ 50 / Dead
+1833,Ashwani,261,Sarita Vihar,10-Jul-19,Unknown,Unknown,Victim: Narbahadur/ Male / 48/ Injured
+1836,Ashwani,332,Sarita Vihar,01-Sep-19,Truck/Tractor,Truck/Tractor,Victim: Unknown/ Dead
+1837,Ashwani,351,Sarita Vihar,13-Sep-19,Truck/Tractor,Truck/Tractor,Victim: Unknown/Dead
+1839,Ashwani,121,Sarita Vihar,31-Mar-19,Unknown,Unknown,Victim : Md. Suhail/ Male / 18/ Injured
+1840,Ashwani,3,ShaheenBagh,08-Jan-19,Unknown,Unknown,Victim: Shamiuddin / Male / 65/ Dead
+1841,Ashwani,78,ShaheenBagh,29-Apr-19,Car,Car,Victim:Chandei / Female/ 76/ Dead
+1842,Ashwani,173,ShaheenBagh,11-Aug-19,Unknown,Unknown,Victim: Tara Devi / Female / 58/  Dead
+1846,Ashwani,37,Sunlight Colony,28-Jan-19,Unknown,Unknown,Victim: Unknown / Male / 55/ Dead
+1848,Ashwani,50,Sunlight Colony,17-Feb-19,Pedestrian,Car,"Victim: Puran / Male / 45/ Injured
 Victim: Rahul / Male / 40/ Injured
 Victim:Unknown/ Male / 28/ Dead
 Victim: Unknown /Male /30/ Dead"
-24,Baba Haridas Nagar,14-Jan-19,MTW,Truck/Tractor,Victim: Praveen / Male / 42/ Injured
-57,Baba Haridas Nagar,01-Feb-19,Pedestrian,Car,Victim: Ramji Lal / Male / 62 / Dead
-141,Baba Haridas Nagar,27-Mar-19,Bus,Pedestrian,Victim: Renu/ Female / 30/ Dead
-473,Chhawla,28-Nov-19,MTW,Other,"Victim: Dharmender / Male / 30/ Injured
+1848,Ashwani,50,Sunlight Colony,17-Feb-19,Car,Truck/Tractor,"Victim: Puran / Male / 45/ Injured
+Victim: Rahul / Male / 40/ Injured
+Victim:Unknown/ Male / 28/ Dead
+Victim: Unknown /Male /30/ Dead"
+1852,Ashwani,180,Sunlight Colony,11-Jul-19,Unknown,Unknown,Victim: Anand / Male / 24/Dead
+1855,Ashwani,268,Sunlight Colony,17-Oct-19,Bus,Bus,Victim: Unknown/ Female / 72/ Dead
+1857,Ashwani,271,Sunlight Colony,20-Oct-19,Unknown,Unknown,Victim: Rakesh Thakur / Male / 35/ Injured
+1860,Ashwani,291,Sunlight Colony,19-Nov-19,Unknown,Unknown,Victim:Jayant Prakash / Male / 60/ Injured
+1862,Ashwani,3,Baba Haridas Nagar,03-Jan-19,Bus,Bus,Victim: Vinod/ Male / Unknown / Dead
+1863,Ashwani,24,Baba Haridas Nagar,14-Jan-19,MTW,Truck/Tractor,Victim: Praveen / Male / 42/ Injured
+1864,Ashwani,42,Baba Haridas Nagar,21-Jan-19,Unknown,Unknown,Victim: Naveen / Male / 30/ Dead
+1866,Ashwani,57,Baba Haridas Nagar,01-Feb-19,Car,Car,Victim: Ramji Lal / Male / 62 / Dead
+1868,Ashwani,93,Baba Haridas Nagar,17-Feb-19,Truck/Tractor,Truck/Tractor,"Victim: Somi Devi /Female/ 50/Dead
+Victim: Tarun/ Male /13/ Dead"
+1868,Ashwani,93,Baba Haridas Nagar,17-Feb-19,Truck/Tractor,Truck/Tractor,"Victim: Somi Devi /Female/ 50/Dead
+Victim: Tarun/ Male /13/ Dead"
+1870,Ashwani,141,Baba Haridas Nagar,27-Mar-19,Bus,Pedestrian,Victim: Renu/ Female / 30/ Dead
+1874,Ashwani,235,Baba Haridas Nagar,01-Jun-19,Car,Car,Victim: Akhbar / Male / 55 / Dead
+1876,Ashwani,258,Baba Haridas Nagar,26-Jun-19,Truck/Tractor,Truck/Tractor,Victim: Prakash / Male / 65 / Dead
+1879,Ashwani,557,Baba Haridas Nagar,21-Oct-19,MTW,MTW,Victim: Kushti Devi / Female / 72/ Dead
+1881,Ashwani,750,Baba Haridas Nagar,30-Dec-19,Unknown,Unknown,Victim: Inderdev / Male / 35/ Injured
+1882,Ashwani,15,Binda Pur,09-Jan-19,Bus,Bus,Victim: Charanjeet / Male /50/ Injured
+1883,Ashwani,9,Chhawla,06-Jan-19,Car,Car,Victim: Vinod / male / 26/ Dead
+1885,Ashwani,115,Chhawla,02-Apr-19,MTW,MTW,Victim: Duli Chand / Male / 84/ Injured
+1889,Ashwani,473,Chhawla,28-Nov-19,MTW,Other,"Victim: Dharmender / Male / 30/ Injured
 Victim: Rahul /Male / 26/ Dead
 Blue bull rammed into M/cycle"
-9,Dwarka North,08-Jan-19,Pedestrian,Car,Victim: Gulzari Lal/ Male /52/Dead
-217,Kapashera,17-Apr-19,MTW,Unknown,Victim: Surendar Negi/ Male /44 /Dead
-275,Kapashera,11-Jun-19,Pedestrian,Truck/Tractor,Victim: Mamta / Female / 30 /Dead
-110,Mohan Garden,14-Mar-19,Truck/Tractor,Pedestrian,Victim: Jyoti / Female / 25/ Dead
-420,Najafgarh,21-Aug-19,Pedestrian,Unknown,Victim:Unknown / Male / Unknown / Dead
-222,Ranhola,09-Apr-19,MTW,Tractor with Trailer,Victim: Issrat / Female / 20 /Dead
-664,Vasant Kunj (South),25-Nov-19,MTW,Car,Victim: Narender / Male / Unknown / Injured
-166,Delhi Cantt.,15-Jun-19,Pedestrian,Car,Victim: Mahesh / Male / unknown / Dead
-248,Hari Nagar,27-May-19,Bicycle,MTW,Victim: Shubham / Male / 25/ Dead
-40,JanakPuri,24-Jan-19,MTW,Truck/Tractor,"Victim: Jasbir Singh / Male / 40 / Dead
+1891,Ashwani,9,Dwarka North,08-Jan-19,Car,Car,Victim: Gulzari Lal/ Male /52/Dead
+1900,Ashwani,120,Jaffarpur Kalan,24-Jul-19,Truck/Tractor,Truck/Tractor,Victim: Prem / Male / 68/ Dead
+1904,Ashwani,101,Kapashera,11-Feb-19,Unknown,Unknown,Victim: Unknow/ Male / 10 / Dead
+1909,Ashwani,217,Kapashera,17-Apr-19,MTW,Unknown,Victim: Surendar Negi/ Male /44 /Dead
+1913,Ashwani,275,Kapashera,11-Jun-19,Truck/Tractor,Truck/Tractor,Victim: Mamta / Female / 30 /Dead
+1919,Ashwani,110,Mohan Garden,14-Mar-19,Pedestrian,Pedestrian,Victim: Jyoti / Female / 25/ Dead
+1921,Ashwani,132,Najafgarh,25-Mar-19,Truck/Tractor,Truck/Tractor,"Victim: Ramnaresh Yadav / Male / 24 / Dead 
+Victim: Anish / Male / 20 / Injured"
+1924,Ashwani,420,Najafgarh,21-Aug-19,Unknown,Unknown,Victim:Unknown / Male / Unknown / Dead
+1925,Ashwani,504,Najafgarh,10-Oct-19,Truck/Tractor,Truck/Tractor,Victim: Parmeshwar / Male / 55 / Dead
+1928,Ashwani,653,Najafgarh,23-Dec-19,Unknown,Unknown,Victim: Rajesh / Male / 28/ Injured
+1929,Ashwani,222,Ranhola,09-Apr-19,MTW,Tractor with Trailer,Victim: Issrat / Female / 20 /Dead
+1938,Ashwani,111,UttamNagar,13-Feb-19,Unknown,Unknown,Victim:Krishnan Nandan / Male / 45 /Dead
+1942,Ashwani,80,Vasant Kunj (South),25-Jan-19,Car,Car,Victim: Maya Devi / Female / 46/ Dead
+1945,Ashwani,276,Vasant Kunj (South),19-May-19,Unknown,Unknown,Victim: Deepak / male / 22 / Injured
+1947,Ashwani,522,Vasant Kunj (South),08-Sep-19,Unknown,Unknown,Victim: Arvind Kr Singh / Male /40/Dead
+1948,Ashwani,664,Vasant Kunj (South),25-Nov-19,MTW,Car,Victim: Narender / Male / Unknown / Injured
+1949,Ashwani,38,Anand Parbat,05-Feb-19,Truck/Tractor,Truck/Tractor,Victim : Ram Varan / Male / 45/ Dead
+1950,Ashwani,65,Anand Parbat,02-Apr-19,Car,Car,Victim: Rajender/ Male / 35/ Dead
+1951,Ashwani,127,Anand Parbat,08-Jun-19,Unknown,Unknown,Victim: Aarti Devi / Female / 42 / Dead
+1955,Ashwani,186,Binda Pur,14-Jan-19,Truck/Tractor,Truck/Tractor,Victim: Lal Babu / Male / Unknown/ Dead
+1956,Ashwani,457,Binda Pur,11-Jun-19,Car,Car,Victim: Nidhi / Female / 6/ Dead
+1957,Ashwani,728,Binda Pur,28-Aug-19,Unknown,Unknown,Victim:  Satish Kr ./ Male / 50/ Dead
+1958,Ashwani,902,Binda Pur,06-Nov-19,Unknown,Unknown,Victim: Urmila / Female / 27/ Injured
+1964,Ashwani,3,Delhi Cantt.,03-Jan-19,Unknown,Unknown,Victim: Unknown/ Male / Unknown / Dead
+1965,Ashwani,40,Delhi Cantt.,26-Jan-19,Pedestrian,Car,Victim: Kaushal / Male / 28/ Dead
+1966,Ashwani,166,Delhi Cantt.,15-Jun-19,Car,Car,Victim: Mahesh / Male / unknown / Dead
+1969,Ashwani,200,Dwarka South,11-Apr-19,Unknown,Unknown,Victim: Ikrar/ Male/ 5 / Injured
+1971,Ashwani,198,Hari Nagar,27-Apr-19,Car,Car,"Victim: Md. Shahid / Male / 45 / Dead 
+Victim: Kanchan / Female / 22/ Injured 
+Victim: Harpreet Kaur / Female / 37/ Injured"
+1972,Ashwani,359,Hari Nagar,26-Jul-19,Unknown,Unknown,Victim: Kuldeep Singh / Male /Unknown/ Dead
+1974,Ashwani,248,Hari Nagar,27-May-19,Bicycle,MTW,Victim: Shubham / Male / 25/ Dead
+1975,Ashwani,389,Hari Nagar,10-Aug-19,Unknown,Unknown,Victim: Unknown / Male /38/ Injured
+1979,Ashwani,21,JanakPuri,12-Jan-19,Unknown,Unknown,Victim: Virender Singh/ Male / 62/ Injured
+1980,Ashwani,30,JanakPuri,17-Jan-19,Bus,Bus,Victim: Unkown/ Male/ 35/ Dead
+1981,Ashwani,40,JanakPuri,24-Jan-19,MTW,Truck/Tractor,"Victim: Jasbir Singh / Male / 40 / Dead
 Victim: Amarjeet / Male / 50/ Injured"
-58,JanakPuri,08-Feb-19,Pedestrian,Car,Victim: Saroj Kumar / Male / 11/ Injured
-61,JanakPuri,09-Feb-19,Pedestrian,Unknown,Victim: Kapil Sharma / Male / Unknown / Dead
-448,JanakPuri,25-Nov-19,Pedestrian,Unknown,Victim: Bhagwati Prasad / Male / 61/ Injured
-395,Kirti Nagar,09-Nov-19,Truck/Tractor,Fixed object,Victim: Lalit Kumar / Male /33/ Dead
-202,Kirti Nagar,02-Jul-19,Pedestrian,M3W,Victim: Dinesh Pandit / Male / 26/Dead
-74,Moti nagar,13-Feb-19,MTW,Pedestrian,"Victim:Soma Singh/ Male / 55/ Injured
+1982,Ashwani,58,JanakPuri,08-Feb-19,Car,Car,Victim: Saroj Kumar / Male / 11/ Injured
+1983,Ashwani,61,JanakPuri,09-Feb-19,Unknown,Unknown,Victim: Kapil Sharma / Male / Unknown / Dead
+1984,Ashwani,93,JanakPuri,03-Mar-19,Unknown,Unknown,Victim: Sandeep Chawla / Male / 52/ Injured
+1985,Ashwani,185,JanakPuri,06-May-19,Bus,Bus,Victim: Sonu/ Male /22/ Dead
+1986,Ashwani,193,JanakPuri,10-May-19,Unknown,Unknown,Victim: Ganesh/ Male / Unknown / Injured
+1987,Ashwani,441,JanakPuri,14-Nov-19,Unknown,Unknown,Victim: Unknown/ Male /25/ Injured
+1988,Ashwani,448,JanakPuri,25-Nov-19,Unknown,Unknown,Victim: Bhagwati Prasad / Male / 61/ Injured
+1989,Ashwani,475,JanakPuri,17-Dec-19,Unknown,Unknown,Victim: Jagjeet Singh/ Male / 52/ Injured
+1990,Ashwani,40,Khyala,12-Feb-19,Truck/Tractor,Truck/Tractor,Victim: Unknown/ Male / Unknown / Dead
+1991,Ashwani,184,Khyala,08-Jun-19,Unknown,Unknown,Victim: Alam /Male / 17/ Dead
+1994,Ashwani,395,Kirti Nagar,09-Nov-19,Truck/Tractor,Fixed object,Victim: Lalit Kumar / Male /33/ Dead
+1995,Ashwani,202,Kirti Nagar,02-Jul-19,M3W,M3W,Victim: Dinesh Pandit / Male / 26/Dead
+1996,Ashwani,305,Kirti Nagar,04-Sep-19,Unknown,Unknown,Victim: Md. Mehmood / Male / 55 / Injured
+1998,Ashwani,338,Kirti Nagar,04-Oct-19,Unknown,Unknown,Victim: Unknown/ Male / 60 /Dead
+1999,Ashwani,368,Kirti Nagar,19-Oct-19,Unknown,Unknown,Victim: Govind Ram / Male / 71 /Injured
+2000,Ashwani,128,Maya Puri,31-May-19,Car,Car,Victim: Mohan Lal / Male / 46 / Injured
+2002,Ashwani,2,Moti nagar,03-Jan-19,Bus,Bus,Victim: Prabha Suri/ Female/ 64/ Dead
+2003,Ashwani,48,Moti nagar,27-Jan-19,MTW,MTW,Victim: Nar Bahadur/ Male / 60/ Injured
+2005,Ashwani,74,Moti nagar,13-Feb-19,MTW,Pedestrian,"Victim:Soma Singh/ Male / 55/ Injured
 Victim: Deepak/ Male / 28/ Dead"
-538,Moti nagar,19-Dec-19,Pedestrian,Bus,Victim: Kuldeep/ Male / 55/ Injured
-148,Mundka,02-Mar-19,Pedestrian,Car,Victim: Vinod/ Male / 52/ Dead
-186,Mundka,14-May-19,MTW,M3W,"Victim: Sunny / male / 20 / Dead
+2006,Ashwani,272,Moti nagar,24-Jun-19,Bus,Bus,Victim: Madan Mohan / Male / 63/ Dead
+2008,Ashwani,524,Moti nagar,04-Dec-19,Unknown,Unknown,Victim: Pintu /Male / 30/ Injured
+2009,Ashwani,538,Moti nagar,19-Dec-19,Bus,Bus,Victim: Kuldeep/ Male / 55/ Injured
+2010,Ashwani,28,Moti nagar,15-Jan-19,Unknown,Unknown,Victim: Unknown/ Male / 45/ Dead
+2011,Ashwani,187,Moti nagar,21-Apr-19,Unknown,Unknown,Victim: Rajender Kr. Gupta / Male / 80 / Injured
+2012,Ashwani,274,Moti nagar,24-Jun-19,Unknown,Unknown,Victim: Gurcharan Singh / Male / 70/ Injured
+2013,Ashwani,4,Mundka,03-Jan-19,Unknown,Unknown,Victim: unknown/ Male / 30/ Dead
+2014,Ashwani,7,Mundka,05-Jan-19,Unknown,Unknown,Victim: Unknown /Male / 60/Dead
+2018,Ashwani,42,Mundka,23-Jan-19,Car,Car,Victim: Unknown / Male/ 45/ Dead
+2019,Ashwani,70,Mundka,05-Feb-19,Unknown,Unknown,Victim: Angad Ram / Male / Unknown / Dead
+2020,Ashwani,72,Mundka,16-Feb-19,Unknown,Unknown,Victim: Unknown/ Male / 25/ Dead
+2021,Ashwani,100,Mundka,09-Mar-19,Unknown,Unknown,Victim: Mukesh / Male / 25/ Dead
+2024,Ashwani,148,Mundka,02-Mar-19,Car,Car,Victim: Vinod/ Male / 52/ Dead
+2026,Ashwani,186,Mundka,14-May-19,MTW,M3W,"Victim: Sunny / male / 20 / Dead
 Victim: Anshu Dahiya / male / 24/ injured"
-209,Mundka,12-Jun-19,Pedestrian,Truck/Tractor,Victim: Sukhveer / male / 48/ Dead
-4,Naraina,04-Jan-19,MTW,MTW,Victim: Laxmi Narayan / Male / unknown/ Injured
-52,Naraina,08-Mar-19,MTW,Truck/Tractor,Victim: Rajeev Dhir / Male / Unknown / Injured
-129,Naraina,16-Apr-19,M3W,Car,Victim: Irfan /Male /Unknown / Injured
-222,NihalVihar,31-Mar-19,Pedestrian,Car,Victim: Aahil / Male / 3/ Dead
-778,NihalVihar,17-Nov-19,MTW,MTW,"Victim: Karan R Podar / Male / 22/ Dead 
+2028,Ashwani,190,Mundka,17-May-19,Unknown,Unknown,Victim: Raju /Male / 65 / Injured
+2029,Ashwani,209,Mundka,12-Jun-19,Truck/Tractor,Truck/Tractor,Victim: Sukhveer / male / 48/ Dead
+2030,Ashwani,224,Mundka,24-Jun-19,Other,Truck/Tractor,Victim: Unknown/ Male / 35/ Dead
+2032,Ashwani,245,Mundka,06-Jul-19,Unknown,Unknown,Victim: Puranmasi Giri/ Male / Unknown / Dead
+2036,Ashwani,443,Mundka,19-Dec-19,Unknown,Unknown,Victim: Unknown/ Male / 35/ Dead
+2037,Ashwani,450,Mundka,27-Dec-19,Unknown,Unknown,Victim: Rajender Ram / Male / Unknown/ Dead
+2038,Ashwani,278,Najafgarh,07-Jul-19,Car,Car,Victim: Mishti / Female /2/ Dead
+2039,Ashwani,2,Nangloi,01-Jan-19,Unknown,Unknown,Victim: Sindhu / Female / 52/ Dead
+2042,Ashwani,113,Nangloi,26-Jan-19,Unknown,Unknown,Victim: Unknown / Male/ 35/ Dead
+2043,Ashwani,145,Nangloi,14-Mar-19,Unknown,Unknown,Victim: Kajal / Female/ 37/ Injured
+2046,Ashwani,247,Nangloi,21-May-19,Unknown,Unknown,Victim: Dinesh / Male / 35/ Injured
+2047,Ashwani,260,Nangloi,26-May-19,Unknown,Unknown,Victim: unknown / Male / 50/ Injured
+2048,Ashwani,258,Nangloi,26-May-19,Unknown,Unknown,Victim: Aadesh / Male / 28 / Injured
+2049,Ashwani,375,Nangloi,27-Jul-19,Unknown,Unknown,Victim: Sadhna Mishra / Female / 25/ Injured
+2051,Ashwani,514,Nangloi,23-Aug-19,MTW,MTW,Victim: Ratipal / Male / 52 / Injured
+2052,Ashwani,4,Naraina,04-Jan-19,MTW,MTW,Victim: Laxmi Narayan / Male / unknown/ Injured
+2053,Ashwani,52,Naraina,08-Mar-19,MTW,Truck/Tractor,Victim: Rajeev Dhir / Male / Unknown / Injured
+2054,Ashwani,129,Naraina,16-Apr-19,M3W,Car,Victim: Irfan /Male /Unknown / Injured
+2055,Ashwani,252,Naraina,31-Jul-19,Unknown,Unknown,Victim: Unknown / Male /32/ Injured
+2060,Ashwani,222,NihalVihar,31-Mar-19,Car,Car,Victim: Aahil / Male / 3/ Dead
+2062,Ashwani,436,NihalVihar,02-Jul-19,Unknown,Unknown,Victim: Kundan Lal / Male / Unknown / injured
+2063,Ashwani,469,NihalVihar,20-Jul-19,Unknown,Unknown,Victim: Akash Singh / Male / Unknown / Dead
+2064,Ashwani,497,NihalVihar,27-Jul-19,Unknown,Unknown,Victim: Sabra Begum / Female / 58 / Injured
+2066,Ashwani,778,NihalVihar,17-Nov-19,MTW,MTW,"Victim: Karan R Podar / Male / 22/ Dead 
 Victim: Yogesh / Male / 28/ Injured"
-345,PaschimVihar (East),18-Jun-19,M3W,Unknown,Victim: Unknown/ Male / Unknown / Injured
-210,PaschimVihar (West),04-May-19,Pedestrian,Truck/Tractor,Victim: Unknown /Male / 55/ Injured
-255,Punjabi Bagh,04-May-19,Truck/Tractor,Car,Victim: Manoj Kr. / Male /28 Injured
-383,Punjabi Bagh,16-Jul-19,Pedestrian,Unknown,Victim: Unknown/ Male / 56/ Injured
-437,Punjabi Bagh,09-Aug-19,Pedestrian,Car,Victim: Unknown/ Male / 75/ Dead
-515,Punjabi Bagh,20-Sep-19,Pedestrian,Car,Victim: Vicky/ Male / 28/ Dead
-365,Punjabi Bagh,08-Jul-19,Pedestrian,Car,Victim: Lakhan / Male / 65/ Innjured
-74,Rajouri Garden,21-Feb-19,MTW,Pedestrian,Victim: Dhoodhnath / Male / Unknown/ Dead
-400,Rajouri Garden,18-Aug-19,Pedestrian,Unknown,Victim: Amarjeet Kaur / Female / 72 / Injured
-587,Rajouri Garden,06-Nov-19,Other,Car,Victim: unknown/ Male / Unknown / 45
-242,Vikaspuri,03-Jun-19,Pedestrian,Bus,Victim: Unknown/ Male/ Unknown / Injured
-458,Vikaspuri,15-Nov-19,M3W,Car,Victim: Diwan Singh / Male / 35/ Dead
+2067,Ashwani,55,PaschimVihar (East),01-Feb-19,Bus,Bus,Victim: Unknown / Male
+2069,Ashwani,245,PaschimVihar (East),-NA-19,Unknown,Unknown,Victim: Rita Dua / Female / 55/ Dead
+2070,Ashwani,345,PaschimVihar (East),18-Jun-19,M3W,Unknown,Victim: Unknown/ Male / Unknown / Injured
+2071,Ashwani,346,PaschimVihar (East),18-Jun-19,Unknown,Unknown,Victim: Paras / Male / 29/ Injured
+2073,Ashwani,120,PaschimVihar (West),16-Mar-19,Unknown,Unknown,Victim: Indra Devi / Female / 62/ Injured
+2074,Ashwani,184,PaschimVihar (West),22-Apr-19,Truck/Tractor,Truck/Tractor,Victim: Unknown / Male / Unknown/ Dead
+2075,Ashwani,210,PaschimVihar (West),04-May-19,Truck/Tractor,Truck/Tractor,Victim: Unknown /Male / 55/ Injured
+2076,Ashwani,232,PaschimVihar (West),24-May-19,Unknown,Unknown,Victim: Unknown  /Dead
+2077,Ashwani,299,PaschimVihar (West),02-Jul-19,Unknown,Unknown,Victim: Neeraj / Male / 16/ Injured
+2080,Ashwani,127,Patel Nagar,07-Apr-19,Unknown,Unknown,Victim: Shankar Mishra / Male / 35/injured
+2082,Ashwani,227,Parshad Nagar,29-Oct-19,Unknown,Unknown,Victim: Sumit Soni / Male / 27/ Injured
+2083,Ashwani,79,Punjabi Bagh,11-Feb-19,Unknown,Unknown,Victim: Ramlakhan / Male / 71/ Dead
+2084,Ashwani,101,Punjabi Bagh,20-Feb-19,Unknown,Unknown,Victim: Unknown/ male / 40/Dead
+2087,Ashwani,255,Punjabi Bagh,04-May-19,Truck/Tractor,Car,Victim: Manoj Kr. / Male /28 Injured
+2089,Ashwani,383,Punjabi Bagh,16-Jul-19,Unknown,Unknown,Victim: Unknown/ Male / 56/ Injured
+2090,Ashwani,395,Punjabi Bagh,17-Jul-19,Unknown,Unknown,Victim: Nishant / Male / 31/ Injured
+2091,Ashwani,437,Punjabi Bagh,09-Aug-19,Car,Car,Victim: Unknown/ Male / 75/ Dead
+2092,Ashwani,515,Punjabi Bagh,20-Sep-19,Car,Car,Victim: Vicky/ Male / 28/ Dead
+2093,Ashwani,516,Punjabi Bagh,04-Sep-19,Unknown,Unknown,Victim: Mithlesh /Female / 45/ Dead
+2100,Ashwani,365,Punjabi Bagh,08-Jul-19,Car,Car,Victim: Lakhan / Male / 65/ Innjured
+2101,Ashwani,51,Rajouri Garden,01-Feb-19,Car,Car,Victim: Vidhya Devi / Female / Unknown /Dead
+2102,Ashwani,74,Rajouri Garden,21-Feb-19,Pedestrian,Pedestrian,Victim: Dhoodhnath / Male / Unknown/ Dead
+2104,Ashwani,121,Rajouri Garden,27-Mar-19,Car,Car,Victim: Bimla / Female / 55/ Injured
+2105,Ashwani,166,Rajouri Garden,30-Apr-19,Unknown,Unknown,Victim: Vihari Bhai / Male / Injured / 45
+2107,Ashwani,265,Rajouri Garden,11-Jul-19,Pedestrian,Truck/Tractor,Victim: Siapal / Male / 44/ Injured
+2109,Ashwani,400,Rajouri Garden,18-Aug-19,Unknown,Unknown,Victim: Amarjeet Kaur / Female / 72 / Injured
+2110,Ashwani,412,Rajouri Garden,27-Aug-19,Unknown,Unknown,Victim: Narender Kaur/ Female/ 75/ Injured
+2111,Ashwani,442,Rajouri Garden,-NA-19,Unknown,Unknown,Victim: Unknown/ Male/unknown/  Dead
+2112,Ashwani,587,Rajouri Garden,06-Nov-19,Other,Car,Victim: unknown/ Male / Unknown / 45
+2115,Ashwani,308,Ranhola,23-May-19,Truck/Tractor,Truck/Tractor,Victim: Shalu / Female / 8 / Dead
+2116,Ashwani,709,Ranhola,22-Nov-19,Unknown,Unknown,Victim: Om prakash/ Male / 28/ Dead
+2119,Ashwani,242,Vikaspuri,03-Jun-19,Bus,Bus,Victim: Unknown/ Male/ Unknown / Injured
+2123,Ashwani,458,Vikaspuri,15-Nov-19,M3W,Car,Victim: Diwan Singh / Male / 35/ Dead
+2124,Ashwani,490,Vikaspuri,21-Mar-19,Unknown,Unknown,Victim: Deepak / Male / Unknown / Dead
+2175,Ashwani,470,Rajouri Garden,16-Sep-19,Unknown,Unknown,Victim:Rajender Yadav / Male / 50 / Injured

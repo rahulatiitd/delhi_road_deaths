@@ -2,7 +2,7 @@
 library(dplyr)
 
 ################################################################################
-# Reading in 2019 crash data
+#### Reading in 2019 crash data ####
 ################################################################################
 
 
@@ -40,7 +40,7 @@ victim2 <- read.csv("data/2019/3_Person_Form_2.csv")
 pstation <- read.csv("data/2021/PS_lookup_181.csv")
 
 ################################################################################
-# Assigning crash_ID to vehicle and victim files
+#### Assigning crash_ID to vehicle and victim files ####
 ################################################################################
 
 crash1$Crash_ID_new<- paste0(crash1$Crash_ID, crash1$FIR_No, crash1$PS_Name)
@@ -64,14 +64,14 @@ rm(victim1, victim2)
 crash_19$FIR_No <- substr(crash_19$FIR_No, 1, 4)
 
 ################################################################################
-# removing entries without crash id
+#### removing entries without crash id ####
 ################################################################################
 
 x<-unique(vehicle_19$Vehicle_ID[which(is.na(vehicle_19$Crash_ID))])
 victim_19 <- victim_19[-c(which(victim_19$Vehicle_ID %in% x)),]
 
 ################################################################################
-# Reassigning Victim IDs to be unique
+#### Reassigning Victim IDs to be unique ####
 ################################################################################
 
 for (i in 1:nrow(victim_19)){
@@ -79,7 +79,7 @@ for (i in 1:nrow(victim_19)){
 }
 
 ################################################################################
-# Removing unnecessary columns
+#### Removing unnecessary columns ####
 ################################################################################
 
 crash_19 <- crash_19 %>% select(where(~!all(is.na(.))))
@@ -87,7 +87,7 @@ victim_19 <- victim_19 %>% select(where(~!all(is.na(.))))
 vehicle_19 <- vehicle_19 %>% select(where(~!all(is.na(.))))
 
 ################################################################################
-# Adding crash details to vehicle file
+#### Adding crash details to vehicle file ####
 ################################################################################
 
 vehicle_19 <- vehicle_19 %>% left_join(crash_19, by="Crash_ID_new")
@@ -96,14 +96,14 @@ vehicle_19$Vehicle_ID_new <- paste0(vehicle_19$Crash_ID_new,vehicle_19$Vehicle_I
 
 
 ################################################################################
-# Joining crash file with police station look up file for district, state and police station names
+#### Joining crash file with police station look up file for district, state and police station names ####
 ################################################################################
 
 crash_19 <- crash_19 %>% left_join(pstation, by="PS_Name")
 
 
 ################################################################################
-# Adding crash details to victim file
+#### Adding crash details to victim file ####
 ################################################################################
 
 
@@ -127,7 +127,7 @@ victim_19$Vehicle_Type[which(victim_19$Road_User=="Disembarked Vehicle Occupant"
 
 
 ################################################################################
-# Simplifying/replacing values
+#### Simplifying/replacing values ####
 ################################################################################
 
 ##simplifying vehicle type names and Impacting Vehicle or Object type names:
@@ -274,7 +274,7 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Bi
 
 
 ################################################################################
-# Correlating with Delhi police data - 2019
+#### Correlating with Delhi police data - 2019 ####
 #################################################################################
 
 # just making sure there no NA values in for and police station
@@ -397,7 +397,7 @@ missing_firs <- anti_join( DP_crash_level_data, victim_19, by=c("FIR_No", "PS_Na
 write_csv(missing_firs[,c(2,3,4,5)], "data/missing_FIRs_2019.csv")
 
 ################################################################################
-# Changing format of PS names - 2019
+#### Changing format of PS names - 2019 ####
 ################################################################################
 
 victim_19$PS_Name<- str_to_upper(victim_19$PS_Name)
@@ -408,7 +408,7 @@ victim_19$PS_Name <- str_replace_all(victim_19$PS_Name, " ", "")
 
 
 ################################################################################
-# Only people who died - 2019
+#### Only people who died - 2019 ####
 ################################################################################
 
 victim_f_19 <- 
