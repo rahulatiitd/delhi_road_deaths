@@ -79,16 +79,22 @@ for (i_crash in 1:nrow(crash_20)){
 
 victims_20_checked <- read.csv("data/2020/2020_multiple_death_FIRs.csv")
 
-victims_20_checked$Victim_user_type[
+victims_20_checked$Impacting_VehOrObject[
   which(victims_20_checked$Impacting_VehOrObject %in% c("Animal-Bull", 
                                         "Single Vehicle Overturn",
                                         "Single Vehicle Fall From the Bridge"))]<-"Other"
 
-victims_20_checked$Victim_user_type[
+victims_20_checked$Impacting_VehOrObject[
   which(victims_20_checked$Impacting_VehOrObject %in% c("Tata Ace", 
                                                         "Truck",
                                                         "Tractor",
                                                         "tempo-truck eicher"))]<-"Truck/Tractor"
+
+victims_20_checked$Impacting_VehOrObject[
+  which(victims_20_checked$Impacting_VehOrObject %in% c("Unknown Vehicle"))]<-"Unknown"
+
+victims_20_checked$Impacting_VehOrObject[
+  which(victims_20_checked$Impacting_VehOrObject %in% c("Three Wheeler (Auto)"))]<-"M3W"
 
 i <- 1
 
@@ -196,7 +202,7 @@ view_20$Victim_user_type[
   which(view_20$Victim_user_type %in% c("TWW", 
                                         "Bike",
                                         "Scooty",
-                                        "Motorcycle bullet"))]<-"MTW"
+                                        "Motorcycle Bullet"))]<-"MTW"
 
 view_20$Victim_user_type[
   which(view_20$Victim_user_type %in% c("Truck", 
@@ -225,6 +231,10 @@ view_20$Victim_user_type[
                                         "HDC",
                                         "MIL"))]<-"Other"
 
+view_20$Victim_user_type[which(view_20$Victim_user_type %in% c("POV",
+                                                               "TAX",
+                                                               "TNG"))]<-"Car"
+
 # changes in DP victim vehicle type
 #------------------------------------------------------------------------------
 view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("PED"))]<-"Pedestrian"
@@ -235,7 +245,10 @@ view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("CYC"))]<-"Bicycle"
 
 view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("SLF"))]<-"Self"
 
-view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("CAR"))]<-"Car"
+view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("CAR",
+                                                   "POV",
+                                                   "TAX",
+                                                   "TNG"))]<-"Car"
 
 view_20$VICTIMS_DP[which(view_20$VICTIMS_DP %in% c("TMP", 
                                                    "HTV", 
@@ -265,8 +278,8 @@ view_20$Responsible.road.user[which(view_20$Responsible.road.user %in% c("Motori
 view_20$Responsible.road.user[which(view_20$Responsible.road.user %in% c("Car/ Jeep/ Van/ Taxi"))] <- "Car"
 
 view_20$Responsible.road.user[which(view_20$Responsible.road.user %in% c("tempo-truck eicher", 
-                                                                             "Heavy vehicles", 
-                                                                             "Tempo/Tractor",
+                                                                             "Heavy Vehicles", 
+                                                                             "Tempo/ Tractor",
                                                                              "Truck",
                                                                              "Tractor",
                                                                              "HTV", 
@@ -280,6 +293,8 @@ view_20$Responsible.road.user[which(view_20$Responsible.road.user %in% c("TSR",
 
 view_20$Responsible.road.user[which(view_20$Responsible.road.user %in% c("Cycle rickshaw",
                                                                          "Animal-Bull"))] <- "Other"
+
+view_20$Responsible.road.user[which(view_20$Responsible.road.user %in% c("UNKNOWN"))] <- "Unknown"
 
 
 # changes in DP other vehicle type
@@ -315,7 +330,7 @@ view_20$OFFENDING_VEHICLE_DP[which(view_20$OFFENDING_VEHICLE_DP %in% c("AMBULNC"
                                                                            "C.RICKW"
                                                                            ))] <- "Other"
 
-
+view_20$OFFENDING_VEHICLE_DP[which(view_20$OFFENDING_VEHICLE_DP %in% c("UNKNOWN"))] <- "Unknown"
 
 
 
