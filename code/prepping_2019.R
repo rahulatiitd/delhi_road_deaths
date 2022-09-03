@@ -145,7 +145,9 @@ victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Tractor with 
                                                                   "Multi-Axle Heavy Commercial Vehicle", 
                                                                   "Intermediate Commercial Vehicle",
                                                                   "Two-Axle Medium Commercial Vehicle", 
-                                                                  "Two_Axle Heavy Commercial Vehicle"
+                                                                  "Two_Axle Heavy Commercial Vehicle",
+                                                                  "Light Commercial Vehicle", 
+                                                                  "Construction Vehicle"
                                                                   )
                                     )]<-"Truck/Tractor"
 
@@ -176,19 +178,18 @@ victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Bicycle - Man
                                     )]<-"Bicycle"
 
 victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Cycle Rickshaw" , 
-                                                                  "Ambulance", 
-                                                                  "Construction Vehicle",
+                                                                  "Ambulance",
                                                                   "Hand Drawn Vehicle",
                                                                   "Cycle Rickshaw - Manual", 
-                                                                  "Animal Drawn Vehicle"
+                                                                  "Animal Drawn Vehicle",
+                                                                  "Others"
                                                                   )
                                     )]<-"Other"
 
 victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Three Wheeler - Passenger", 
                                                                   "E-rickshaw","Three Wheeler - Goods", 
                                                                   "Three Wheeler - Passenger, Commercial", 
-                                                                  "Three Wheeler - Passenger, Private",
-                                                                  "Light Commercial Vehicle"
+                                                                  "Three Wheeler - Passenger, Private"
                                                                   )
                                     )]<-"M3W"
 
@@ -204,7 +205,8 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Tr
                                                                              "Intermediate Commercial Vehicle",
                                                                              "Two-Axle Medium Commercial Vehicle", 
                                                                              "Two_Axle Heavy Commercial Vehicle", 
-                                                                             "Construction Vehicle"
+                                                                             "Construction Vehicle",
+                                                                             "Tractor with Trailer"
                                                                              )
                                       )]<-"Truck/Tractor"
 
@@ -367,7 +369,7 @@ view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("AMBU
 view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("BUS O S", "DTC BUS", "BUS OTR", "CTR BUS", 
                                                                            "MIN.BUS", "BUS SCL"))] <- "Bus"
 view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("TEMPO", "HTV/GDS", "TRACTOR", "DELIVRY", 
-                                                                           "TANKER", "Tractor with Trailer"
+                                                                           "TANKER", "Tractor with Trailer","TRL/CON"
                                                                            ))] <- "Truck/Tractor"
 view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("UNKNOWN"))] <- "Unknown"
 view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("S/C&M/C"))] <- "MTW"
