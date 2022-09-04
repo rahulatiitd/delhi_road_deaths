@@ -118,7 +118,10 @@ victim_19$Impacting_VehOrObject[ which ( victim_19$Road_User=="Pedestrian" &
   victim_19$Vehicle_Type[ which ( victim_19$Road_User=="Pedestrian" & 
                                     victim_19$Impacting_VehOrObject=="Pedestrian")]
 
+victim_19$Vehicle_Type[which(victim_19$Road_User=="Pedestrian")]<- "Pedestrian"
+
 victim_19$Vehicle_Type[which(victim_19$Road_User=="Disembarked Vehicle Occupant")]<- "Pedestrian"
+
 
 # disembarked should also be pedestrian in vehicle type
 
@@ -144,8 +147,7 @@ victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Tractor with 
                                                                   "Two-Axle Heavy Commercial Vehicle", 
                                                                   "Multi-Axle Heavy Commercial Vehicle", 
                                                                   "Intermediate Commercial Vehicle",
-                                                                  "Two-Axle Medium Commercial Vehicle", 
-                                                                  "Two_Axle Heavy Commercial Vehicle",
+                                                                  "Two-Axle Medium Commercial Vehicle",
                                                                   "Light Commercial Vehicle", 
                                                                   "Construction Vehicle"
                                                                   )
@@ -203,8 +205,7 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Tr
                                                                              "Two-Axle Heavy Commercial Vehicle", 
                                                                              "Multi-Axle Heavy Commercial Vehicle", 
                                                                              "Intermediate Commercial Vehicle",
-                                                                             "Two-Axle Medium Commercial Vehicle", 
-                                                                             "Two_Axle Heavy Commercial Vehicle", 
+                                                                             "Two-Axle Medium Commercial Vehicle",
                                                                              "Construction Vehicle",
                                                                              "Tractor with Trailer"
                                                                              )
@@ -243,7 +244,12 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("An
                                                                              "Ambulance",
                                                                              "Hand Drawn Vehicle",
                                                                              "Cycle Rickshaw - Manual", 
-                                                                             "Animal Drawn Vehicle"
+                                                                             "Animal Drawn Vehicle",
+                                                                             "E-rickshaw", 
+                                                                             "Electric Cycle Rickshaw",
+                                                                             "Animal Drawn Vehicle",
+                                                                             "Others", 
+                                                                             "Cycle Rickshaw"
                                                                              )
                                       )]<-"Other"
 
@@ -259,16 +265,6 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Mi
                                                                              "Bus (Cluster)"
                                                                              )
                                       )]<-"Bus"
-
-victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("E-rickshaw", 
-                                                                             "Electric Cycle Rickshaw", 
-                                                                             "Ambulance",
-                                                                             "Animal Drawn Vehicle",
-                                                                             "Cycle Rickshaw - Manual", 
-                                                                             "Others", 
-                                                                             "Cycle Rickshaw"
-                                                                             )
-                                      )]<-"Other"
 
 victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Bicycle - Manual")
                                       )]<-"Bicycle"
@@ -376,7 +372,14 @@ view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("S/C&
 view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("PVT CAR", "TAXI"))] <- "Car"
 view_19$`OFFENDING_VEHICLE_DP`[which(view_19$`OFFENDING_VEHICLE_DP` %in% c("GRM.SEW", "TSR"))] <- "M3W"
 
-
+# 
+  view_19[which(view_19$Victim_Vehicle_Type==view_19$OFFENDING_VEHICLE_DP & 
+                    view_19$VICTIMS_DP==view_19$Impacting_VehOrObject), 
+          c("Victim_Vehicle_Type", "Impacting_VehOrObject")] <- 
+    rev(view_19[which(view_19$Victim_Vehicle_Type==view_19$OFFENDING_VEHICLE_DP & 
+                      view_19$VICTIMS_DP==view_19$Impacting_VehOrObject),
+                c("Victim_Vehicle_Type", "Impacting_VehOrObject")])
+  
 # finding the non-matching rows
 
 diff_victims_vehs <- 
