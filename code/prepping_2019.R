@@ -113,14 +113,20 @@ victim_19$Vehicle_ID_new<- paste0(victim_19$Crash_ID_new,victim_19$Vehicle_ID)
 
 victim_19 <- victim_19 %>% left_join(vehicle_19, by="Vehicle_ID_new")
 
-victim_19$Impacting_VehOrObject[ which ( victim_19$Road_User=="Pedestrian" & 
-                                           victim_19$Impacting_VehOrObject=="Pedestrian") ]<- 
-  victim_19$Vehicle_Type[ which ( victim_19$Road_User=="Pedestrian" & 
-                                    victim_19$Impacting_VehOrObject=="Pedestrian")]
+victim_19$Road_User[which(victim_19$Road_User=="Disembarked Vehicle Occupant")]<- "Pedestrian"
+
+victim_19[which(victim_19$Road_User=="Pedestrian" & 
+                  victim_19$Impacting_VehOrObject=="Pedestrian"), 
+        c("Vehicle_Type", "Impacting_VehOrObject")] <- 
+  rev(victim_19[which(victim_19$Road_User=="Pedestrian" & 
+                        victim_19$Impacting_VehOrObject=="Pedestrian"),
+              c("Vehicle_Type", "Impacting_VehOrObject")])
+
+#victim_19$Impacting_VehOrObject[ which ( victim_19$Road_User=="Pedestrian" & victim_19$Impacting_VehOrObject=="Pedestrian") ]<-victim_19$Vehicle_Type[ which ( victim_19$Road_User=="Pedestrian" & victim_19$Impacting_VehOrObject=="Pedestrian")]
 
 victim_19$Vehicle_Type[which(victim_19$Road_User=="Pedestrian")]<- "Pedestrian"
 
-victim_19$Vehicle_Type[which(victim_19$Road_User=="Disembarked Vehicle Occupant")]<- "Pedestrian"
+
 
 
 # disembarked should also be pedestrian in vehicle type
@@ -144,7 +150,8 @@ victim_19$Victim_Vehicle_Type[which(victim_19$Vehicle_Type %in% c("Tractor with 
                                                                   "Truck (Generic)",
                                                                   "Agricultural Tractor", 
                                                                   "Articulated Vehicle, Tractor Trailor", 
-                                                                  "Two-Axle Heavy Commercial Vehicle", 
+                                                                  "Two-Axle Heavy Commercial Vehicle",
+                                                                  "Two_Axle Heavy Commercial Vehicle",
                                                                   "Multi-Axle Heavy Commercial Vehicle", 
                                                                   "Intermediate Commercial Vehicle",
                                                                   "Two-Axle Medium Commercial Vehicle",
@@ -202,7 +209,8 @@ victim_19$Impacting_VehOrObject[which(victim_19$Impacting_VehOrObject %in% c("Tr
                                                                              "Agricultural Tractor", 
                                                                              "Articulated Vehicle, Tractor Trailor",
                                                                              "Light Commercial Vehicle", 
-                                                                             "Two-Axle Heavy Commercial Vehicle", 
+                                                                             "Two-Axle Heavy Commercial Vehicle",
+                                                                             "Two_Axle Heavy Commercial Vehicle",
                                                                              "Multi-Axle Heavy Commercial Vehicle", 
                                                                              "Intermediate Commercial Vehicle",
                                                                              "Two-Axle Medium Commercial Vehicle",
@@ -360,7 +368,7 @@ view_19 <-
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("PED"))]<-"Pedestrian"
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("TWW"))]<-"MTW"
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("TSR", "GMS"))]<-"M3W"       # GMS - gramin seva vehicle taken as auto-rickshaw
-view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("CAR"))]<-"Car"
+view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("CAR","TAX","TNG"))]<-"Car"
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("CYC"))]<-"Bicycle"
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("TMP", "HTV", "TRC", "MBS", "DLV", "TNK", "TRL/CON"))]<-"Truck/Tractor"
 view_19$VICTIMS_DP[which(view_19$VICTIMS_DP %in% c("CYR", "AMB", "ERC", "HDC" ))]<-"Other"
