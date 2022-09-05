@@ -393,11 +393,11 @@ crash_id_harmonized <- 21*10000
 
 for (i in 1:nrow(victim_f_21)){
   
-  #### 21.1 Victim ID ####--------------------------------------------------------
+  #### 1. Victim ID ####--------------------------------------------------------
   
   victim_19_21$Victim_ID[n_row_start+i] <- victim_f_21$Victim_ID[i]
   
-  #### 21.2 Crash ID ####--------------------------------------------------
+  #### 2. Crash ID ####--------------------------------------------------
   
   
   if (i>1 & victim_f_21$Crash_ID_new.x[i] %in% victim_f_21$Crash_ID_new.x[1:i-1]){
@@ -409,7 +409,7 @@ for (i in 1:nrow(victim_f_21)){
   }
   
   
-  #### 21.3 Age ####------------------------------------------------------------
+  #### 3. Age ####------------------------------------------------------------
   
   victim_19_21$Age[n_row_start+i] <- victim_f_21$Text44[i]
   
@@ -424,11 +424,11 @@ for (i in 1:nrow(victim_f_21)){
     victim_19_21$Age[n_row_start+i]= NA
   }
   
-  #### 19.4 Sex ####------------------------------------------------------------
+  #### 4. Sex ####------------------------------------------------------------
   
   victim_19_21$Sex[n_row_start+i] <- victim_f_21$Sex[i]
   
-  #### 19.5 Injury category always death ####-----------------------------------
+  #### 5. Injury category always death ####-----------------------------------
   
   victim_19_21$Injury_category[n_row_start+i] <- "Death" #victim_f_21$Injury_Category[i]
   
