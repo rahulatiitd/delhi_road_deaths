@@ -327,12 +327,17 @@ victim_19$FIR_No <- as.double(victim_19$FIR_No)
 # Date in required format
 month_short <- substr(month.name,1,3)
 
+
 for(i in 1:nrow(victim_19)){
-  victim_19$Date_Of_Crash[i] <- paste0(substr(victim_19$Date_Of_Crash[i],1,2),
-                                       "-",
-                                       month_short[as.numeric(substr(victim_19$Date_Of_Crash[i], 4,5))],
-                                       "-",
-                                       "19")
+  
+  if ((!is.na(victim_19$Date_Of_Crash[i])) & (nchar(victim_19$Date_Of_Crash[i])==10)){
+  
+    victim_19$Date_Of_Crash[i] <- paste0(substr(victim_19$Date_Of_Crash[i],1,2),
+                                          "-",
+                                          month_short[as.numeric(substr(victim_19$Date_Of_Crash[i], 4,5))],
+                                          "-",
+                                          "19")
+  }
 }
 
 
