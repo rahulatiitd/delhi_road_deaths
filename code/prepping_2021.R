@@ -1,5 +1,5 @@
 ################################################################################
-# Reading in data
+#### Reading in data ####
 ################################################################################
 
 crash1 <- read.csv("data/2021/1_Crash_Table_1.csv")
@@ -53,7 +53,7 @@ victim4 <- read.csv("data/2021/3_Victim_Table_4.csv")
 pstation <- read.csv("data/2021/PS_lookup_181.csv")
 
 ################################################################################
-# Assigning crash_ID to vehicle and victim files
+#### Assigning crash_ID to vehicle and victim files ####
 ################################################################################
 
 crash1$Crash_ID_new<- paste0(crash1$Crash_ID, crash1$FIR_No, crash1$PS_Name)
@@ -87,7 +87,7 @@ rm(victim1, victim2, victim3, victim4)
 crash_21$FIR_No <- substr(crash_21$FIR_No, 1, 4)
 
 ################################################################################
-# Removing the entries without crash ID
+#### Removing the entries without crash ID ####
 ################################################################################
 
 x <- unique( vehicle_21$Vehicle_ID[ which(is.na(vehicle_21$Crash_ID)) ])
@@ -95,7 +95,7 @@ x <- unique( vehicle_21$Vehicle_ID[ which(is.na(vehicle_21$Crash_ID)) ])
 victim_21 <- victim_21[-c(which(victim_21$Vehicle_ID %in% x)),]
 
 ################################################################################
-# Reassigning Victim IDs to be unique
+#### Reassigning Victim IDs to be unique ####
 ################################################################################
 
 for (i in 1:nrow(victim_21)){
@@ -111,13 +111,13 @@ for (i in 1:nrow(victim_21)){
 crash_21 <- crash_21 %>% select(where(~!all(is.na(.))))
 
 ################################################################################
-# Joining crash file with police station look up file for district, state and police station names
+#### Joining crash file with police station look up file for district, state and police station names ####
 ################################################################################
 
 crash_21<- crash_21 %>% left_join(pstation, by="PS_Name")
 
 ################################################################################
-# Adding crash details to vehicle file
+#### Adding crash details to vehicle file ####
 ################################################################################
 
 vehicle_21 <- vehicle_21 %>% left_join(crash_21, by="Crash_ID_new")
@@ -125,7 +125,7 @@ vehicle_21 <- vehicle_21 %>% left_join(crash_21, by="Crash_ID_new")
 vehicle_21$Vehicle_ID_new<- paste0(vehicle_21$Crash_ID_new,vehicle_21$Vehicle_ID)
 
 ################################################################################
-# Adding crash details to victim file
+#### Adding crash details to victim file ####
 ################################################################################
 
 
@@ -141,10 +141,11 @@ victim_21$Impacting_VehOrObject[ which ( victim_21$Road_User=="Pedestrian" &
                                     victim_21$Impacting_VehOrObject=="Pedestrian")]
 
 victim_21$Vehicle_Type[which(victim_21$Road_User=="Pedestrian" )]<- "Pedestrian"
+victim_21$Vehicle_Type[which(victim_21$Road_User=="Disembarked Vehicle Occupant")]<- "Pedestrian"
 
 
 ################################################################################
-## adding in geocodes from crash file with geocodes
+#### adding in geocodes from crash file with geocodes ####
 ################################################################################
 
 # (this is being done because of a glitch which caused all the geocordinate 
@@ -245,7 +246,7 @@ crash_21 <- crash_21 %>% left_join(crash_gps_21, by=c("FIR_No","PS_Name"))
 
 
 ################################################################################
-# Simplifying/replacing values
+#### Simplifying/replacing values ####
 ################################################################################
 
 ##simplifying vehicle type names and Impacting Vehicle or Object type names:
@@ -253,7 +254,7 @@ crash_21 <- crash_21 %>% left_join(crash_gps_21, by=c("FIR_No","PS_Name"))
 
 victim_21$Victim_Vehicle_Type <- victim_21$Vehicle_Type
 
-##simplifying vicim vehicle type names
+##simplifying victim vehicle type names
 
 victim_21$Victim_Vehicle_Type [
   which(victim_21$Vehicle_Type %in% c("Articulated Vehicle, Tractor Trailor",
@@ -262,7 +263,8 @@ victim_21$Victim_Vehicle_Type [
                                       "Multi-Axle Heavy Commercial Vehicle", 
                                       "Intermediate Commercial Vehicle",
                                       "Two-Axle Medium Commercial Vehicle", 
-                                      "Two_Axle Heavy Commercial Vehicle"
+                                      "Two_Axle Heavy Commercial Vehicle", 
+                                      "Construction Vehicle"
                                       )
         )]<-"Truck/Tractor"
 
@@ -292,11 +294,11 @@ victim_21$Victim_Vehicle_Type[
   which(victim_21$Vehicle_Type %in% c("Bicycle - Manual"))]<-"Bicycle"
 
 victim_21$Victim_Vehicle_Type[
-  which(victim_21$Vehicle_Type %in% c("Ambulance", 
-                                      "Construction Vehicle",
+  which(victim_21$Vehicle_Type %in% c("Ambulance",
                                       "Hand Drawn Vehicle",
                                       "Cycle Rickshaw - Manual", 
-                                      "Animal Drawn Vehicle"
+                                      "Animal Drawn Vehicle",
+                                      "Others"
                                       )
         )]<-"Other"
 
@@ -354,11 +356,12 @@ victim_21$Impacting_VehOrObject[
         )]<-"Fixed object"
 
 victim_21$Impacting_VehOrObject[
-  which(victim_21$Impacting_VehOrObject %in% c("Ambulance", 
-                                               "Construction Vehicle",
+  which(victim_21$Impacting_VehOrObject %in% c("Ambulance",
                                                "Hand Drawn Vehicle",
                                                "Cycle Rickshaw - Manual", 
-                                               "Animal Drawn Vehicle"
+                                               "Animal Drawn Vehicle", 
+                                               "Others", 
+                                               "Cycle Rickshaw"
                                                )
         )]<-"Other"
 
@@ -373,14 +376,11 @@ victim_21$Impacting_VehOrObject[
   which(victim_21$Impacting_VehOrObject %in% c("Mini Bus"))]<-"Bus"
 
 victim_21$Impacting_VehOrObject[
-  which(victim_21$Impacting_VehOrObject %in% c("Ambulance", 
-                                               "Animal Drawn Vehicle",
-                                               "Cycle Rickshaw - Manual", 
-                                               "Others", 
-                                               "Cycle Rickshaw"))]<-"Other"
+  which(victim_21$Impacting_VehOrObject %in% c("Bicycle - Manual"))]<-"Bicycle"
+
 
 ################################################################################
-# Only people who died - 2021
+#### Only people who died - 2021 ####
 ################################################################################
 
 victim_f_21 <- 
@@ -395,4 +395,92 @@ victim_f_21 <- victim_f_21 %>% select(where(~!all(is.na(.))))
 ################################################################################
 # TODO - compare with delhi police data 2021
 ################################################################################
+
+# just making sure there no NA values in FIR no. and police station
+
+victim_21 <- victim_21 %>% drop_na(PS_Name) %>% drop_na(FIR_No)
+
+DP_crash_level_data <- read.csv("data/2021/1206 Fatal crashes 2021 .csv")
+
+# Prepping the delhi police data to compare
+#-------------------------------------------------------------------------------
+
+# changing column names to be able to merge
+colnames(DP_crash_level_data) <- c("SL NO.", "PS_Name", "No_of_crash" ,"FIR_No", "U/S", 
+                                   "Date_Of_Crash_DP", "OFFENDING_VEHICLE_DP",  
+                                   "VICTIMS_DP", "PLACE OF OCCURENCE_DP", 
+                                   "ROAD NAME_DP", "YEAR_DP"  )
+
+# changing police station names to be able to merge 
+DP_crash_level_data$PS_Name <- str_replace_all(DP_crash_level_data$PS_Name, " ", "")
+
+# fixing some compatibility issues
+victim_21$FIR_No <- as.double(victim_21$FIR_No)
+
+# joining the data
+victim_21 <- victim_21 %>% left_join(DP_crash_level_data, by=c("FIR_No", "PS_Name") )
+
+# selecting necessary columns to view and compare
+view_21 <- 
+  victim_21 %>% 
+  filter(Injury_Category %in% c("Fatal Injury with Offsite Death",
+                                "Fatal Injury with Onsite Death")) %>% 
+  select(Crash_ID, Entry_Personnel, 
+         Victim_ID, FIR_No, PS_Name, Date_Of_Crash, 
+         Victim_Vehicle_Type, VICTIMS_DP, 
+         Impacting_VehOrObject, `OFFENDING_VEHICLE_DP`,
+         Note)
+
+# Harmonizing the columns so that the vehicle categories can be compared 
+
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("PED"))]<-"Pedestrian"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("TWW"))]<-"MTW"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("TSR", "GMS"))]<-"M3W"       # GMS - gramin seva vehicle taken as auto-rickshaw
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("CAR"))]<-"Car"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("CYC"))]<-"Bicycle"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("TMP", "HTV", "TRC", "MBS", "DLV", "TNK", "TRL/CON"))]<-"Truck/Tractor"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("CYR", "AMB", "ERC", "HDC" ))]<-"Other"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("DTC", "PAS"))]<-"Bus"
+
+view_21$`OFFENDING_VEHICLE_DP`[which(view_21$`OFFENDING_VEHICLE_DP` %in% c("AMBULNC", "CRANE", "ERCAW"))] <- "Other"
+view_21$`OFFENDING_VEHICLE_DP`[which(view_21$`OFFENDING_VEHICLE_DP` %in% c("BUS O S", "DTC BUS", "BUS OTR", "CTR BUS", 
+                                                                           "MIN.BUS", "BUS SCL"))] <- "Bus"
+view_21$`OFFENDING_VEHICLE_DP`[which(view_21$`OFFENDING_VEHICLE_DP` %in% c("TEMPO", "HTV/GDS", "TRACTOR", "DELIVRY", 
+                                                                           "TANKER", "Tractor with Trailer","TRL/CON"
+))] <- "Truck/Tractor"
+view_21$`OFFENDING_VEHICLE_DP`[which(view_21$`OFFENDING_VEHICLE_DP` %in% c("UNKNOWN"))] <- "Unknown"
+view_21$`OFFENDING_VEHICLE_DP`[which(view_21$`OFFENDING_VEHICLE_DP` %in% c("S/C&M/C"))] <- "MTW"
+view_21$`OFFENDING_VEHICLE_DP`[which(view_21$`OFFENDING_VEHICLE_DP` %in% c("PVT CAR", "TAXI"))] <- "Car"
+view_21$`OFFENDING_VEHICLE_DP`[which(view_21$`OFFENDING_VEHICLE_DP` %in% c("GRM.SEW", "TSR"))] <- "M3W"
+
+# 
+view_21[which(view_21$Victim_Vehicle_Type==view_21$OFFENDING_VEHICLE_DP & 
+                view_21$VICTIMS_DP==view_21$Impacting_VehOrObject), 
+        c("Victim_Vehicle_Type", "Impacting_VehOrObject")] <- 
+  rev(view_21[which(view_21$Victim_Vehicle_Type==view_21$OFFENDING_VEHICLE_DP & 
+                      view_21$VICTIMS_DP==view_21$Impacting_VehOrObject),
+              c("Victim_Vehicle_Type", "Impacting_VehOrObject")])
+
+# finding the non-matching rows
+
+diff_victims_vehs <- 
+  view_21[
+    which(
+      (view_21$Victim_Vehicle_Type != view_21$VICTIMS_DP) | 
+        (view_21$Impacting_VehOrObject != view_21$OFFENDING_VEHICLE_DP)
+    ),
+  ]
+
+diff_victims_vehs <- diff_victims_vehs %>% filter(VICTIMS_DP!="SLF")
+
+
+
+
+
+
+
+
+
+
+
 
