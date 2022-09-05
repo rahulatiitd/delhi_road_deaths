@@ -22,7 +22,7 @@ source("code/prepping_2020.R")
 
 source("code/prepping_2021.R")
 
-# source("code/harmonizing_19_20_21.R")
+source("code/harmonizing_19_20_21.R")
 
 # source("code/imputation_19_20_21.R")
 
