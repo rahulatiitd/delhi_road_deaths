@@ -406,7 +406,7 @@ diff_victims_vehs <-
 diff_victims_vehs <- diff_victims_vehs %>% filter(VICTIMS_DP!="SLF")
 
 # removing victim id (which we defined above, avoid confusion) and DP data
-write_csv(diff_victims_vehs[,c(1,2,4,5,6,7,9,11)], "data/2019_doubtful_vehicle_type.csv")
+write_csv(diff_victims_vehs[,c(1,2,4,5,6,7,8,9,10,11)], "data/2019_doubtful_vehicle_type.csv")
 
 # FIRs not entered into data acc to Delhi Police dataset
 #-------------------------------------------------------------------------------

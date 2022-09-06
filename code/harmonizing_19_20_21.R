@@ -91,9 +91,7 @@ for (i in 1:nrow(victim_f_19)){
   victim_19_21$Minutes_of_crash[i] <- as.numeric(substr(victim_f_19$Time_Of_Crash[i], 4,5))
   }
   
-  
-  
-  
+ 
   #### 8. Road user type ####
   
   victim_19_21$Road_user_type[i] <- victim_f_19$Road_User[i]
@@ -242,10 +240,22 @@ for (i in 1:nrow(victim_20)){
   #### 8. Road user type ####
   victim_19_21$Road_user_type[n_row_start+i] <- victim_20$Road.user.type..killed.1.[i]
   
+  if (!is.na(victim_20$Road.user.type..killed.1.[i])){
   
-  if (victim_20$Victim_user_type[i]=="Cyclists"){
-    victim_19_21$Road_user_type[n_row_start+i] <- "Cyclist"
+  if (victim_20$Road.user.type..killed.1.[i] == "Cyclist"){
+    victim_19_21$Road_user_type[n_row_start+i] <- "Driver"
   }
+  
+  if (victim_20$Road.user.type..killed.1.[i] == "Disembarked Vehicle Occupant"){
+    victim_19_21$Road_user_type[n_row_start+i] <- "Pedestrian"
+  }
+  
+  if (victim_20$Road.user.type..killed.1.[i] == "Non-Road User Pedestrian"){
+    victim_19_21$Road_user_type[n_row_start+i] <- "Pedestrian"
+  }
+  
+  }
+  
   
   #### 9. Victim vehicle type ####
   victim_19_21$Victim_vehicle_type[n_row_start+i] <- victim_20$Victim_user_type[i]
@@ -471,9 +481,6 @@ for (i in 1:nrow(victim_f_21)){
   }
   
   
-  
-  
-  
   #### 8. Road user type ####---------------------------------------------------
   
   victim_19_21$Road_user_type[n_row_start+i] <- victim_f_21$Road_User[i]
@@ -535,6 +542,20 @@ for (i in 1:nrow(victim_f_21)){
   
   victim_19_21$Longitude[n_row_start+i] <- victim_f_21$Longitude [i]
   
+}
+
+
+## removing absurd values of time of crash
+
+for (i in 1:nrow(victim_19_21)){
+
+if (!is.na(victim_19_21$Time_Of_Crash[i])){
+  
+  if (victim_19_21$Time_Of_Crash[i] == ":" | victim_19_21$Time_Of_Crash[i] == "NA:NA"){
+    victim_19_21$Time_of_Crash[i] = NA
+  }
+}
+
 }
 
 #### Write file ####

@@ -135,13 +135,16 @@ victim_21$Vehicle_ID_new<- paste0(victim_21$Crash_ID_new,victim_21$Vehicle_ID)
 
 victim_21 <- victim_21 %>% left_join(vehicle_21, by="Vehicle_ID_new")
 
-victim_21$Impacting_VehOrObject[ which ( victim_21$Road_User=="Pedestrian" & 
-                                           victim_21$Impacting_VehOrObject=="Pedestrian") ]<- 
-  victim_21$Vehicle_Type[ which ( victim_21$Road_User=="Pedestrian" & 
-                                    victim_21$Impacting_VehOrObject=="Pedestrian")]
+victim_21$Road_User[which(victim_21$Road_User=="Disembarked Vehicle Occupant")]<- "Pedestrian"
 
-victim_21$Vehicle_Type[which(victim_21$Road_User=="Pedestrian" )]<- "Pedestrian"
-victim_21$Vehicle_Type[which(victim_21$Road_User=="Disembarked Vehicle Occupant")]<- "Pedestrian"
+victim_21[which(victim_21$Road_User=="Pedestrian" & 
+                  victim_21$Impacting_VehOrObject=="Pedestrian"), 
+          c("Vehicle_Type", "Impacting_VehOrObject")] <- 
+  rev(victim_21[which(victim_21$Road_User=="Pedestrian" & 
+                        victim_21$Impacting_VehOrObject=="Pedestrian"),
+                c("Vehicle_Type", "Impacting_VehOrObject")])
+
+victim_21$Vehicle_Type[which(victim_21$Road_User=="Pedestrian")]<- "Pedestrian"
 
 
 ################################################################################
@@ -417,6 +420,9 @@ DP_crash_level_data$PS_Name <- str_replace_all(DP_crash_level_data$PS_Name, " ",
 # fixing some compatibility issues
 victim_21$FIR_No <- as.double(victim_21$FIR_No)
 
+#removing the NA column which is not letting the left_join happen
+DP_crash_level_data <- select(DP_crash_level_data, -c(12))
+
 # joining the data
 victim_21 <- victim_21 %>% left_join(DP_crash_level_data, by=c("FIR_No", "PS_Name") )
 
@@ -433,14 +439,17 @@ view_21 <-
 
 # Harmonizing the columns so that the vehicle categories can be compared 
 
-view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("PED"))]<-"Pedestrian"
-view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("TWW"))]<-"MTW"
-view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("TSR", "GMS"))]<-"M3W"       # GMS - gramin seva vehicle taken as auto-rickshaw
-view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("CAR"))]<-"Car"
-view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("CYC"))]<-"Bicycle"
-view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("TMP", "HTV", "TRC", "MBS", "DLV", "TNK", "TRL/CON"))]<-"Truck/Tractor"
-view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("CYR", "AMB", "ERC", "HDC" ))]<-"Other"
-view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("DTC", "PAS"))]<-"Bus"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("PED","PEDSTRN"))]<-"Pedestrian"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("TWW","S/C&M/C"))]<-"MTW"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("TSR", "GMS","GRM.SEW"))]<-"M3W"       # GMS - gramin seva vehicle taken as auto-rickshaw
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("CAR","PVT CAR","TAXI"))]<-"Car"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("CYC","CYCLE"))]<-"Bicycle"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("TMP", "HTV", "TRC", "MBS", 
+                                                   "DLV", "TNK", "TRL/CON","TEMPO",
+                                                   "HTV/GDS","TANKER","DELIVRY"))]<-"Truck/Tractor"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("CYR", "AMB", "ERC", "HDC","C.RICKW",
+                                                   "HANDCRT","ERCAW","CRANE"))]<-"Other"
+view_21$VICTIMS_DP[which(view_21$VICTIMS_DP %in% c("DTC", "PAS","PASSNGR"))]<-"Bus"
 
 view_21$`OFFENDING_VEHICLE_DP`[which(view_21$`OFFENDING_VEHICLE_DP` %in% c("AMBULNC", "CRANE", "ERCAW"))] <- "Other"
 view_21$`OFFENDING_VEHICLE_DP`[which(view_21$`OFFENDING_VEHICLE_DP` %in% c("BUS O S", "DTC BUS", "BUS OTR", "CTR BUS", 
@@ -471,8 +480,15 @@ diff_victims_vehs <-
     ),
   ]
 
-diff_victims_vehs <- diff_victims_vehs %>% filter(VICTIMS_DP!="SLF")
+diff_victims_vehs <- diff_victims_vehs %>% filter(VICTIMS_DP!="SELF")
 
+write_csv(diff_victims_vehs[,c(1,2,4,5,6,7,8,9,10,11)], "data/2021_doubtful_vehicle_type.csv")
+
+# FIRs not entered into data acc to Delhi Police dataset
+#-------------------------------------------------------------------------------
+missing_firs <- anti_join( DP_crash_level_data, victim_21, by=c("FIR_No", "PS_Name"))
+
+write_csv(missing_firs[,c(2,4,5,6)], "data/missing_FIRs_2021.csv")
 
 
 
