@@ -5,7 +5,7 @@
 # crash_20 <- read_xlsx('data/2020/FIR Fatal crash data 2020.xlsx',sheet ="Sheet1")
 
 # changing to csv file in excel fixed some formatting issues
-crash_20 <- read.csv("data/2020/FIR Fatal crash data 2020.csv")
+crash_20 <- read.csv("data/2020/Fatal crash data 2020_corrected.csv")
 
 crash_20 <- crash_20[which(!is.na(crash_20$S..no.)),]
 
@@ -283,7 +283,8 @@ view_20$Responsible.road.user[which(view_20$Responsible.road.user %in% c("tempo-
                                                                              "Truck",
                                                                              "Tractor",
                                                                              "HTV", 
-                                                                             "TMP"
+                                                                             "TMP",
+                                                                             "Heavy vehicles"
                                                                              ))] <- "Truck/Tractor"
 
 view_20$Responsible.road.user[which(view_20$Responsible.road.user %in% c("TSR", 
@@ -343,7 +344,7 @@ diff_victims_vehs <-
     ),
   ]
 
-
+diff_victims_vehs <- diff_victims_vehs %>% filter(VICTIMS_DP!="Self")
 
 write_csv(diff_victims_vehs[,c(2,3,4,5,7)], "data/2020_doubtful_vehicle_type.csv")
 
