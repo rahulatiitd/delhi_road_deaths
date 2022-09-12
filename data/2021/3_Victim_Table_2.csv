@@ -60,27 +60,25 @@ Victim_ID,Crash_ID,Road_User,Age,Sex,Vehicle_ID,Injury_Category,Vehicle_Occupant
 8624,3474,Pedestrian,Age: 16 - 60 Years,Female,5145,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,45
 8625,3475,Pedestrian,Age: 60+,Male,5146,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,82
 8626,3476,Vehicle Driver,Age: 16 - 60 Years,Male,5148,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, DoA",0,,55
-8627,3477,Pedestrian,Age: 16 - 60 Years,Male,5149,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+8627,3477,Disembarked Vehicle Occupant,Age: 16 - 60 Years,Male,5149,Fatal Injury with Offsite Death,Disembarked Vehicle Occupant,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
 8628,3478,Pedestrian,Age: 0 - 15 Years,Female,5150,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Unknown,Not Applicable,"Private Vehicle, DoA",0,,2
 8629,3479,Vehicle Driver,Age: 16 - 60 Years,Male,5151,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,32
-8630,3479,Pedestrian,Age: 16 - 60 Years,Male,5152,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,48
+8630,3479,Vehicle Driver,Age: 16 - 60 Years,Male,5152,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,48
 8631,3480,Vehicle Driver,Age: Unknown,Male,5153,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
 8632,3480,Pedestrian,Age: 16 - 60 Years,Male,5153,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,42
 8633,3481,Vehicle Driver,Age: 16 - 60 Years,Male,5155,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,25
 8634,3482,Pedestrian,Age: 16 - 60 Years,Male,5156,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,54
-8635,3483,Vehicle Driver,,,5158,,,,,,,,0,,35
+8635,3483,Vehicle Driver,Age: 16 - 60 Years,Male,5158,,Driver,Unknown Licence Status,Unknown,Unknown,,,0,,35
 8636,3483,Vehicle Driver,Age: 16 - 60 Years,Male,5158,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Police Vehicle, DoA",0,,35
 8637,3484,Pedestrian,Age: 16 - 60 Years,Female,5159,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
 8638,3485,Vehicle Driver,Age: 16 - 60 Years,Male,5161,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,45
 8639,3486,Vehicle Driver,Age: Unknown,Male,5162,Unknown,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,Unknown,0,,0
 8640,3486,Vehicle Driver,Age: 16 - 60 Years,Male,5163,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,19
 8641,3486,Disembarked Vehicle Occupant,Age: Unknown,Male,5163,Fatal Injury with Onsite Death,Disembarked Vehicle Occupant,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Police Vehicle, DoA",0,,0
-8642,3486,Vehicle Driver,Age: Unknown,Male,5163,Unknown,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,Unknown,0,,0
 8643,3487,Vehicle Driver,Age: 16 - 60 Years,Male,5166,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,55
 8644,3488,Pedestrian,Age: 16 - 60 Years,Male,5167,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,Unknown,Unknown,0,,50
 8645,3489,Vehicle Driver,Age: 16 - 60 Years,Male,5168,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, DoA",0,,56
-8646,3490,Vehicle Driver,Age: Unknown,Male,5169,Unknown,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,Unknown,0,,0
-8647,3490,Pedestrian,Age: 16 - 60 Years,Male,5170,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,46
+8647,3490,Non Road User Vehicle Occupant,Age: 16 - 60 Years,Male,5170,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,46
 8648,3491,Pedestrian,Age: 16 - 60 Years,Female,5171,Fatal Injury with Offsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,58
 8649,3492,Unknown,Age: 16 - 60 Years,Male,5172,Fatal Injury with Offsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,Unknown,0,,35
 8650,3493,Pedestrian,Age: 16 - 60 Years,Male,5173,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,First Aid Administered,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,40
@@ -108,7 +106,7 @@ Victim_ID,Crash_ID,Road_User,Age,Sex,Vehicle_ID,Injury_Category,Vehicle_Occupant
 8672,3510,Vehicle Driver,Age: Unknown,Male,5194,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
 8673,3510,Vehicle Driver,Age: 16 - 60 Years,Male,5195,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,43
 8674,3510,Vehicle Passenger,Age: Unknown,Male,5195,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,0
-8675,3507,Vehicle Passenger,Age: 16 - 60 Years,Female,5195,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Ambulance Evacution, DoA",0,,40
+8675,3510,Vehicle Passenger,Age: 16 - 60 Years,Female,5195,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Ambulance Evacution, DoA",0,,40
 8676,3511,Vehicle Driver,Age: 16 - 60 Years,Male,5197,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, DoA",0,,38
 8677,3511,Vehicle Passenger,Age: 16 - 60 Years,Male,5197,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,54
 8678,3512,Pedestrian,Age: 16 - 60 Years,Male,5198,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Alcohol,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,35
@@ -130,7 +128,6 @@ Victim_ID,Crash_ID,Road_User,Age,Sex,Vehicle_ID,Injury_Category,Vehicle_Occupant
 8694,3527,Pedestrian,Age: Unknown,Female,5219,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
 8695,3527,Vehicle Driver,Age: 16 - 60 Years,Male,5219,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,22
 8696,3528,Vehicle Driver,Age: Unknown,Male,5221,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,0
-8697,3529,Vehicle Driver,Age: Unknown,Male,5222,Unknown,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,Unknown,0,,0
 8698,3529,Vehicle Driver,Age: Unknown,Male,5223,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Alcohol,Not Applicable,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,0
 8699,3530,Vehicle Driver,Age: 16 - 60 Years,Male,5225,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,Unknown,0,,28
 8700,3531,Vehicle Driver,Age: 16 - 60 Years,Male,5227,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, DoA",0,,36
@@ -410,7 +407,6 @@ Victim_ID,Crash_ID,Road_User,Age,Sex,Vehicle_ID,Injury_Category,Vehicle_Occupant
 8975,3723,Vehicle Driver,Age: 16 - 60 Years,Male,5497,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,20
 8976,3723,Vehicle Passenger,Age: 16 - 60 Years,Male,5497,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,21
 8977,3723,Vehicle Passenger,Age: Unknown,Male,5497,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
-8978,3724,Pedestrian,,,5498,,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,,,0,,47
 8979,3724,Vehicle Driver,Age: 16 - 60 Years,Male,5498,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,47
 8980,3725,Vehicle Driver,Age: 16 - 60 Years,Male,5500,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,32
 8981,3724,Pedestrian,Age: 0 - 15 Years,Male,5499,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,No Intoxicants,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,7
@@ -507,7 +503,7 @@ Victim_ID,Crash_ID,Road_User,Age,Sex,Vehicle_ID,Injury_Category,Vehicle_Occupant
 9072,3782,Vehicle Passenger,Age: 16 - 60 Years,Female,5578,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,47
 9073,3782,Vehicle Driver,Age: 16 - 60 Years,Male,5580,Non Fatal Injury without Permanent Damage,Driver,Driver Licence Not Needed,Unknown,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,35
 9074,3783,Pedestrian,Age: Unknown,Male,5581,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Alcohol,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,0
-9075,3784,Vehicle Driver,Age: Unknown,Male,5582,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,0
+9075,3784,Pedestrian,Age: Unknown,Male,5582,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,0
 9076,3785,Vehicle Driver,Age: Unknown,Male,5583,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
 9077,3785,Vehicle Driver,Age: 16 - 60 Years,Male,5584,Fatal Injury with Onsite Death,Not Applicable,Unknown Licence Status,Unknown,Unknown,Unknown,"Ambulance Evacution, DoA",0,,50
 9078,3785,Vehicle Passenger,Age: 16 - 60 Years,Male,5584,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,No Intoxicants,Unknown,Not Applicable,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,22
@@ -601,8 +597,8 @@ Victim_ID,Crash_ID,Road_User,Age,Sex,Vehicle_ID,Injury_Category,Vehicle_Occupant
 9166,3834,Pedestrian,Age: 0 - 15 Years,Male,5651,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,Not Applicable,"Unknown Vehicle, Treated at Trauma Centre",0,,5
 9167,3835,Vehicle Driver,Age: 16 - 60 Years,Male,5652,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Unknown Vehicle, DoA",0,,21
 9168,3835,Vehicle Passenger,Age: 16 - 60 Years,Male,5652,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,23
-9169,3836,Vehicle Driver,Age: 16 - 60 Years,Male,5653,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
-9170,3836,Vehicle Passenger,Age: 16 - 60 Years,Male,5653,Non Fatal Injury without Permanent Damage,Passenger / Pillion Rider,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
+9169,3836,Pedestrian,Age: 16 - 60 Years,Male,5653,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,50
+9170,3836,Pedestrian,Age: 16 - 60 Years,Male,5653,Non Fatal Injury without Permanent Damage,Not Applicable,Driver Licence Not Needed,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,40
 9171,3837,Vehicle Driver,Age: 16 - 60 Years,Male,5654,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,52
 9173,3838,Unknown,Age: Unknown,Male,5656,Fatal Injury with Onsite Death,Unknown,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,0
 9174,3838,Vehicle Driver,Age: 16 - 60 Years,Male,5656,Fatal Injury with Onsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - Death on Spot,0,,32
@@ -834,8 +830,8 @@ Victim_ID,Crash_ID,Road_User,Age,Sex,Vehicle_ID,Injury_Category,Vehicle_Occupant
 9400,3990,Vehicle Driver,Age: Unknown,Female,5846,Non Fatal Injury without Permanent Damage,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Private Vehicle, Treated at Trauma Centre / Hospital",0,,0
 9401,3990,Vehicle Passenger,Age: 0 - 15 Years,Male,5846,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,No Intoxicants,Unknown,Not Applicable,No Treatement - Death on Spot,0,,8
 9402,3990,Vehicle Passenger,Age: 0 - 15 Years,Male,5846,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,No Intoxicants,Unknown,Not Applicable,No Treatement - Death on Spot,0,,2
-9403,3992,Vehicle Passenger,Age: 16 - 60 Years,Male,5848,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,No Intoxicants,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,45
-9404,3992,Vehicle Passenger,Age: 16 - 60 Years,Male,5848,Fatal Injury with Onsite Death,Passenger / Pillion Rider,Driver Licence Not Needed,No Intoxicants,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,46
+9403,3992,Pedestrian,Age: 16 - 60 Years,Male,5848,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,No Intoxicants,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,45
+9404,3992,Pedestrian,Age: 16 - 60 Years,Male,5848,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,No Intoxicants,Not Applicable,Not Applicable,"Unknown Vehicle, DoA",0,,46
 9405,3992,Pedestrian,Age: 16 - 60 Years,Male,5849,Fatal Injury with Offsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,Unknown,"Police Vehicle, Treated at Trauma Centre / Hospital",0,,50
 9406,3993,Vehicle Driver,Age: 16 - 60 Years,Male,5850,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,"Ambulance Evacution, Treated at Trauma Centre/ Hospital",0,,52
 9407,3994,Pedestrian,Age: 16 - 60 Years,Male,5851,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,Not Applicable,"Ambulance Evacution, DoA",0,,50
@@ -903,7 +899,6 @@ Victim_ID,Crash_ID,Road_User,Age,Sex,Vehicle_ID,Injury_Category,Vehicle_Occupant
 9469,4043,Vehicle Driver,Age: 16 - 60 Years,Male,5907,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,50
 9470,4043,Unknown,Age: 16 - 60 Years,Male,5907,Non Fatal Injury without Permanent Damage,Unknown,Unknown Licence Status,Unknown,Unknown,Unknown,"Auto / Taxi, Treated at Trauma Centre / Hospital",0,,40
 9471,4044,Pedestrian,Age: Unknown,Male,5908,Fatal Injury with Onsite Death,Not Applicable,Driver Licence Not Needed,Unknown,Not Applicable,Not Applicable,No Treatement - Death on Spot,0,,0
-9472,4044,Vehicle Driver,Age: Unknown,Male,5909,Unknown,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,Unknown,0,,0
 9473,4045,Vehicle Driver,Age: 16 - 60 Years,Male,5910,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,21
 9474,4046,Vehicle Driver,Age: 16 - 60 Years,Male,5911,Fatal Injury with Offsite Death,Driver,Unknown Licence Status,Unknown,Unknown,Unknown,"Unknown Vehicle, Treated at Trauma Centre",0,,18
 9475,4047,Vehicle Driver,Age: Unknown,Male,5912,No Injury,Driver,Unknown Licence Status,Unknown,Unknown,Not Applicable,No Treatement - No Major Injury,0,,0
